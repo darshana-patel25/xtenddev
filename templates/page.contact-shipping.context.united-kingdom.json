@@ -1,0 +1,17 @@
+{
+  "parent": "page.contact-shipping.json",
+  "context": {
+    "market": "united-kingdom"
+  },
+  "sections": {
+    "0cf274b6-206b-4d57-87f2-edd20f991297": {
+      "blocks": {
+        "1c4ff03f-e650-4a63-9866-0455128d5df8": {
+          "settings": {
+            "subtitle": "<p><strong>UK Phone Toll Free 0800 520 0311<\/strong><\/p><p><strong>Global Phone (64)3 3842116<\/strong><\/p><p><a href=\"mailto:customer.service@xtend-life.com\" title=\"mailto:customer.service@xtend-life.com\"><strong>customer.service@xtend-life.com<\/strong><\/a><\/p>"
+          }
+        }
+      }
+    }
+  }
+}

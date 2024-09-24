@@ -1,0 +1,140 @@
+<link rel="preload" href="{{ 'newsletter.css' | asset_url }}" as="style">
+<link rel="stylesheet" href="{{ 'newsletter.css' | asset_url }}">
+<div class="section">
+  {% if section.settings.title != blank %}
+  <div class="quote_section-header text-center">
+    <div>{{ section.settings.title }}</div>
+  </div>
+  {% endif %}
+    
+    <section class="newsletter">
+                  <style>
+            {% if section.settings.background_img != blank  %}
+              .newsletter_area{
+                background-image: url({{ section.settings.background_img | img_url:"master" }});
+                background-size: cover;
+              }
+              .newsletter_area::before {
+                background-image: url({{ section.settings.background_img | img_url:"master" }});
+                background-size: cover;
+                background-position: center center;
+                }
+              {% else %}
+               .newsletter_area{
+                background: {{ section.settings.background_color }};
+               }
+              .newsletter_area::before, .newsletter_area::after{
+                background-color: {{ section.settings.background_color }};
+              }
+              {% endif %}
+                  
+              </style>
+
+           <div class="newsletter_area col-md-12"> 
+           <div class="newsletter_flower col-xs-12 col-md-2">
+             <img src="{{ 'newletter_flower.png' | file_img_url: 'original' }}">
+           </div>
+             <div class="newsletter_content col-xs-12 col-md-6">
+              {% if section.settings.newsletter_title != blank %}
+                <p class="footer__heading">
+                  {{ section.settings.newsletter_title }}
+                </p>
+              {% endif %}
+
+              {% if section.settings.newsletter_richtext != blank %}
+                <div class="content">
+                  {{ section.settings.newsletter_richtext }}
+                </div>
+              {% endif %}
+              </div>
+            {% if section.settings.display_klaviyoform %}
+              <div class="newsletter-form__wrapper col-xs-12 col-md-4">
+              {{ section.settings.code_klaviyoform }}
+              </div>
+              {% else %}
+              {% render 'newsletter-form',
+                      type: 'section',
+                      display_first_name: section.settings.display_first_name,
+                      display_last_name: section.settings.display_last_name
+              %}
+              {% endif %}
+           </div>
+    </section>
+  </div>
+
+  <script type="text/javascript" src="//www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
+  <script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(event) {
+    // Your code to run since DOM is loaded and ready
+    var ss = document.createElement("script");
+    ss.src = "//www.klaviyo.com/media/js/public/klaviyo_subscribe.js";
+    ss.type = "text/javascript";
+    document.getElementsByTagName("head")[0].appendChild(ss);
+  }); 
+
+  setTimeout(function () {
+   KlaviyoSubscribe.attachToForms('#email_signup', {
+     hide_form_on_success: true,
+     custom_success_message: true,
+     extra_properties: {
+       $source: '{{ handle }}'
+     }
+   });
+  }, 2000);
+  </script>
+  {% schema %}
+  {
+    "name": "Newsletter",
+    "class": "home-newsletter",
+    "settings": [
+     {
+          "type": "text",
+          "id": "newsletter_title",
+          "label": "Heading",
+          "default": "Subscribe"
+        },
+        {
+          "type": "richtext",
+          "id": "newsletter_richtext",
+          "label": "Text",
+          "default": "<p>Sign up to get the latest on sales, new releases and more …</p>"
+        },
+        {
+          "type": "image_picker",
+          "id": "background_img",
+          "label": "Background Image"
+        },
+         {
+          "type": "color",
+          "id": "background_color",
+          "label": "Background Color"
+        },
+        {
+          "type": "checkbox",
+          "id": "display_klaviyoform",
+          "label": "Enable Klaviyo form"
+        },
+        {
+          "type": "html",
+          "id": "code_klaviyoform",
+          "label": "Klaviyo form code"
+        },
+        {
+          "type": "checkbox",
+          "id": "display_first_name",
+          "label": "Show first name"
+        },
+        {
+          "type": "checkbox",
+          "id": "display_last_name",
+          "label": "Show last name"
+        }
+    ],
+    "presets": [
+      {
+        "category": "Components",
+        "name": "Newsletter"
+      }
+    ]
+  }
+  {% endschema %}

@@ -1,0 +1,578 @@
+{
+  "sections": {
+    "sidebar": {
+      "type": "product__sidebar",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "product__main",
+      "blocks": {
+        "klaviyo_reviews_average_rating_4jgrgD": {
+          "type": "shopify:\/\/apps\/klaviyo-reviews\/blocks\/average-rating\/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1ba8c0cc-bc5e-424a-b473-2ec348788085": {
+          "type": "option-text",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true,
+            "loyalty_program_check": false,
+            "loyalty_program": ""
+          }
+        },
+        "b03194a6-81c8-4097-8558-c32114928a46": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p><\/p><p>{{ product.metafields.custom.drtalks | metafield_tag }}<\/p>"
+          }
+        },
+        "90b8a2e4-5faa-46cc-a3f3-608447d09aea": {
+          "type": "product-summary",
+          "settings": {
+            "learn_more": ""
+          }
+        },
+        "18932f54-ea48-497d-a9b1-b381369eda84": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": false
+          }
+        },
+        "3c15b615-fdc6-42fb-b909-6bab935f3440": {
+          "type": "shipping-bar",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/free-shipping-icon.png",
+            "text": "<p>Free U.S. shipping on orders over $125<\/p>"
+          }
+        },
+        "94a53e3b-04ac-4383-85b0-56deaf3e9c80": {
+          "type": "certifications",
+          "disabled": true,
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/365-Day-Guarantee-FA.png",
+            "link_1": "shopify:\/\/pages\/no-risk-guarantee",
+            "image_2": "shopify:\/\/shop_images\/FDA-160x60pix.png",
+            "image_3": "shopify:\/\/shop_images\/GMP-60x60pix.png",
+            "image_4": "shopify:\/\/shop_images\/NZ-57x60pix.png"
+          }
+        },
+        "5ab18c42-7c30-4f76-8f68-d7c1b8eec2f7": {
+          "type": "key-points",
+          "settings": {
+            "title": "{{ product.metafields.custom.ket_benefits_title.value }}",
+            "image": "{{ product.metafields.custom.key_benefits_image_1.value }}",
+            "text": "{{ product.metafields.custom.multivalue | metafield_text }}",
+            "image_1": "{{ product.metafields.custom.key_benefits_image_2.value }}",
+            "text_1": "{{ product.metafields.custom.key_benefits_value_2.value }}",
+            "image_2": "{{ product.metafields.custom.key_benefits_image_3.value }}",
+            "text_2": "{{ product.metafields.custom.key_benefits_value_3.value }}"
+          }
+        },
+        "b1f3beca-4eed-4a97-a616-0aed3a356400": {
+          "type": "description",
+          "settings": {
+            "tab_label_1": "Description",
+            "tab_label_2": "Directions",
+            "tab_label_3": "Ingredients & Nutritional Information",
+            "tab_label_4": "",
+            "tab_label_5": ""
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_reviews_average_rating_4jgrgD",
+        "title",
+        "1ba8c0cc-bc5e-424a-b473-2ec348788085",
+        "price",
+        "b03194a6-81c8-4097-8558-c32114928a46",
+        "90b8a2e4-5faa-46cc-a3f3-608447d09aea",
+        "18932f54-ea48-497d-a9b1-b381369eda84",
+        "form",
+        "3c15b615-fdc6-42fb-b909-6bab935f3440",
+        "94a53e3b-04ac-4383-85b0-56deaf3e9c80",
+        "5ab18c42-7c30-4f76-8f68-d7c1b8eec2f7",
+        "b1f3beca-4eed-4a97-a616-0aed3a356400"
+      ],
+      "settings": {
+        "product_images_position": "left",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "gallery_arrows": false,
+        "enable_zoom": false,
+        "enable_product_lightbox": true,
+        "slideshow_speed": 0,
+        "slideshow_transition": "slide",
+        "display_thumbnails": true,
+        "thumbnail_position": "left-thumbnails",
+        "enable_thumbnail_slider": true,
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "34537e5d-208a-4f90-9262-7c1fba35360f": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "tabs": {
+      "type": "product__tabs",
+      "disabled": true,
+      "settings": {
+        "tab_label_1": "Description",
+        "tab_label_2": "Directions",
+        "tab_label_3": "Ingredients & Nutritional Information",
+        "tab_label_4": "FAQ",
+        "tab_label_5": "Customer Reviews"
+      }
+    },
+    "recommendations": {
+      "type": "product__recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per": 3,
+        "recommended_products_limit": 6,
+        "align_height": false,
+        "collection_height": 200,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "pdp_reviewcallout_nphQJk": {
+      "type": "pdp-reviewcallout",
+      "custom_css": [
+        "@media (max-width: 768px) {.rating {width: 100%; } .review-text {margin-left: 10px; }}"
+      ],
+      "settings": {
+        "review_callout": "{{ product.metafields.custom.review_callout | metafield_tag }}"
+      }
+    },
+    "pdp_keyfeature_HaBKgT": {
+      "type": "pdp-keyfeature",
+      "blocks": {
+        "image_4RWANf": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.key_feature_image_1.value }}",
+            "title": "{{ product.metafields.custom.key_feature_heading_1.value }}",
+            "description": "<p>{{ product.metafields.custom.key_feature_content_1 | metafield_tag }}<\/p>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_pynUQF": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.key_feature_image_2.value }}",
+            "title": "{{ product.metafields.custom.key_feature_heading_2.value }}",
+            "description": "<p>{{ product.metafields.custom.key_feature_content_2 | metafield_tag }}<\/p>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_haCFzA": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.key_feature_image_3.value }}",
+            "title": "{{ product.metafields.custom.key_feature_heading_3.value }}",
+            "description": "<p>{{ product.metafields.custom.key_feature_content_3 | metafield_tag }}<\/p>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_rHBwJb": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.key_feature_image_4.value }}",
+            "title": "{{ product.metafields.custom.key_feature_heading_4.value }}",
+            "description": "<p>{{ product.metafields.custom.key_feature_content_4 | metafield_tag }}<\/p>",
+            "linktitle": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_4RWANf",
+        "image_pynUQF",
+        "image_haCFzA",
+        "image_rHBwJb"
+      ],
+      "custom_css": [
+        ".flex.info-grid-inner {padding-left: 10px;}",
+        ".max-width-container h2 {padding-left: 8px;}",
+        "@media only screen and (max-width: 767px) {.ingredient-card__excerpt {margin: 0px 20px; } .info-grid-img {margin-right: 0px; } .info-grid-content {padding: 15px 10px; } .flex.info-grid-inner {padding-right: 12px; }}"
+      ],
+      "settings": {
+        "title": "{{ product.metafields.custom.key_feature_heading.value }}",
+        "description": "<p>{{ product.metafields.custom.key_feature_content | metafield_tag }}<\/p>"
+      }
+    },
+    "index_image_with_text_3BwmQG": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "image_tFmw4L": {
+          "type": "image",
+          "settings": {
+            "image": "{{ product.metafields.custom.key_highlight_image.value }}",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "text_bTXWYe": {
+          "type": "text",
+          "settings": {
+            "title": "{{ product.metafields.custom.key_highlight_title.value }}",
+            "heading_size": "regular",
+            "text": "<p>{{ product.metafields.custom.key_highlight_content | metafield_tag }}<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_tFmw4L",
+        "text_bTXWYe"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 320px) and (max-width: 767px) {.mob-removeLeft {padding: 0px; }}",
+        ".alter_imgtext img {border-radius: 30px;}"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 30,
+        "padding_bottom": 30,
+        "animation": "none",
+        "css_class": "alter_imgtext",
+        "custom_css": ""
+      }
+    },
+    "pdp_keyingredient_xmR3fV": {
+      "type": "pdp-keyingredient",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "key_ingredient": "Unique Key Ingredients"
+      }
+    },
+    "index_slideshow_with_text_GTbjNC": {
+      "type": "index__slideshow-with-text",
+      "blocks": {
+        "image_KQEFPn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gg_video.png",
+            "video_id": "{{ product.metafields.custom.education_video_link.value }}",
+            "pretext": "<p>{{ product.metafields.custom.education_preheading.value }}<\/p>",
+            "title": "{{ product.metafields.custom.education_heading.value }}",
+            "text": "<p>{{ product.metafields.custom.education_content | metafield_tag }}<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "buttonm_label": "",
+            "buttonm_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_KQEFPn"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".text-slideshow__slide {padding-top: 0;}",
+        "@media only screen and (max-width: 767px) {.text-slideshow__slide {padding: 0px; }}"
+      ],
+      "settings": {
+        "background_color": "#ffffff",
+        "text_color": "#005895",
+        "content_color": "#231f20",
+        "text_alignment": "left",
+        "text_transition": "fadeIn",
+        "button_style": "button--primary",
+        "show_nav_buttons": true,
+        "image_position": "left",
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "video_blog_text_cdAHRx": {
+      "type": "video-blog-text",
+      "custom_css": [
+        ".text-slideshow__slide {padding-top: 0;}",
+        ".image-slideshow-column {margin-left: 0px;}",
+        "@media only screen and (max-width: 767px) {.text-slideshow__slide {padding: 0px; } .width_bind {padding-top: 0px; }}"
+      ],
+      "settings": {
+        "background_color": "#ffffff",
+        "text_color": "#005895",
+        "content_color": "#231f20",
+        "text_alignment": "left",
+        "text_transition": "fadeIn",
+        "button_style": "button--primary",
+        "show_nav_buttons": true,
+        "image_position": "left",
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": "",
+        "image": "{{ product.metafields.custom.education_image.value }}",
+        "video_id": "{{ product.metafields.custom.education_video_link.value }}",
+        "blog_url": "{{ product.metafields.custom.education_blog_url.value }}",
+        "pretext": "<p>{{ product.metafields.custom.education_preheading.value }}<\/p>",
+        "title": "{{ product.metafields.custom.education_heading.value }}",
+        "text": "<p>{{ product.metafields.custom.education_content | metafield_tag }}<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "buttonm_label": "",
+        "buttonm_link": ""
+      }
+    },
+    "ca5f4e17-eabd-4496-8763-1a24e08ea9f9": {
+      "type": "sticky_add-to-cart",
+      "blocks": {
+        "template--14644574683233__ca5f4e17-eabd-4496-8763-1a24e08ea9f9-1681295231e6ff23c2-0": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "def6eb05-f228-46dc-8b82-bd036d9b5b76": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "20c43f43-7d79-4f8c-ac7c-df78aef22e9f": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14644574683233__ca5f4e17-eabd-4496-8763-1a24e08ea9f9-1681295231e6ff23c2-0",
+        "def6eb05-f228-46dc-8b82-bd036d9b5b76",
+        "20c43f43-7d79-4f8c-ac7c-df78aef22e9f"
+      ],
+      "settings": {
+        "top_button": "Top",
+        "background_color": "#005895",
+        "featured_product": "{{ product }}",
+        "product_images_position": "left",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "gallery_arrows": true,
+        "enable_zoom": true,
+        "enable_product_lightbox": true,
+        "slideshow_speed": 0,
+        "slideshow_transition": "slide",
+        "display_thumbnails": true,
+        "thumbnail_position": "bottom-thumbnails",
+        "enable_thumbnail_slider": true,
+        "width": "standard",
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "image_with_text_mfdNp9": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".quote_section-header h2 {margin-bottom: 20px !important; color: #fff; font-size: 40px; text-align: left;}",
+        ".quote_section-header h3 {color: #fff !important; text-align: left;}",
+        ".padd_left_col.content {padding-right: 12% !important;}",
+        ".quote_section-header {padding-left: 8px;}",
+        "@media only screen and (max-width: 991px) {.padd_right_col {padding-top: 20px; padding-left: 0px; } .quote_section-header {padding-left: 0px; } .row.content {padding: 0px 20px; }}"
+      ],
+      "settings": {
+        "bgcolor": "#005895",
+        "bgwidth": "full",
+        "title": "Quality You Can Trust",
+        "sub_title": "Your health deserves the best; we take this to heart. Xtendlife maintains full quality control of our supplement products. All products are manufactured in our FDA-registered and GMP (Good Manufacturing Practice) certified facility. We adhere to strict guidelines, guaranteeing the safety and efficacy of our products at every stage of production.",
+        "content": "",
+        "text_alignment": "left",
+        "text_column_alignment": "left",
+        "text_column_width": "three-fifths",
+        "image": "shopify:\/\/shop_images\/Our-Quality.png"
+      }
+    },
+    "4730c713-e669-4c75-8206-ba8c46edecee": {
+      "type": "product__testimonial",
+      "blocks": {
+        "template--14721356857441__4730c713-e669-4c75-8206-ba8c46edecee-supplements-1": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "",
+            "rating": 5,
+            "author": "",
+            "metafield_cnt": "<p>{{ product.metafields.custom.product_review | metafield_tag }}<\/p>"
+          }
+        },
+        "d83494ce-3eb7-4064-bfb6-e96f66ce6a85": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "",
+            "rating": 5,
+            "author": "",
+            "metafield_cnt": "<p>{{ product.metafields.custom.product_review_2 | metafield_tag }}<\/p>"
+          }
+        },
+        "56b7ad3b-04a7-4803-b406-d61951b1db0d": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "",
+            "rating": 5,
+            "author": "Author's name",
+            "metafield_cnt": "<p>{{ product.metafields.custom.product_review_3 | metafield_tag }}<\/p>"
+          }
+        },
+        "5316387a-1c1d-474e-8e96-74db04d3cb26": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "",
+            "rating": 5,
+            "author": "",
+            "metafield_cnt": "<p>{{ product.metafields.custom.product_review_4 | metafield_tag }}<\/p>"
+          }
+        },
+        "0e4f7bc6-96e4-4101-8524-e5a6b327c295": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "",
+            "rating": 5,
+            "author": "",
+            "metafield_cnt": "<p>{{ product.metafields.custom.product_review_5 | metafield_tag }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14721356857441__4730c713-e669-4c75-8206-ba8c46edecee-supplements-1",
+        "d83494ce-3eb7-4064-bfb6-e96f66ce6a85",
+        "56b7ad3b-04a7-4803-b406-d61951b1db0d",
+        "5316387a-1c1d-474e-8e96-74db04d3cb26",
+        "0e4f7bc6-96e4-4101-8524-e5a6b327c295"
+      ],
+      "disabled": true,
+      "settings": {
+        "background_bg": "",
+        "review_block_bg": "#e8e8e8",
+        "dots_bg": "#00a9d5",
+        "dotsactive_bg": "#005895",
+        "title": "Testimonials",
+        "enable_overlay": false,
+        "author_tick": false,
+        "text_alignment": "center",
+        "heading_color": "#005895",
+        "content_color": "#005895",
+        "author_color": "#231f20"
+      }
+    },
+    "16959669726f7ccd1b": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_reviews_product_reviews_MxCQ6p": {
+          "type": "shopify:\/\/apps\/klaviyo-reviews\/blocks\/product-reviews\/db20e365-d984-4ac4-9655-e1588d951ca9",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_reviews_product_reviews_MxCQ6p"
+      ],
+      "settings": {
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7d63af68-b75a-415c-8cb5-cc03d1e407ce": {
+      "type": "faq",
+      "custom_css": [
+        ".expand__container {padding-left: 8px;}"
+      ],
+      "settings": {
+        "title": "FAQ"
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "34537e5d-208a-4f90-9262-7c1fba35360f",
+    "tabs",
+    "recommendations",
+    "pdp_reviewcallout_nphQJk",
+    "pdp_keyfeature_HaBKgT",
+    "index_image_with_text_3BwmQG",
+    "pdp_keyingredient_xmR3fV",
+    "index_slideshow_with_text_GTbjNC",
+    "video_blog_text_cdAHRx",
+    "ca5f4e17-eabd-4496-8763-1a24e08ea9f9",
+    "image_with_text_mfdNp9",
+    "4730c713-e669-4c75-8206-ba8c46edecee",
+    "16959669726f7ccd1b",
+    "7d63af68-b75a-415c-8cb5-cc03d1e407ce"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "c7606e32-6c6c-468b-8774-c8b6d7601cb5": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14709939929175__c7606e32-6c6c-468b-8774-c8b6d7601cb5-1667477304a81c4127-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "pretext_tag": "",
+            "pretext_custom_html": "",
+            "title": "",
+            "pretext": "",
+            "subtitle": "",
+            "pretag_color": "#1B3281",
+            "pretag_backcolor": "#1B3281",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "35",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_1_color": "#36659c",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--14709939929175__c7606e32-6c6c-468b-8774-c8b6d7601cb5-1667477304a81c4127-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": false,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "ingredient__main",
+      "settings": {
+        "go_back_title": "Go Back to Ingredients",
+        "go_back_url": "shopify:\/\/pages\/ingredients",
+        "products_containing": "Products Containing",
+        "health_articles": "Health Articles",
+        "other_ingredients": "Other Ingredients That May Be Of Interest"
+      }
+    }
+  },
+  "order": [
+    "c7606e32-6c6c-468b-8774-c8b6d7601cb5",
+    "main"
+  ]
+}

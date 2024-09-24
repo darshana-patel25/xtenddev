@@ -1,0 +1,1299 @@
+{
+  "sections": {
+    "0cf274b6-206b-4d57-87f2-edd20f991297": {
+      "type": "page__slideshow-classic",
+      "blocks": {
+        "1c4ff03f-e650-4a63-9866-0455128d5df8": {
+          "type": "image",
+          "settings": {
+            "link": "contact-us",
+            "image": "shopify:\/\/shop_images\/Our-Service.png",
+            "tablet_image": "shopify:\/\/shop_images\/Our-Service-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Our-Service-Mob.png",
+            "pretext": "<p>Old-fashioned service...<\/p>",
+            "title": "Contact us",
+            "subtitle": "<p><strong>USA & Canada Phone Toll Free 1 888 487 9304<\/strong><\/p><p><strong>Global Phone (64)3 3842116<\/strong><\/p><p><a href=\"mailto:customer.service@xtend-life.com\" title=\"mailto:customer.service@xtend-life.com\"><strong>customer.service@xtend-life.com<\/strong><\/a><\/p>",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "41366389-6fe5-4597-8aa7-6b656b4667ac": {
+          "type": "image",
+          "settings": {
+            "link": "shipping",
+            "image": "shopify:\/\/shop_images\/Shipping_8a536c71-5fc6-437b-baa8-80527c84e1c9.png",
+            "tablet_image": "shopify:\/\/shop_images\/Shipping-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Shipping-Mob.png",
+            "pretext": "<p>Bringing you closer<br\/> to a better way...<\/p>",
+            "title": "Shipping",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "84a00da6-7c5e-43f1-a7f4-f372513ee0e8": {
+          "type": "image",
+          "settings": {
+            "link": "newsletter",
+            "image": "shopify:\/\/shop_images\/Newsletter.png",
+            "tablet_image": "shopify:\/\/shop_images\/Newsletter-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Newsletter-Mob.png",
+            "pretext": "",
+            "title": "Newsletter",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "template--14710924247127__0cf274b6-206b-4d57-87f2-edd20f991297-1667566485ffb97661-0": {
+          "type": "image",
+          "settings": {
+            "link": "no-risk-guarantee",
+            "image": "shopify:\/\/shop_images\/Our-Guarantee.png",
+            "tablet_image": "shopify:\/\/shop_images\/Our-Guarantee-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Our-Guarantee-Mob.png",
+            "pretext": "<p>A better way with quality ingredients and products that are true to the label...<\/p>",
+            "title": "Our Guarantee",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "40",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "64ad4b72-82bb-4156-a441-037ff2dcb398": {
+          "type": "image",
+          "settings": {
+            "link": "xtend-life-loyalty-program",
+            "image": "shopify:\/\/shop_images\/Loyalty-Program_bae0f5a9-4c60-4039-9c91-dcaf7959be6e.png",
+            "tablet_image": "shopify:\/\/shop_images\/Loyalty-Program-iPad_3cb344f6-5bdf-46f7-ba58-7cd1cc39e5d9.png",
+            "mobile_image": "shopify:\/\/shop_images\/Loyalty-Program-Mob_29f3513b-3cd8-4302-bca5-c58cf29cfbd6.png",
+            "pretext": "<p>Your health on auto pilot<\/p>",
+            "title": "Xtendlife Loyalty Program",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "image_y4UGth": {
+          "type": "image",
+          "settings": {
+            "link": "subscribe-and-save",
+            "image": "shopify:\/\/shop_images\/Loyalty-Program_bae0f5a9-4c60-4039-9c91-dcaf7959be6e.png",
+            "tablet_image": "shopify:\/\/shop_images\/Loyalty-Program-iPad_3cb344f6-5bdf-46f7-ba58-7cd1cc39e5d9.png",
+            "mobile_image": "shopify:\/\/shop_images\/Loyalty-Program-Mob_29f3513b-3cd8-4302-bca5-c58cf29cfbd6.png",
+            "pretext": "<p>Your health on auto pilot<\/p>",
+            "title": "Subscribe and Save",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "image_mA4zF9": {
+          "type": "image",
+          "settings": {
+            "link": "subscribe-and-save-v2",
+            "image": "shopify:\/\/shop_images\/Loyalty-Program_bae0f5a9-4c60-4039-9c91-dcaf7959be6e.png",
+            "tablet_image": "shopify:\/\/shop_images\/Loyalty-Program-iPad_3cb344f6-5bdf-46f7-ba58-7cd1cc39e5d9.png",
+            "mobile_image": "shopify:\/\/shop_images\/Loyalty-Program-Mob_29f3513b-3cd8-4302-bca5-c58cf29cfbd6.png",
+            "pretext": "<p>Your health on auto pilot<\/p>",
+            "title": "Subscribe and Save 15%",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "8cbb9e3c-39d8-45e0-a8ac-57370d4261c5": {
+          "type": "image",
+          "settings": {
+            "link": "customer-care-team",
+            "pretext": "",
+            "title": "Customer Care Team",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "60",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "6d55400f-c4f8-41e9-b509-50c19da50741": {
+          "type": "image",
+          "settings": {
+            "link": "dermatologically-tested-and-cruelty-free",
+            "pretext": "",
+            "title": "Dermatologically Tested and Cruelty Free Skincare",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "46",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "131fb03a-feec-4029-acb4-bdbc4c630cfc": {
+          "type": "image",
+          "settings": {
+            "link": "elite-supplements",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Elite Supplements",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "f2c7f56a-9013-4be5-b468-e933084f93ba": {
+          "type": "image",
+          "settings": {
+            "link": "enteric-coating",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Enteric Coating",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "3fae305c-623b-4c05-8bfe-8c4c14bee0a7": {
+          "type": "image",
+          "settings": {
+            "link": "founders-message",
+            "image": "shopify:\/\/shop_images\/Warren_Matthews-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Warren_Matthews-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Warren_Matthews-MOB.png",
+            "pretext": "",
+            "title": "Founder's Message",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "42d76571-d97e-4c2f-8383-460b562b11dc": {
+          "type": "image",
+          "settings": {
+            "link": "kane-matthews",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Kane Matthews",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "34267199-c549-422b-84ec-bb81f95126b3": {
+          "type": "image",
+          "settings": {
+            "link": "media-and-press",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Media and Press",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "75218787-c11b-4c30-8917-bd8c06ade984": {
+          "type": "image",
+          "settings": {
+            "link": "our-principles",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Our Principles",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "40dee8e2-3fb4-4d9b-b026-f20283f884a2": {
+          "type": "image",
+          "settings": {
+            "link": "our-quality",
+            "image": "shopify:\/\/shop_images\/Our-Quality-Desk.png",
+            "tablet_image": "shopify:\/\/shop_images\/Our-Quality-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Our-Quality-Mob.png",
+            "pretext": "<p>We never compromise.<\/p>",
+            "title": "Our Quality",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "adbb22d7-2155-4a46-a315-0dc75b5bcf34": {
+          "type": "image",
+          "settings": {
+            "link": "payment-options",
+            "image": "shopify:\/\/shop_images\/Payment-options.png",
+            "tablet_image": "shopify:\/\/shop_images\/Payment-options-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Payment-options-Mob_6c269e02-bba4-4db3-9dc7-bd64affc8362.png",
+            "pretext": "",
+            "title": "Payment Options",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "6f9178bb-accf-4779-88da-467464724c6c": {
+          "type": "image",
+          "settings": {
+            "link": "privacy",
+            "image": "shopify:\/\/shop_images\/Privacy.png",
+            "tablet_image": "shopify:\/\/shop_images\/Privacy-ipad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Privacy-ipad.png",
+            "pretext": "",
+            "title": "Privacy Policy",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "d0f5c386-ae11-4ec8-8efa-023000739d32": {
+          "type": "image",
+          "settings": {
+            "link": "purity-effectiveness",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Purity & Effectiveness",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "6b908540-1543-4a50-813c-61931e156445": {
+          "type": "image",
+          "settings": {
+            "link": "refunds-and-returns",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Refunds and Returns",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "842afa12-e8b7-4683-aa7c-db3aca922e8f": {
+          "type": "image",
+          "settings": {
+            "link": "terms-and-conditions",
+            "image": "shopify:\/\/shop_images\/Terms-_-Conditions.png",
+            "tablet_image": "shopify:\/\/shop_images\/Terms-_-Conditions-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Terms-_-Conditions-Mob.png",
+            "pretext": "",
+            "title": "Terms and Conditions",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        },
+        "08ce3972-5e80-4ec5-ac71-316e1605c8ee": {
+          "type": "image",
+          "settings": {
+            "link": "warren-matthews",
+            "image": "shopify:\/\/shop_images\/Warren_Matthews-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Warren_Matthews-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Warren_Matthews-MOB.png",
+            "pretext": "",
+            "title": "Warren Matthews",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "6a044337-e4aa-4316-81ce-9652e23ac9c5": {
+          "type": "image",
+          "settings": {
+            "link": "website-faqs",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Website FAQs",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "c385dad4-98ee-443a-8e4d-4fdd5ae9e828": {
+          "type": "image",
+          "settings": {
+            "link": "xtend-life-expert",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Xtend-Life Expert",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "85c09f88-d2e3-4cfc-afb8-1603acae2ace": {
+          "type": "image",
+          "settings": {
+            "link": "dr-amanda-wiggins",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Xtend-Life",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "d61769e0-bd20-472c-b81c-19043d824f66": {
+          "type": "image",
+          "settings": {
+            "link": "jessica-bell",
+            "image": "shopify:\/\/shop_images\/Generic-Banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Generic-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Generic-MOB.png",
+            "pretext": "",
+            "title": "Xtend-Life",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        },
+        "3bc11770-9f59-4a90-8c4e-70a9e6b2dbb0": {
+          "type": "image",
+          "settings": {
+            "link": "customer-reviews",
+            "image": "shopify:\/\/shop_images\/Our-Service.png",
+            "tablet_image": "shopify:\/\/shop_images\/Our-Service-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Our-Service-Mob.png",
+            "pretext": "<p>Serving over 400,000 customers globally...<\/p>",
+            "title": "Our Service",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        }
+      },
+      "block_order": [
+        "1c4ff03f-e650-4a63-9866-0455128d5df8",
+        "41366389-6fe5-4597-8aa7-6b656b4667ac",
+        "84a00da6-7c5e-43f1-a7f4-f372513ee0e8",
+        "template--14710924247127__0cf274b6-206b-4d57-87f2-edd20f991297-1667566485ffb97661-0",
+        "64ad4b72-82bb-4156-a441-037ff2dcb398",
+        "image_y4UGth",
+        "image_mA4zF9",
+        "8cbb9e3c-39d8-45e0-a8ac-57370d4261c5",
+        "6d55400f-c4f8-41e9-b509-50c19da50741",
+        "131fb03a-feec-4029-acb4-bdbc4c630cfc",
+        "f2c7f56a-9013-4be5-b468-e933084f93ba",
+        "3fae305c-623b-4c05-8bfe-8c4c14bee0a7",
+        "42d76571-d97e-4c2f-8383-460b562b11dc",
+        "34267199-c549-422b-84ec-bb81f95126b3",
+        "75218787-c11b-4c30-8917-bd8c06ade984",
+        "40dee8e2-3fb4-4d9b-b026-f20283f884a2",
+        "adbb22d7-2155-4a46-a315-0dc75b5bcf34",
+        "6f9178bb-accf-4779-88da-467464724c6c",
+        "d0f5c386-ae11-4ec8-8efa-023000739d32",
+        "6b908540-1543-4a50-813c-61931e156445",
+        "842afa12-e8b7-4683-aa7c-db3aca922e8f",
+        "08ce3972-5e80-4ec5-ac71-316e1605c8ee",
+        "6a044337-e4aa-4316-81ce-9652e23ac9c5",
+        "c385dad4-98ee-443a-8e4d-4fdd5ae9e828",
+        "85c09f88-d2e3-4cfc-afb8-1603acae2ace",
+        "d61769e0-bd20-472c-b81c-19043d824f66",
+        "3bc11770-9f59-4a90-8c4e-70a9e6b2dbb0"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": false,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1a589284-71e5-4564-a3c8-b8dcfc54f89a": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "7103ebcc-0829-4751-a1b7-003ee7886334": {
+      "type": "text-bar",
+      "disabled": true,
+      "settings": {
+        "text_bar": "Xtend-Life is a specialty, research-based family-owned manufacturer in New Zealand developing unique supplements & skincare"
+      }
+    },
+    "67dea544-e296-4852-8b5c-6031f65ab4d2": {
+      "type": "image-with-form",
+      "blocks": {
+        "template--14457907150966__67dea544-e296-4852-8b5c-6031f65ab4d2-1671431636796cdf78-0": {
+          "type": "textfield",
+          "settings": {
+            "label": "Name",
+            "required": true
+          }
+        },
+        "66a86904-742c-4681-aacb-f09f7768e7b2": {
+          "type": "numberfield",
+          "settings": {
+            "label": "Phone Number",
+            "required": false
+          }
+        },
+        "template--14457907150966__67dea544-e296-4852-8b5c-6031f65ab4d2-1671431636796cdf78-1": {
+          "type": "email",
+          "settings": {
+            "label": "Email"
+          }
+        },
+        "template--14457907150966__67dea544-e296-4852-8b5c-6031f65ab4d2-1671431636796cdf78-2": {
+          "type": "textarea",
+          "settings": {
+            "label": "Message",
+            "required": true
+          }
+        }
+      },
+      "block_order": [
+        "template--14457907150966__67dea544-e296-4852-8b5c-6031f65ab4d2-1671431636796cdf78-0",
+        "66a86904-742c-4681-aacb-f09f7768e7b2",
+        "template--14457907150966__67dea544-e296-4852-8b5c-6031f65ab4d2-1671431636796cdf78-1",
+        "template--14457907150966__67dea544-e296-4852-8b5c-6031f65ab4d2-1671431636796cdf78-2"
+      ],
+      "settings": {
+        "maincontent": "Xtend-Life Natural Products takes pride in our customer service and the ease with which our customers around the world can contact a 'real' person, and get answers to questions. You can contact us by filling in and submitting the form below or through our LiveChat service, by telephone, email, or post.<br><br>",
+        "content_image": "shopify:\/\/shop_images\/Contact-Us-Concept-Tracey.png",
+        "title": "",
+        "content_text": "",
+        "form_title": "Email our customer relations team",
+        "social_enable": true,
+        "text_alignment": "left",
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "form_position": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "page-content__main",
+      "settings": {
+        "show_heading": false,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "index_faq_nNcLii": {
+      "type": "index__faq",
+      "blocks": {
+        "content_hRhbix": {
+          "type": "content",
+          "settings": {
+            "title": "Bundle Discounts",
+            "answer": "<p>Save up to 20% bundle discounts are calculated based on inclusive standard discounts listed below unless pricing is discounted during any other promotional period.<\/p><ul><li>Save 5% off the retail bundle price (base bundle discount).<\/li><li>Save 15% off the retail bundle price.<\/li><li>Save 20% off the retail bundle price<\/li><\/ul>"
+          }
+        },
+        "content_VKMxJQ": {
+          "type": "content",
+          "settings": {
+            "title": "Refer a Friend",
+            "answer": "<p>Provide the answer to the question here.<\/p>"
+          }
+        },
+        "content_g7GALL": {
+          "type": "content",
+          "settings": {
+            "title": "Subscribe and Save",
+            "answer": "<p><strong>Discount Offer for Existing Loyalty Program Members<\/strong><\/p><ul><li>The 10% discount code SUBSCRIBE10 is valid only at the time of joining ‘Subscribe and Save’. Thereafter, the Subscribe and Save discount is 15% on further order.<\/li><li>You must enter the discount code at ‘Check Out’ in to the ‘Discount Code or gift card box’.<\/li><li>The 10% discount code SUBSCRIBE10 is a onetime use only.<\/li><li>The 10% discount code SUBSCRIBE10 expires on the 25th April 2024 NZDT<\/li><li>The 10% discount code SUBSCRIBE10 cannot be deducted retrospectively once the order has been completed and charged.<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "content_hRhbix",
+        "content_VKMxJQ",
+        "content_g7GALL"
+      ],
+      "settings": {
+        "link": "terms-and-conditions",
+        "title": "Terms and Conditions",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 56,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "index_faq_4xx6Ax": {
+      "type": "index__faq",
+      "blocks": {
+        "content_Pb96tU": {
+          "type": "content",
+          "settings": {
+            "title": "How do I create a subscription ",
+            "answer": "<p>Please watch our video walkthrough on this page.<\/p>"
+          }
+        },
+        "content_9cbrGX": {
+          "type": "content",
+          "settings": {
+            "title": "How do I reschedule my next order?",
+            "answer": "<ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click on 'Reschedule'<\/li><li>Choose how you wish to reschedule by selecting the most suitable option for your needs and Save Changes.<\/li><\/ul>"
+          }
+        },
+        "content_CKCc73": {
+          "type": "content",
+          "settings": {
+            "title": "How do I skip my next order?",
+            "answer": "<ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click on the Skip tab<\/li><li>You will be given the option to either gift your order to someone else or you can select 'Yes, Skip this order'. <\/li><\/ul>"
+          }
+        },
+        "content_9tEi6N": {
+          "type": "content",
+          "settings": {
+            "title": "Can I skip some of the products in my schedule but have the remaining sent? ",
+            "answer": "<p>Yes, you can skip a product(s) in future orders.<\/p><ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click on 'View Your Next Order' or 'View Upcoming Orders'<\/li><li>Click the arrow for the product that you want to edit<\/li><li>You will have the choice now to Reschedule\/Skip this product.<\/li><\/ul>"
+          }
+        },
+        "content_iJwhYX": {
+          "type": "content",
+          "settings": {
+            "title": "How do I cancel my Subscription? ",
+            "answer": "<ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click on 'Manage subscriptions'<\/li><li>Click on 'Manage this Subscription' (which can be found under the product name)<\/li><li>Scroll down and click on 'Cancel Subscription'\/Click on Cancel Subscription <\/li><\/ul>"
+          }
+        },
+        "content_9db7Rh": {
+          "type": "content",
+          "settings": {
+            "title": "How do I change my credit card? ",
+            "answer": "<ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click on 'Address & Payment details'<\/li><li>Click on 'Manage Payment Methods'<\/li><li>Click on 'Edit'<\/li><li>Click on 'Send Edit Payment Link'<\/li><li>You will be sent an email to your Inbox.  If you do not see this within a few minutes, please check your Spam\/Junk Folder<\/li><\/ul>"
+          }
+        },
+        "content_TcxW8M": {
+          "type": "content",
+          "settings": {
+            "title": "How do I create two or more subscriptions? ",
+            "answer": "<p>Please watch our video walkthrough on this page.<\/p>"
+          }
+        },
+        "content_tfR8mA": {
+          "type": "content",
+          "settings": {
+            "title": "What is the longest frequency I can have between orders?",
+            "answer": "<p>Six months.<\/p>"
+          }
+        },
+        "content_9jknn4": {
+          "type": "content",
+          "settings": {
+            "title": "Can I choose to have my order shipped on a particular date every month?",
+            "answer": "<p>No, you can’t set your subscription to ship on a certain date each month, but you can log in and reschedule your next order to ship on a specified date if you wish.  If that date falls on a Saturday, Sunday or public holiday it will ship the next business day. Please refer to our FAQ ‘How do I reschedule my order’<\/p>"
+          }
+        },
+        "content_edKdc3": {
+          "type": "content",
+          "settings": {
+            "title": "If I change any part of my subscription, what’s the latest time I can do this successfully prior to it shipping? ",
+            "answer": "<p>We advise making changes no later than 10:00pm Eastern Standard Time (EST) the day before the scheduled date of the order.<\/p>"
+          }
+        },
+        "content_JbAkAR": {
+          "type": "content",
+          "settings": {
+            "title": "What time of day is my payment processed? ",
+            "answer": "<p>Payment processing starts at 12:00am Eastern Standard Time (EST) the day of the scheduled date of the order.<\/p>"
+          }
+        },
+        "content_wJtzBd": {
+          "type": "content",
+          "settings": {
+            "title": "Can I have more than one address in my country of residence I can use? ",
+            "answer": "<p>Yes, you can.<\/p><ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click on 'Address & Payment Details'<\/li><li>Click on 'Manage addresses'<\/li><li>Click on 'Add a New Address'<\/li><\/ul>"
+          }
+        },
+        "content_LMPefF": {
+          "type": "content",
+          "settings": {
+            "title": "Can I have different addresses for different subscriptions? Can I have two different payment methods if I have more than one subscription? ",
+            "answer": "<p>Yes, you can. Simply set up two different subscriptions. See FAQ 'How do I create a subscription'.<\/p>"
+          }
+        },
+        "content_UKV9Uc": {
+          "type": "content",
+          "settings": {
+            "title": "Can I have two different payment methods if I have more than one subscription?",
+            "answer": "<p>Yes, you can. Simply set up two different subscriptions. See FAQ 'How do I create a subscription'.<\/p>"
+          }
+        },
+        "content_g3NYdc": {
+          "type": "content",
+          "settings": {
+            "title": "Can I use a coupon code within my subscription? ",
+            "answer": "<p>Yes, you can.<\/p><ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click 'View upcoming orders'<\/li><li>Click 'Add discount'<\/li><li>Enter the discount code and click 'Apply'<\/li><\/ul>"
+          }
+        },
+        "content_tFJxXt": {
+          "type": "content",
+          "settings": {
+            "title": "What payment methods are available for subscriptions? ",
+            "answer": "<p>Mastercard, VISA, AMEX, PayPal, Google Pay, Apple Pay and Shop Pay.<\/p>"
+          }
+        },
+        "content_naBKQj": {
+          "type": "content",
+          "settings": {
+            "title": "Can I choose two different shipping methods if I have more than one subscription? ",
+            "answer": "<p>Please contact our Customer Relations Team <a href=\"\/pages\/contact-us\" title=\"\/pages\/contact-us\">here<\/a>.<\/p>"
+          }
+        },
+        "content_gVLRA7": {
+          "type": "content",
+          "settings": {
+            "title": "How do I change shipping methods? ",
+            "answer": "<p>Please contact our Customer Relations Team <a href=\"\/pages\/contact-us\" title=\"\/pages\/contact-us\">here<\/a>.<\/p>"
+          }
+        },
+        "content_AaPdWp": {
+          "type": "content",
+          "settings": {
+            "title": "I don’t know how to rejoin; can you help me? Can you do it for me? ",
+            "answer": "<p>Yes, we can reactivate your subscription. Please contact our Customer Relations Team <a href=\"\/pages\/contact-us\" title=\"\/pages\/contact-us\">here<\/a>.<br\/><br\/>You can also reactivate a cancelled subscription from your Subscribe & Save portal.<\/p><ul><li>Log in to your account<\/li><li>Under the Subscribe and Save menu, click 'Manage Orders'<\/li><li>Click 'Manage Subscriptions'<\/li><li>Click the 'Inactive' tab<\/li><li>Click 'Reactivate'<\/li><\/ul>"
+          }
+        },
+        "heading_MtnUHb": {
+          "type": "heading",
+          "settings": {
+            "title": "Loyalty Program Member FAQs"
+          }
+        },
+        "content_d7wrnA": {
+          "type": "content",
+          "settings": {
+            "title": "Can I see my order history once I rejoin Subscribe and Save?",
+            "answer": "<p>Yes, if you have had a previous Loyalty Program account you will see all your past orders by logging in to your account. <\/p>"
+          }
+        },
+        "content_rAKAWd": {
+          "type": "content",
+          "settings": {
+            "title": "I don’t want an automated subscription, can I rejoin using Flexi-ship?",
+            "answer": "<p>Flexi-ship has now been discontinued.  However, with our Subscribe & Save program, you can reschedule and skip orders as you wish. <\/p>"
+          }
+        },
+        "content_faYAPL": {
+          "type": "content",
+          "settings": {
+            "title": "Can I use the same login details that I currently have? ",
+            "answer": "<p>Yes, you can. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_Pb96tU",
+        "content_9cbrGX",
+        "content_CKCc73",
+        "content_9tEi6N",
+        "content_iJwhYX",
+        "content_9db7Rh",
+        "content_TcxW8M",
+        "content_tfR8mA",
+        "content_9jknn4",
+        "content_edKdc3",
+        "content_JbAkAR",
+        "content_wJtzBd",
+        "content_LMPefF",
+        "content_UKV9Uc",
+        "content_g3NYdc",
+        "content_tFJxXt",
+        "content_naBKQj",
+        "content_gVLRA7",
+        "content_AaPdWp",
+        "heading_MtnUHb",
+        "content_d7wrnA",
+        "content_rAKAWd",
+        "content_faYAPL"
+      ],
+      "settings": {
+        "link": "subscribe-and-save-v2",
+        "title": "Subscribe and Save FAQs",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 56,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "index_faq_BnNn6x": {
+      "type": "index__faq",
+      "blocks": {
+        "content_qYx3KJ": {
+          "type": "content",
+          "settings": {
+            "title": "Who can become an Xtendlife affiliate?",
+            "answer": "<p>Anyone can become an Xtendlife affiliate. Our affiliates come from all over the world. You are most likely to be successful if you have prior online marketing skills and experience.<\/p>"
+          }
+        },
+        "content_BUhpeh": {
+          "type": "content",
+          "settings": {
+            "title": "How do I generate commissions?",
+            "answer": "<p>By referring people to our website who make a purchase, either using your unique affiliate link or your unique discount code during checkout.<br\/><br\/>If you refer someone who is already assosiated with another affiliate no commission will be generated.<\/p>"
+          }
+        },
+        "content_KgwFGc": {
+          "type": "content",
+          "settings": {
+            "title": "Someone I referred did not use my affiliate link when purchasing from Xtendlife. Can you add the customer to my affiliate account retroactively?",
+            "answer": "<p>No, unfortunately, this isn’t possible. The new customer must use your unique affiliate link or discount code when registering in order to be linked with your affiliate account.<\/p>"
+          }
+        },
+        "content_cpQtkj": {
+          "type": "content",
+          "settings": {
+            "title": "How will I receive my payments?",
+            "answer": "<p>All commission payments are made via PayPal. Simply enter your PayPal email in the settings section of your Affiliate Admin.<\/p><p>If you don't have an existing PayPal account, sign up for a personal PayPal account here <a href=\"https:\/\/www.paypal.com\/kn\/webapps\/mpp\/account-selection\" title=\"https:\/\/www.paypal.com\/kn\/webapps\/mpp\/account-selection\">https:\/\/www.paypal.com\/kn\/webapps\/mpp\/account-selection<\/a>.<\/p>"
+          }
+        },
+        "content_AXMdRf": {
+          "type": "content",
+          "settings": {
+            "title": "What conditions do I have to meet to get my commission payout?",
+            "answer": "<p>Waiting on feedback from Kate per final agreement.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "content_qYx3KJ",
+        "content_BUhpeh",
+        "content_KgwFGc",
+        "content_cpQtkj",
+        "content_AXMdRf"
+      ],
+      "settings": {
+        "link": "affiliate-program",
+        "title": "FAQ",
+        "width": "standard",
+        "padding_top": 56,
+        "padding_bottom": 56,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "0cf274b6-206b-4d57-87f2-edd20f991297",
+    "1a589284-71e5-4564-a3c8-b8dcfc54f89a",
+    "7103ebcc-0829-4751-a1b7-003ee7886334",
+    "67dea544-e296-4852-8b5c-6031f65ab4d2",
+    "main",
+    "index_faq_nNcLii",
+    "index_faq_4xx6Ax",
+    "index_faq_BnNn6x"
+  ]
+}

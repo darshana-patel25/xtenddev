@@ -1,0 +1,262 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "c685618a-e949-425d-abef-d3b88214b54c": {
+      "type": "video-v1",
+      "settings": {
+        "bgcolor": "#cae9fb",
+        "video_id": "625040803"
+      }
+    },
+    "b281227f-1c41-4e05-b327-bc7a15144851": {
+      "type": "unique-selling-points",
+      "blocks": {
+        "2e842a20-160d-4ad5-97c7-22b839ad4876": {
+          "type": "image",
+          "settings": {
+            "icon_img": "shopify:\/\/shop_images\/Ticks.png",
+            "title": "Anti-Aging",
+            "icon_content": "Helps support healthy cell function and defy the signs of aging"
+          }
+        },
+        "ebe900d7-d8b0-4e07-8907-e20c076347e9": {
+          "type": "image",
+          "settings": {
+            "icon_img": "shopify:\/\/shop_images\/Ticks.png",
+            "title": "Boost Wellness",
+            "icon_content": "The packs contain the most premium forms of every ingredient"
+          }
+        },
+        "1d89d63e-4134-4ed5-97b6-d4ad881a33ff": {
+          "type": "image",
+          "settings": {
+            "icon_img": "shopify:\/\/shop_images\/Ticks.png",
+            "title": "Targeted Support",
+            "icon_content": "For brain, heart and joint health"
+          }
+        },
+        "9d77ebb3-46ee-4aca-b74f-e0cd21087041": {
+          "type": "image",
+          "settings": {
+            "icon_img": "shopify:\/\/shop_images\/Ticks.png",
+            "title": "Includes Men's and Women's Specialty Nutrients",
+            "icon_content": "For prostate and PMS support"
+          }
+        }
+      },
+      "block_order": [
+        "2e842a20-160d-4ad5-97c7-22b839ad4876",
+        "ebe900d7-d8b0-4e07-8907-e20c076347e9",
+        "1d89d63e-4134-4ed5-97b6-d4ad881a33ff",
+        "9d77ebb3-46ee-4aca-b74f-e0cd21087041"
+      ],
+      "settings": {
+        "bgcolor": "#cae9fb",
+        "header": "",
+        "color_title": "#4271a9",
+        "content_color": "#4271a9"
+      }
+    },
+    "e9ec68f5-d7bb-4334-8031-b68a298efa09": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "cd22b14f-106c-45ff-8e21-23c3a9ec8d35": {
+      "type": "product-selector-tab",
+      "blocks": {
+        "a0cd3814-03dd-47e0-800d-dd0bbaa01a20": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Men's",
+            "tab_1": "Standard",
+            "pro_url_1": "foundational-health-pack-for-men",
+            "bgcolor_1": "#ffffff",
+            "tab_2": "Premium",
+            "pro_url_2": "foundational-health-premium-pack-for-men",
+            "bgcolor_2": "#cae9fb",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6"
+          }
+        },
+        "48a5987b-6c1c-4b85-a35f-5a2ca85d5c27": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Women's",
+            "tab_1": "Standard",
+            "pro_url_1": "foundational-health-pack-for-women",
+            "bgcolor_1": "#ffffff",
+            "tab_2": "Premium",
+            "pro_url_2": "foundational-health-premium-pack-for-women",
+            "bgcolor_2": "#cae9fb",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6"
+          }
+        }
+      },
+      "block_order": [
+        "a0cd3814-03dd-47e0-800d-dd0bbaa01a20",
+        "48a5987b-6c1c-4b85-a35f-5a2ca85d5c27"
+      ],
+      "settings": {
+        "standard_tab_bg": "#ffffff",
+        "standard_tab_text": "#3f7cbf",
+        "standard_tab_border": "#3f7cbf",
+        "standard_tab_bg_active": "#1c5497",
+        "standard_tab_text_active": "#ffffff",
+        "standard_tab_border_active": "#3f7cbf",
+        "header": "Foundational Health Packs",
+        "color_title": "#4271a9",
+        "class_name": "",
+        "custome_css": ""
+      }
+    },
+    "eddafd7c-74bd-4f59-9f44-e9d1cbb731db": {
+      "type": "key-points-description",
+      "blocks": {
+        "b588b71d-f47b-421e-b1f5-4c70e2e356cf": {
+          "type": "image",
+          "settings": {
+            "bg_color": true,
+            "bgcolor": "#cae9fb",
+            "text_img": "shopify:\/\/shop_images\/Foundational_Health_Side_Image1_1.jpg",
+            "layout": "right",
+            "alignment": "left center",
+            "text_title": "Beyond multivitamins and traditional fixes",
+            "title_color": "#4271a9",
+            "text_content": "The key to good health doesn't lie in multivitamins, exercise or trendy diets. Unless you're supplying your body's systems with the right nutrients to perform key cellular processes that the health industry rarely talks about, all of your efforts will at best burn a hole in your pocket. At worst, you put your body on a nutritional rollercoaster that prevents you from getting the results you need. This can leave you believing that the health of your youth just isn't attainable anymore.",
+            "content_color": "#4271a9"
+          }
+        },
+        "77086cc9-93f1-4dac-a5a4-97c4cd7c7c2e": {
+          "type": "image",
+          "settings": {
+            "bg_color": false,
+            "bgcolor": "#cae9fb",
+            "text_img": "shopify:\/\/shop_images\/Foundational_Health_Side_Image2_1.jpg",
+            "layout": "left",
+            "alignment": "right center",
+            "text_title": "Our bodies are at war",
+            "title_color": "#4271a9",
+            "text_content": "Our bodies are at constant war with: cell degeneration, destructive free radicals, memory loss, brain fog and cognitive malfunction, cancers and auto-immune disease, viruses and bacteria, hormonal conditions, essential nutrient deficiencies, poor heart health, wrinkles and thinning hair and brittle nails and bones. As we get older we start losing this war and a contributing factor to this is our weakened systems.",
+            "content_color": "#4271a9"
+          }
+        },
+        "fa8eaca7-57aa-4661-930e-628b2771796b": {
+          "type": "image",
+          "settings": {
+            "bg_color": true,
+            "bgcolor": "#cae9fb",
+            "text_img": "shopify:\/\/shop_images\/Foundational_Health_Side_Image3_1.jpg",
+            "layout": "right",
+            "alignment": "left center",
+            "text_title": "You can't stop time",
+            "title_color": "#4271a9",
+            "text_content": "As early as our 20's, important cellular processes begin to slow down and deficiencies in crucial nutrients, enzymes, and amino acids start building up. As we age, and as we near 50, as a result of these deficiencies we often cannot enjoy many basic aspects of life like we should.",
+            "content_color": "#4271a9"
+          }
+        },
+        "bda780c2-0d00-478a-8a9b-68efe002a93f": {
+          "type": "image",
+          "settings": {
+            "bg_color": false,
+            "bgcolor": "#cae9fb",
+            "text_img": "shopify:\/\/shop_images\/Foundational-Health_Side-Image4b.jpg",
+            "layout": "left",
+            "alignment": "right center",
+            "text_title": "Addressing symptoms doesn't work",
+            "title_color": "#4271a9",
+            "text_content": "All our organs and systems are dependent upon each other. If one component is not working effectively this puts strain on the others. The end result is illness... sometimes debilitating, sometimes fatal. This interdependence of our systems means trying to tackle a single condition is a bit like sticking a band aid on an elephant.",
+            "content_color": "#4271a9"
+          }
+        },
+        "d28d8609-3b85-4f0a-ac53-f812d9cef532": {
+          "type": "image",
+          "settings": {
+            "bg_color": true,
+            "bgcolor": "#cae9fb",
+            "text_img": "shopify:\/\/shop_images\/Foundational-Health_Side-Image5b-compressed.jpg",
+            "layout": "right",
+            "alignment": "right center",
+            "text_title": "A complete nutrient system",
+            "title_color": "#4271a9",
+            "text_content": "<p>We CAN slow down the symptoms of aging. <\/p>\n<p>HOW?<\/p>\n<p>By supporting all the systems and organs in our body at cellular level.<\/p>\n<p>Xtend-Life recognized the importance of foundational \/ general health 20 years ago. We are a global leader in developing products to help support that need by providing a complete nutrient system to support all the organs and systems in our bodies.<\/p>",
+            "content_color": "#4271a9"
+          }
+        }
+      },
+      "block_order": [
+        "b588b71d-f47b-421e-b1f5-4c70e2e356cf",
+        "77086cc9-93f1-4dac-a5a4-97c4cd7c7c2e",
+        "fa8eaca7-57aa-4661-930e-628b2771796b",
+        "bda780c2-0d00-478a-8a9b-68efe002a93f",
+        "d28d8609-3b85-4f0a-ac53-f812d9cef532"
+      ],
+      "settings": {
+        "header": "Foundational Health",
+        "color_title": "#4271a9"
+      }
+    },
+    "4fd2a6f4-cf00-4727-8bce-d002e4efc314": {
+      "type": "health-hub",
+      "blocks": {
+        "a7fcf556-d963-445b-a766-98148c070ed2": {
+          "type": "First_row_item",
+          "settings": {
+            "title": "Total Balance",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/Grid-Images-Total-Balance.png",
+            "button_url": "shopify:\/\/pages\/total-balance-overview"
+          }
+        },
+        "3d11c3d9-786e-4c11-8643-9645a5b01491": {
+          "type": "First_row_item",
+          "settings": {
+            "title": "Omega 3",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/Grid-Foundational-Page-Omega3_1.png",
+            "button_url": "shopify:\/\/pages\/omega-3-overview"
+          }
+        }
+      },
+      "block_order": [
+        "a7fcf556-d963-445b-a766-98148c070ed2",
+        "3d11c3d9-786e-4c11-8643-9645a5b01491"
+      ],
+      "settings": {
+        "header": "Learn More",
+        "item_row_one": "6",
+        "item_row_second": "4",
+        "button_text": "",
+        "button_url": "",
+        "read_more": "See More Categories",
+        "read_more_hover": "See Fewer Categories"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "c685618a-e949-425d-abef-d3b88214b54c",
+    "b281227f-1c41-4e05-b327-bc7a15144851",
+    "e9ec68f5-d7bb-4334-8031-b68a298efa09",
+    "cd22b14f-106c-45ff-8e21-23c3a9ec8d35",
+    "eddafd7c-74bd-4f59-9f44-e9d1cbb731db",
+    "4fd2a6f4-cf00-4727-8bce-d002e4efc314"
+  ]
+}

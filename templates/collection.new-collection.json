@@ -1,0 +1,60 @@
+{
+  "sections": {
+    "16571979635429a6a7": {
+      "type": "collection__breadcrumb",
+      "settings": {
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "banner": {
+      "type": "fallback_image_banner",
+      "settings": {
+        "image_darken": false,
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "new-collection",
+        "custom_css": ".new-collection .banner__heading{\ncolor: #3f7cbf;\n}"
+      }
+    },
+    "main": {
+      "type": "collection__main_new",
+      "settings": {
+        "collection_breadcrumb": true,
+        "search": true,
+        "collection_tags": true,
+        "collection_filter": "<p>beauty,blood-sugar-metabolic-support,bone-joints,brain-memory-support,cardio-health,childrens-health,digestive-health,general-wellness,general-health,healthy-aging,immune-support,mens-health,mens-skincare,womens-health,womens-skincare,<\/p>",
+        "collection_sort": false,
+        "product_count": true,
+        "show_sidebar": false,
+        "sidebar_position": "left",
+        "show_promo_banner": false,
+        "image_darken": true,
+        "promo_title": "Special sale on now!",
+        "promo_text": "<p>Description of promotion with lots of details.<\/p>",
+        "banner_height": "medium",
+        "align_height": true,
+        "collection_height": 250,
+        "products_per_row": 3,
+        "mobile_products_per_row": "1",
+        "pagination_limit": 101,
+        "pagination_type": "basic_pagination",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "16571979635429a6a7",
+    "banner",
+    "main"
+  ]
+}

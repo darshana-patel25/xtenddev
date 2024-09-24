@@ -1,0 +1,551 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "index_slideshow_classic_E3VzPx": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "image_9wEfGT": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Head_Banner_Image.png",
+            "tablet_image": "shopify:\/\/shop_images\/Mental-Health_iPad-768x475.png",
+            "mobile_image": "shopify:\/\/shop_images\/Mental-Health_Mob-560x560.png",
+            "pretext_tag": "<p>Be You Be Brilliant<\/p>",
+            "pretext_custom_html": "",
+            "title": "The First Step Towards a Brighter, Healthier You!",
+            "pretext": "",
+            "subtitle": "<p>Enhance your well-being with our comprehensive Mental Well-being and Nutritional Self-Care Checklist. This easy-to-follow guide is designed to help you nurture your mind and body, ensuring you stay balanced, healthy, and resilient. <\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#005895",
+            "heading_color": "#005895",
+            "subheading_color": "#005895",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "65",
+            "button_1": "Download",
+            "button_1_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/1267\/0135\/files\/Be_Brilliant_Checklist_Global.pdf?v=1719543266",
+            "button_1_style": "button--primary",
+            "button_1_color": "#00a9d5",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        }
+      },
+      "block_order": [
+        "image_9wEfGT"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "custom_liquid_Ey7tJA": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "h2 {font-size: 44px;}",
+        ".product-features__title h2,.product-features__title p {color: #fff !important;}",
+        ".product-features__icons .center img {width: 80px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<style>\n.shopify-section--custom-liquid {\n  background: #00a9d5;\n  padding: 20px 0 50px;\nposition: relative;\n}\n\n<\/style>\n<div class=\"product-features__title\"> <h2>Be You, Be Brilliant<\/h2> <div class=\"product-features__icons\"> <div class=\"center\"> <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Icon_Prioritize_Mental_Wellbeing.png?v=1719377307\"> <p>Prioritize Mental Wellbeing<\/p><\/div> <div class=\"center\"> <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Icon_Balanced_Nutrition.png?v=1719377307\"> <p>Balanced Nutrition<\/p><\/div> <div class=\"center\"> <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Icon_Stay_Active.png?v=1719377307\"> <p>Stay Active<\/p><\/div><\/div><\/div>"
+      }
+    },
+    "index_faq_qdr4G7": {
+      "type": "index__faq",
+      "blocks": {
+        "image_7n8Hrz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Burn-out-Free-Zone.png"
+          }
+        },
+        "heading_RQbfJ7": {
+          "type": "heading",
+          "settings": {
+            "title": "Burn-out Free Zone: Sustainable Selfcare"
+          }
+        },
+        "content_e9yFDJ": {
+          "type": "content",
+          "settings": {
+            "title": "Burnout: The Silent Epidemic\u2028\u2028",
+            "answer": "<p>Stress and burnout aren't just buzzwords—they're silent thieves robbing millions of their health and happiness. In today's fast-paced world, our body's constant state of high alert can lead to a cascade of health issues, from weakened immunity to accelerated aging and the risk of heart attack and stroke. It can even rewire the brain, leaving us more vulnerable to anxiety, depression, and other mental health problems.<\/p><p><a href=\"https:\/\/www.xtend-life.com\/blogs\/health-articles\/the-link-between-stress-and-your-mood\" title=\"https:\/\/www.xtend-life.com\/blogs\/health-articles\/the-link-between-stress-and-your-mood\">Learn more about stress: <\/a><\/p>"
+          }
+        },
+        "content_HqUD44": {
+          "type": "content",
+          "settings": {
+            "title": "Embrace the 3 Rs for a Burnout-Free Life",
+            "answer": "<p>Practice self-care regularly and provide your body with sufficient time to bounce back, consider the 3R approach:<\/p><ul><li> Refuel: Find activities that truly energize you. Whether it's a nature walk, an upbeat dance class, or serene yoga, stay active! Because it isn't just for your body—it's a powerful recharge for your mind and spirit.<\/li><li> Resolve: Become your own stress detective. Identify what's draining you and face it head-on. Don't hesitate to share with someone, as it can reveal unexpected solutions. Tackling stress isn't a solo mission; it's a team effort that starts with you.<\/li><li> Relax: In our always-on world, relaxation is a superpower. Transform everyday moments into mini-retreats, even just a small “me” moment. It’s essential for your overworked mind and body.<\/li><\/ul>"
+          }
+        },
+        "content_rytbWD": {
+          "type": "content",
+          "settings": {
+            "title": "Nourish from the Inside out",
+            "answer": "<p>The food we consume plays a vital role in how our bodies manage stress and maintain energy levels. However, sometimes, when the best diet needs a boost. Consider including these evidence-backed supplements to restore your inner calm:<\/p><ul><li> Omega-3s: Nature's mood stabilizers<\/li><li> Vitamin D: The \"sunshine vitamin\" that brightens mood<\/li><li> Saffron: An ancient spice with modern mood-lifting potential<\/li><li> Ashwagandha: An adaptogenic herb to help you roll with life's punches<\/li><li> Sage: Not just for cooking—it might sharpen your mental clarity too<\/li><\/ul>"
+          }
+        }
+      },
+      "block_order": [
+        "image_7n8Hrz",
+        "heading_RQbfJ7",
+        "content_e9yFDJ",
+        "content_HqUD44",
+        "content_rytbWD"
+      ],
+      "settings": {
+        "title": "",
+        "width": "standard",
+        "image_position": "left",
+        "padding_top": 56,
+        "padding_bottom": 56,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "index_slideshow_with_text_8grj7i": {
+      "type": "index__slideshow-with-text",
+      "blocks": {
+        "image_QGxwYT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Think_Sharp-01.png",
+            "video_id": "",
+            "image_secondslide": "shopify:\/\/shop_images\/ReviewMarine-Magnesium.png",
+            "pretext": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "image_NMMW8y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vitamin_D3-01.png",
+            "video_id": "",
+            "image_secondslide": "shopify:\/\/shop_images\/Review_Vitamin-D3.png",
+            "pretext": "<p>Add a preheader<\/p>",
+            "title": "Second slide",
+            "text": "<p>Each slide can use different text to accompany the image.<\/p>",
+            "button_label": "Link to product",
+            "button_link": ""
+          }
+        },
+        "image_J6BTAw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marine_Magnesium-01.png",
+            "video_id": "",
+            "image_secondslide": "shopify:\/\/shop_images\/ReviewMarine-Magnesium.png",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Your headline",
+            "text": "<p>Each slide can have its own text and button link. Use it to describe the product, collection, page, etc. that the image depicts.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "image_JwWQgU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Omega_3__DHA_Fish_Oil-01.png",
+            "video_id": "",
+            "image_secondslide": "shopify:\/\/shop_images\/Review_Omega-3-DHA.png",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Your headline",
+            "text": "<p>Each slide can have its own text and button link. Use it to describe the product, collection, page, etc. that the image depicts.<\/p>",
+            "button_label": "",
+            "button_link": "shopify:\/\/products\/omega-3-dha-fish-oil"
+          }
+        }
+      },
+      "block_order": [
+        "image_QGxwYT",
+        "image_NMMW8y",
+        "image_J6BTAw",
+        "image_JwWQgU"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 767px) {.image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--right {width: 100%; margin-bottom: 15px; } .text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {width: 100%; } .width_bind {display: block; width: 90%; } .video_slide .flickity-prev-next-button.next {right: -30px !important; }}",
+        "@media only screen and (max-width: 798px) {.image-slideshow .flickity-buttons-container {display: block; }}"
+      ],
+      "settings": {
+        "background_color": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "content_color": "#231f20",
+        "text_alignment": "left",
+        "text_transition": "none",
+        "button_style": "button--primary",
+        "show_nav_buttons": false,
+        "image_position": "right",
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "video_slide",
+        "custom_css": ".width_bind {\n\twidth: 95%;\n\tmax-width: 1280px;\n}\n.image-slideshow-position--right .flickity-buttons-container {\n\ttop: 50%;\n\ttransform: translateY(-50%);\nleft: auto;\nz-index: 999;\n}\n.video_slide  .flickity-prev-next-button.previous {\n\tleft: -30px;\n}\n.video_slide .flickity-prev-next-button.next {\n\tright: -70px !important;\n}\n.image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--right {\n  width: 50%;\n}\n.text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {\n  width: 50%;\n}\n.text-slideshow__slide {\n  padding: 0;\n}\n.text-slideshow__heading.banner__subheading p {\n  color: #969696;\n}\n.flickity-prev-next-button .flickity-button-icon {\n  width: 14px;\n}\n.image-slideshow .flickity-buttons-container {\n  width: 100%;\n}\n.image-element__wrap {\n\twidth: 100%;\n\theight: auto;\n}\na {\n\tdisplay: block;\n\twidth: 100%;\n}\nimg {\n\tborder-radius: 10px;\n}\n.text-slideshow-column {\n  background: transparent;\n}"
+      }
+    },
+    "index_faq_XWEn8a": {
+      "type": "index__faq",
+      "blocks": {
+        "heading_WAPGiq": {
+          "type": "heading",
+          "settings": {
+            "title": "Restorative Sleep - The Foundation of Wellbeing"
+          }
+        },
+        "content_PiDyME": {
+          "type": "content",
+          "settings": {
+            "title": "Sleep Is Your Superpower",
+            "answer": "<p>Sleep affects all the organs in your body, a sleep shortfall doesn't just make you feel groggy and grumpy the next day. Over time, insufficient sleep can increase the risks for many chronic health problems, including heart disease, stroke, and diabetes. The evidence is so compelling that the American Heart Association (AHA) added healthy sleep duration to its \"Life's Essential 8\" recommendations to lower heart attack and stroke risk.<\/p><p><\/p><p><a href=\"https:\/\/www.xtend-life.com\/blogs\/health-articles\/latest-research-on-the-importance-of-sleep-reveals-some-startling-facts-lack-of-sleep-not-only-impacts-your-cognitive-abilities-but-it-can-send-you-to-an-early-grave \" title=\"https:\/\/www.xtend-life.com\/blogs\/health-articles\/latest-research-on-the-importance-of-sleep-reveals-some-startling-facts-lack-of-sleep-not-only-impacts-your-cognitive-abilities-but-it-can-send-you-to-an-early-grave \">Read More:<\/a><\/p><p><\/p>"
+          }
+        },
+        "content_NUQVRK": {
+          "type": "content",
+          "settings": {
+            "title": "Tips for a Restorative Sleep",
+            "answer": "<p>Elevate your sleep quality with these actionable strategies, to help you fall asleep faster, stay asleep longer, and wake up feeling refreshed and energized.<\/p><ol><li> Optimize Light Exposure: Get plenty of natural daylight and avoid evening light, especially from screens. Turn off all devices an hour before bed.<\/li><li> Regular Sleep Schedule: Stick to a consistent sleep schedule to sync your internal clock, boosting sleep quality and duration.<\/li><li>  Stress Management: Practice relaxation techniques like meditation or reading before bed to reduce stress.<\/li><li> Mindful Eating: Avoid heavy meals, alcohol, or caffeine before bed.<\/li><li> Timely Exercise: Exercise earlier in the day to enhance daytime energy and promote nighttime relaxation.<\/li><li>  Consider Supplements: Try supplements like magnesium or natural remedies like chamomile, ashwagandha, and saffron for better sleep.<\/li><\/ol>"
+          }
+        },
+        "content_6zjMpU": {
+          "type": "content",
+          "settings": {
+            "title": "Recharge your sleep with these Sleep-Enhancing Nutrients",
+            "answer": "<p>While a balanced diet is important, specific nutrients from supplements can help calm the nervous system, promote muscle relaxation, and ensure more restorative rest.<\/p><ol><li> Saffron and Ashwagandha: Powerful adaptogens backed by modern scientific research. Clinical data indicates that their active components can help reduce stress and improve sleep quality.<\/li><li> Magnesium: Nature's relaxant. Magnesium soothes both muscles and nerves, preparing your body for deep sleep.<\/li><li> Omega-3 Fatty Acids: The fatty acids which are linked to improved sleep duration and quality, possibly due to their anti-inflammatory properties.<\/li><\/ol>"
+          }
+        },
+        "image_x8UjiU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Restorative-Sleep.png"
+          }
+        }
+      },
+      "block_order": [
+        "heading_WAPGiq",
+        "content_PiDyME",
+        "content_NUQVRK",
+        "content_6zjMpU",
+        "image_x8UjiU"
+      ],
+      "settings": {
+        "title": "",
+        "width": "standard",
+        "image_position": "left",
+        "padding_top": 56,
+        "padding_bottom": 56,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "index_slideshow_with_text_8TDk4B": {
+      "type": "index__slideshow-with-text",
+      "blocks": {
+        "image_z6rBAd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Serene_Saffon-01.png",
+            "video_id": "",
+            "image_secondslide": "shopify:\/\/shop_images\/Review_Serene-Saffron.png",
+            "pretext": "",
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "image_YxfKQY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Marine_Magnesium-01.png",
+            "video_id": "",
+            "image_secondslide": "shopify:\/\/shop_images\/ReviewMarine-Magnesium.png",
+            "pretext": "<p>Add a preheader<\/p>",
+            "title": "Second slide",
+            "text": "<p>Each slide can use different text to accompany the image.<\/p>",
+            "button_label": "Link to product",
+            "button_link": ""
+          }
+        },
+        "image_nFJiHF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Omega_3__DHA_Fish_Oil-01.png",
+            "video_id": "",
+            "image_secondslide": "shopify:\/\/shop_images\/Review_Omega-3-DHA.png",
+            "pretext": "<p>Preheading<\/p>",
+            "title": "Your headline",
+            "text": "<p>Each slide can have its own text and button link. Use it to describe the product, collection, page, etc. that the image depicts.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_z6rBAd",
+        "image_YxfKQY",
+        "image_nFJiHF"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 767px) {.image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--right {width: 100%; margin-bottom: 15px; } .text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {width: 100%; } .width_bind {display: block; width: 90%; } .video_slide .flickity-prev-next-button.next {right: -30px !important; }}",
+        "@media only screen and (max-width: 798px) {.image-slideshow .flickity-buttons-container {display: block; }}"
+      ],
+      "settings": {
+        "background_color": "#eeeeee",
+        "text_color": "rgba(0,0,0,0)",
+        "content_color": "#231f20",
+        "text_alignment": "center",
+        "text_transition": "fadeIn",
+        "button_style": "button--primary",
+        "show_nav_buttons": false,
+        "image_position": "right",
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "video_slide",
+        "custom_css": ".width_bind {\n\twidth: 95%;\n\tmax-width: 1280px;\n}\n.image-slideshow-position--right .flickity-buttons-container {\n\ttop: 50%;\n\ttransform: translateY(-50%);\nleft: auto;\nz-index: 999;\n}\n.video_slide  .flickity-prev-next-button.previous {\n\tleft: -30px;\n}\n.video_slide .flickity-prev-next-button.next {\n\tright: -70px !important;\n}\n.image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--right {\n  width: 50%;\n}\n.text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {\n  width: 50%;\n}\n.text-slideshow__slide {\n  padding: 0;\n}\n.text-slideshow__heading.banner__subheading p {\n  color: #969696;\n}\n.flickity-prev-next-button .flickity-button-icon {\n  width: 14px;\n}\n.image-slideshow .flickity-buttons-container {\n  width: 100%;\n}\n.image-element__wrap {\n\twidth: 100%;\n\theight: auto;\n}\na {\n\tdisplay: block;\n\twidth: 100%;\n}\nimg {\n\tborder-radius: 10px;\n}\n.text-slideshow-column {\n  background: transparent;\n}"
+      }
+    },
+    "info_grid_3JUVp7": {
+      "type": "info-grid",
+      "blocks": {
+        "image_WHmmqW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Scientific_Excellence.png",
+            "title": "Scientific Excellence",
+            "description": "Our foundation is built on the principles of science and research. We collaborate with world-renowned experts to develop cutting-edge formulations backed by scientific evidence. From selecting ingredients to manufacturing, we ensure that every step adheres to the highest industry standards.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_ftq9cM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Premium_Ingredients.png",
+            "title": "Premium Ingredients",
+            "description": "The key to exceptional products lies in the quality of ingredients. That's why we source our raw materials from the most reputable suppliers around the globe. Each ingredient undergoes rigorous testing for potency and purity, ensuring you receive only the best nature has to offer.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_4MWC8x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GMP-Certified.png",
+            "title": "GMP-Certified",
+            "description": "Your health deserves the best; we take this to heart. Xtendlife maintains full quality control of our supplement products. All products are manufactured in our FDA-registered and GMP (Good Manufacturing Practice) certified facility. We adhere to strict guidelines, guaranteeing the safety and efficacy of our products at every stage of production.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_74yghP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Trusted_Globally_for_25_years.png",
+            "title": "Trusted Globally for 25 years",
+            "description": "For over 25 years, Xtendlife has been a beacon of excellence in the health supplement industry, championing a proactive and preventative approach to wellbeing. With over 400,000 satisfied customers worldwide, the trust and loyalty of our community have fueled our commitment to excellence.",
+            "linktitle": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_WHmmqW",
+        "image_ftq9cM",
+        "image_4MWC8x",
+        "image_74yghP"
+      ],
+      "custom_css": [
+        ".one-third,.col-md-4 {width: calc(50% - 17.5px);}",
+        ".info-grid-img img {width: 40px;}",
+        "@media only screen and (max-width: 767px) {.one-third, .col-md-4 {width: calc(100% - 17.5px); } .flex.info-grid-inner {justify-content: space-around; }}"
+      ],
+      "settings": {
+        "title": "Why Trust Xtendlife Products?",
+        "description": ""
+      }
+    },
+    "standard_text_description_bn8Xh8": {
+      "type": "standard-text-description",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "bgcolor": "rgba(0,0,0,0)",
+        "bgwidth": "full",
+        "header": "Products Comparison",
+        "color_title": "#005895",
+        "align_text": "center",
+        "content_area": "<style>\n@media screen and (max-width: 600px) {\n.text_description_page_section{\n  display: none;\n}\n}\n<\/style>\n<div style=\"overflow-x:auto;\">\n<table class=\"ingerdient_table\">\n<thead>\n<tr>\n<th style=\"text-align: center;\" scope=\"col\"><\/th>\n<th style=\"text-align: center;background: #e8e8e8;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/think_sharptbl.png?v=1719224266\"><p style=\"display: block;\"><a href=\"\/products\/omega-3-dha-fish-oil\" style=\"text-decoration: none;font-size: 16px;\">Think Sharp<\/a><\/p>\n<\/th>\n\n<th style=\"background: #e8e8e8;text-align: center;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/vitamink_tbl.png?v=1719224267\"><p><a href=\"\/products\/omega-3-dha-plus\" style=\"text-decoration: none;font-size: 16px;\">Vitamin D3 + K2<\/a><\/p>\n<\/th>\n<th style=\"text-align: center;background: #e8e8e8;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/saffron_tbl.png?v=1719224267\"> <p style=\"\"><a href=\"\/products\/omega-3-qh-premium\" style=\"text-decoration: unset;font-size: 16px;\">Serene Saffron<\/a><\/p>\n<\/th>\n<th style=\"background: #e8e8e8;text-align: center;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/omega3_dhatbl.png?v=1719224267\"> <p><a href=\"\/products\/omega-3-qh-premium\" style=\"text-decoration: unset;font-size: 16px;\"> Omega 3 \/ DHA Fish Oil<\/a><\/p>\n<\/th>\n<th style=\"background: #e8e8e8;text-align: center;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/magenasium.png?v=1719224267\"> <p style=\"\"><a style=\"display: block;text-decoration: unset;font-size: 16px;\">Marine Magnesium with Potassium<\/a><\/p>\n<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<th>General Cognitive health<\/th>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n<\/tr>\n<tr>\n<th>Mood<\/th>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Sleep<\/th>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Muscle Relax<\/th>\n<td>\n\n<\/td>\n<td>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n\n<\/tr>\n<tr>\n<th>Focus<\/th>\n<td style=\"color: #00A9D5;\">\nEnhanced\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n<\/tr>\n<tr>\n<th>Brain fog<\/th>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n<\/tr>\n<tr>\n<th>Tablets Per Day<\/th>\n<td style=\"color: #00A9D5;\">2<\/td>\n<td style=\"color: #00A9D5;\">2<\/td>\n<td style=\"color: #00A9D5;\">2<\/td>\n<td style=\"color: #00A9D5;\">2<\/td>\n<td style=\"color: #00A9D5;\">2<\/td>\n\n<\/tr>\n\n<tr>\n<th>Price (30 Day Supply)<\/th>\n<td>$39.50<\/td>\n<td>$18.50<\/td>\n<td>$44.50<\/td>\n<td>$19.50<\/td>\n<td>$13.50<\/td>\n\n<\/tr>\n\n<\/tbody>\n<\/table>\n<h3 style=\"color: #005895;\">Need help ?<\/h3>\n<a class=\"productbundle-shop\" href=\"\/contact-us\">CONTACT US<\/a>\n<\/div>",
+        "color_content": "#231f20"
+      }
+    },
+    "index_html_jfffHT": {
+      "type": "index__html",
+      "custom_css": [
+        "@media screen and (min-width: 601px) {.need_hlp {display: none; }}"
+      ],
+      "settings": {
+        "html_content": "<div class=\"need_hlp\">\n<h3 style=\"color: #005895;\">Need help ?<\/h3>\n<a class=\"productbundle-shop\" href=\"\/contact-us\">CONTACT US<\/a>\n<\/div>",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ".need_hlp{\n text-align: center;\n}"
+      }
+    },
+    "1650a6b4-25a9-415d-96eb-c42856028a6a": {
+      "type": "testimonial",
+      "blocks": {
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-0": {
+          "type": "supplements",
+          "settings": {
+            "title": "Works Like a Charmfor Good Sleep",
+            "quote": "<p>It really helps me to sleep better and<br\/>longer. So overall, I am happy with the product! Sleep is so important to a<br\/>person's wellbeing. <\/p>",
+            "rating": 5,
+            "author": "Rita R.",
+            "featured_product": "serene-saffron"
+          }
+        },
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-1": {
+          "type": "skincare",
+          "settings": {
+            "title": "Helped my anxiety!",
+            "quote": "<p>I have been on the Serene Saffron for<br\/>3 months now. Very, very happy with this new product 😁<\/p>",
+            "rating": 5,
+            "author": "Darcy C.",
+            "featured_product": "serene-saffron"
+          }
+        },
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-2": {
+          "type": "service",
+          "settings": {
+            "title": "I love this product!I’ll continue to purchase.",
+            "quote": "<p>I work in health care which can be<br\/>very stressful especially over the last few years! I’ve been taking Serene<br\/>Saffron for a couple of weeks now, I feel calmer, more settled and focused. My<br\/>sleep is deeper and more satisfying.<\/p>",
+            "rating": 5,
+            "author": "Chris",
+            "featured_product": "serene-saffron"
+          }
+        },
+        "7a9dad30-460f-461e-a72f-bdba876547b2": {
+          "type": "supplements",
+          "settings": {
+            "title": "My morning brainfog went away",
+            "quote": "<p>I would give Think Sharp 5\/5. I would<br\/>take it around 8:30-9am, and noticed that I was more alert and my morning brain<br\/>fog went away on the days I took it.<\/p>",
+            "rating": 5,
+            "author": "Ashley W.",
+            "featured_product": "think-sharp"
+          }
+        },
+        "6682a881-efc2-4a0b-920d-8f2f4cf38f7c": {
+          "type": "skincare",
+          "settings": {
+            "title": "My favorite magnesium product",
+            "quote": "<p>Love the marine source and the<br\/>addition of potassium in this product. Since I started taking it, I don't want<br\/>to be without it.<\/p>",
+            "rating": 5,
+            "author": "Cheryl B.",
+            "featured_product": "total-balance-unisex"
+          }
+        },
+        "d8e5002d-dcdb-47e7-9b2a-2c12666efba0": {
+          "type": "service",
+          "settings": {
+            "title": "Extended Energy",
+            "quote": "<p>It helps my mood in a hectic work<br\/>environment and all those good things. I really am glad I have located these<br\/>and bought some for my mom.<\/p>",
+            "rating": 5,
+            "author": "Onee S.",
+            "featured_product": "omega-3-dha-fish-oil"
+          }
+        }
+      },
+      "block_order": [
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-0",
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-1",
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-2",
+        "7a9dad30-460f-461e-a72f-bdba876547b2",
+        "6682a881-efc2-4a0b-920d-8f2f4cf38f7c",
+        "d8e5002d-dcdb-47e7-9b2a-2c12666efba0"
+      ],
+      "settings": {
+        "background_bg": "#005895",
+        "review_block_bg": "#ffffff",
+        "dots_bg": "#ffffff",
+        "dotsactive_bg": "#ffffff",
+        "title": "20,000+ 5-Star Reviews",
+        "enable_overlay": true,
+        "author_tick": true,
+        "text_alignment": "left",
+        "heading_color": "#005895",
+        "content_color": "#231f20",
+        "author_color": "#005895"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "index_slideshow_classic_E3VzPx",
+    "custom_liquid_Ey7tJA",
+    "index_faq_qdr4G7",
+    "index_slideshow_with_text_8grj7i",
+    "index_faq_XWEn8a",
+    "index_slideshow_with_text_8TDk4B",
+    "info_grid_3JUVp7",
+    "standard_text_description_bn8Xh8",
+    "index_html_jfffHT",
+    "1650a6b4-25a9-415d-96eb-c42856028a6a"
+  ]
+}

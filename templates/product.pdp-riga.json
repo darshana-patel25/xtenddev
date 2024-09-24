@@ -1,0 +1,199 @@
+{
+  "sections": {
+    "sidebar": {
+      "type": "product__sidebar",
+      "settings": {
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "product__main",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "adc93e1d-1270-40a1-bab5-18cc63f577c3": {
+          "type": "review",
+          "settings": {
+          }
+        },
+        "90b8a2e4-5faa-46cc-a3f3-608447d09aea": {
+          "type": "product-summary",
+          "settings": {
+            "learn_more": "Learn More"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "display_savings": true,
+            "loyalty_program_check": false,
+            "loyalty_program": ""
+          }
+        },
+        "form": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": false
+          }
+        },
+        "1ba8c0cc-bc5e-424a-b473-2ec348788085": {
+          "type": "option-text",
+          "settings": {
+          }
+        },
+        "18932f54-ea48-497d-a9b1-b381369eda84": {
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "b03194a6-81c8-4097-8558-c32114928a46": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p>{{ product.metafields.custom.drtalks | metafield_tag }}"
+          }
+        },
+        "3c15b615-fdc6-42fb-b909-6bab935f3440": {
+          "type": "shipping-bar",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Truck.png",
+            "text": "<p>Free DHL Express Courier on orders over $125 (USA only). Find country specific shipping details <a href=\"\/pages\/shipping\" title=\"Shipping\">here<\/a><\/p>"
+          }
+        },
+        "94a53e3b-04ac-4383-85b0-56deaf3e9c80": {
+          "type": "certifications",
+          "settings": {
+            "image_1": "shopify:\/\/shop_images\/365-Day-Guarantee-FA.png",
+            "link_1": "shopify:\/\/pages\/no-risk-guarantee",
+            "image_2": "shopify:\/\/shop_images\/FDA-160x60pix.png",
+            "image_3": "shopify:\/\/shop_images\/GMP-60x60pix.png",
+            "image_4": "shopify:\/\/shop_images\/NZ-57x60pix.png"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "adc93e1d-1270-40a1-bab5-18cc63f577c3",
+        "90b8a2e4-5faa-46cc-a3f3-608447d09aea",
+        "price",
+        "form",
+        "1ba8c0cc-bc5e-424a-b473-2ec348788085",
+        "18932f54-ea48-497d-a9b1-b381369eda84",
+        "b03194a6-81c8-4097-8558-c32114928a46",
+        "3c15b615-fdc6-42fb-b909-6bab935f3440",
+        "94a53e3b-04ac-4383-85b0-56deaf3e9c80"
+      ],
+      "settings": {
+        "product_images_position": "left",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "gallery_arrows": false,
+        "enable_zoom": false,
+        "enable_product_lightbox": true,
+        "slideshow_speed": 0,
+        "slideshow_transition": "slide",
+        "display_thumbnails": true,
+        "thumbnail_position": "left-thumbnails",
+        "enable_thumbnail_slider": true,
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "34537e5d-208a-4f90-9262-7c1fba35360f": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": ""
+      }
+    },
+    "tabs": {
+      "type": "product__tabs",
+      "settings": {
+        "tab_label_1": "Description",
+        "tab_label_2": "Directions",
+        "tab_label_3": "Ingredients & Nutritional Information",
+        "tab_label_4": "FAQ",
+        "tab_label_5": "Customer Reviews"
+      }
+    },
+    "recommendations": {
+      "type": "product__recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "product_recommendations_style": "grid",
+        "product_recommendations_heading": "You may also like",
+        "products_per": 3,
+        "recommended_products_limit": 6,
+        "align_height": false,
+        "collection_height": 200,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ca5f4e17-eabd-4496-8763-1a24e08ea9f9": {
+      "type": "sticky_add-to-cart",
+      "blocks": {
+        "template--14644574683233__ca5f4e17-eabd-4496-8763-1a24e08ea9f9-1681295231e6ff23c2-0": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "20c43f43-7d79-4f8c-ac7c-df78aef22e9f": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14644574683233__ca5f4e17-eabd-4496-8763-1a24e08ea9f9-1681295231e6ff23c2-0",
+        "20c43f43-7d79-4f8c-ac7c-df78aef22e9f"
+      ],
+      "settings": {
+        "top_button": "Top",
+        "featured_product": "{{ product }}",
+        "product_images_position": "left",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "gallery_arrows": true,
+        "enable_zoom": true,
+        "enable_product_lightbox": true,
+        "slideshow_speed": 0,
+        "slideshow_transition": "slide",
+        "display_thumbnails": true,
+        "thumbnail_position": "bottom-thumbnails",
+        "enable_thumbnail_slider": true,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "sidebar",
+    "main",
+    "34537e5d-208a-4f90-9262-7c1fba35360f",
+    "tabs",
+    "recommendations",
+    "ca5f4e17-eabd-4496-8763-1a24e08ea9f9"
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "sections": {
+    "page_slideshow_classic_btWnNX": {
+      "type": "page__slideshow-classic",
+      "blocks": {
+        "image_kXkfCp": {
+          "type": "image",
+          "settings": {
+            "link": "affiliate-program",
+            "image": "shopify:\/\/shop_images\/main_banner.png",
+            "tablet_image": "shopify:\/\/shop_images\/Affiliate-Program_iPad-768x475.png",
+            "mobile_image": "shopify:\/\/shop_images\/Affiliate-Program_Mob-560x560.png",
+            "pretext": "",
+            "title": "Become an Xtendlife Affiliate",
+            "subtitle": "<p>Get paid to promote Xtendlife products. Join our affiliate program and earn commissions on all of your referrals.<\/p>",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        }
+      },
+      "block_order": [
+        "image_kXkfCp"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 767px) {.slideshow-classic__heading {color: #005895; } .slideshow-classic__subheading {color: #005895; } .slideshow-classic .mobile-text--below-media .caption {transform: translateY(0%); }}"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "custom_html_X9kcWJ": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "main": {
+      "type": "page-content__main",
+      "settings": {
+        "show_heading": false,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "certifications_wNYFqC": {
+      "type": "certifications",
+      "blocks": {
+        "certification_NyGHAQ": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NPA-80x60pix.png"
+          }
+        },
+        "certification_xDUaTR": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NZ-57x60pix.png"
+          }
+        },
+        "certification_TwzgdL": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FDA-160x60pix.png"
+          }
+        },
+        "certification_4Y4wV9": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/UL_GMP_Standard-53x60pix.png"
+          }
+        },
+        "certification_gyeMKk": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HACCP-106x60pix.png"
+          }
+        },
+        "certification_warXRK": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GOED-43x60pix.png"
+          }
+        }
+      },
+      "block_order": [
+        "certification_NyGHAQ",
+        "certification_xDUaTR",
+        "certification_TwzgdL",
+        "certification_4Y4wV9",
+        "certification_gyeMKk",
+        "certification_warXRK"
+      ],
+      "settings": {
+        "header": "Our Certifications"
+      }
+    },
+    "index_faq_MCGPWr": {
+      "type": "index__faq",
+      "blocks": {
+        "heading_AFJL7a": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Section heading"
+          }
+        },
+        "content_HXDUHp": {
+          "type": "content",
+          "settings": {
+            "title": "Who can become an Xtendlife affiliate?",
+            "answer": "<p>Anyone can become an Xtendlife affiliate. Our affiliates come from all over the world. You are most likely to be successful if you have prior online marketing skills and experience.<\/p>"
+          }
+        },
+        "content_XDbN3K": {
+          "type": "content",
+          "settings": {
+            "title": "How do I generate commissions?",
+            "answer": "<p>By referring people to our website who make a purchase, either using your unique affiliate link or your unique discount code during checkout.<br\/><br\/>If you refer someone who is already associated with another affiliate no commission will be generated.<\/p>"
+          }
+        },
+        "content_AJ48xm": {
+          "type": "content",
+          "settings": {
+            "title": "Someone I referred did not use my affiliate link when purchasing from Xtendlife. Can you add the customer to my affiliate account retroactively?",
+            "answer": "<p>No, unfortunately, this isn’t possible. The new customer must use your unique affiliate link or discount code when registering in order to be linked with your affiliate account.<\/p>"
+          }
+        },
+        "content_kqfB8g": {
+          "type": "content",
+          "settings": {
+            "title": "How will I receive my payments?",
+            "answer": "<p>All commission payments are made via PayPal. Simply enter your PayPal email in the settings section of your Affiliate Admin.<\/p><p>If you don't have an existing PayPal account, sign up for a personal PayPal account here <a href=\"https:\/\/www.paypal.com\/kn\/webapps\/mpp\/account-selection\" title=\"https:\/\/www.paypal.com\/kn\/webapps\/mpp\/account-selection\">https:\/\/www.paypal.com\/kn\/webapps\/mpp\/account-selection<\/a>.<\/p>"
+          }
+        },
+        "content_ybeerB": {
+          "type": "content",
+          "settings": {
+            "title": "What conditions do I have to meet to get my commission payout?",
+            "answer": "<p>@Kate post final agreement.<\/p>"
+          }
+        },
+        "content_YhPqGd": {
+          "type": "content",
+          "settings": {
+            "title": "Can I run paid ads using my affiliate link or discount code?",
+            "answer": "<p>Yes, but you have to follow the rules that are part of our Terms & Conditions. Affiliate users shall not use the keyword “Xtendlife” or any variations in ads, nowhere in an ad copy - title or body text. Affiliate users can’t use the keyword \"Xtendlife\" or any variations and any Xtendlife Trademark within online ad campaigns (including, without limitation, within metadata or search-based advertising such as Google Adwords) without prior written consent from Xtendlife.<\/p>"
+          }
+        },
+        "content_Q6Krg8": {
+          "type": "content",
+          "settings": {
+            "title": "How long does the cookie last?",
+            "answer": "<p>Visitors have 90 days to make a purchase after clicking on your affiliate link.<\/p>"
+          }
+        },
+        "content_Ntfb6c": {
+          "type": "content",
+          "settings": {
+            "title": "How often do you process payouts for referrals?",
+            "answer": "<p>Commissions are paid out every month. You will receive your payout in your PayPal account by the end of each month.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_AFJL7a",
+        "content_HXDUHp",
+        "content_XDbN3K",
+        "content_AJ48xm",
+        "content_kqfB8g",
+        "content_ybeerB",
+        "content_YhPqGd",
+        "content_Q6Krg8",
+        "content_Ntfb6c"
+      ],
+      "settings": {
+        "link": "",
+        "title": "FAQ",
+        "width": "standard",
+        "padding_top": 56,
+        "padding_bottom": 56,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "standard_text_description_CjbUfr": {
+      "type": "standard-text-description",
+      "custom_css": [
+        ".image-textv1 {margin-top: 15px;}"
+      ],
+      "settings": {
+        "bgimage": "shopify:\/\/shop_images\/Our-Journey_1600x480_c502864a-346b-4e76-8f6f-83d6d7305fc2_1.png",
+        "bgcolor": "#e8e8e8",
+        "bgwidth": "full",
+        "header": "Join Us on the Journey",
+        "color_title": "#ffffff",
+        "align_text": "center",
+        "content_area": "<p>At Xtendlife, we believe in offering a better way for our customers to take care of their health. With our commitment to scientific research, quality, and our expert team, we are dedicated to improving the health and well-being of our customers. Join us on this journey and experience the difference that Xtendlife can make in your health and vitality.<\/p>",
+        "color_content": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "page_slideshow_classic_btWnNX",
+    "custom_html_X9kcWJ",
+    "main",
+    "certifications_wNYFqC",
+    "index_faq_MCGPWr",
+    "standard_text_description_CjbUfr"
+  ]
+}

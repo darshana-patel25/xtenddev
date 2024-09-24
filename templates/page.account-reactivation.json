@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "main": {
+      "type": "re-registration-form",
+      "custom_css": [
+        ".container {justify-content: center;}"
+      ],
+      "settings": {
+        "showfirstname": false,
+        "showlastname": false,
+        "richtext": "<p>Over the coming months we will be making a number of website improvements to help give you a better experience and more options.<\/p><p>Recently we added some new payment options, ShopPay, Google Pay and Apple Pay,<br\/>making it even easier to purchase your favourite products.<\/p>",
+        "display_payment_methods": true,
+        "payment_page_url": "",
+        "payment_enabled_visa": false,
+        "payment_enabled_master": false,
+        "payment_enabled_paypal": false,
+        "payment_enabled_american_express": false,
+        "payment_enabled_jcb": false,
+        "payment_enabled_shoppay": true,
+        "payment_enabled_applepay": true,
+        "payment_enabled_gpay": true,
+        "payment_enabled_alipay": false,
+        "richtext_data": "<p>To make these payment options available and provide ongoing future improvements, we are migrating your account and all of your order history to a new store.<\/p><p>This means you will need to reactivate your existing account with us and we've made this as painless as possible.<\/p><p>If you already recieved your new account activation email then you can login to your account here.<\/p><p>If not, follow these steps below.<\/p><ol><li>Use the form below to enter your. <\/li><li>You will revieve an account activation to your email address.<\/li><li>Click on the button in the account activation email.<\/li><\/ol>",
+        "image_position": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

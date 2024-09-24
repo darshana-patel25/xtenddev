@@ -1,0 +1,74 @@
+{
+  "sections": {
+    "banner": {
+      "type": "banner",
+      "disabled": true,
+      "settings": {
+        "image_darken": true,
+        "subtitle": "Subheading",
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "404__main",
+      "settings": {
+        "not_found_text": "<h3>Hmm…looks like the page you’re after cannot be found.<\/h3><p><\/p><p>It might have been removed, had its name changed or is temporarily unavailable.<\/p>",
+        "display_search_field": true,
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "15dd0950-cf1d-41de-91a9-a5f0e8aa8a6c": {
+      "type": "editorial-blocks-static",
+      "blocks": {
+        "fc08b85c-bab8-49b9-a0df-b475d4c9d337": {
+          "type": "row",
+          "settings": {
+            "block_enabled_1": true,
+            "block_url_1": "",
+            "block_image_1": "shopify:\/\/shop_images\/404-Message-Supplements-400x400_767x_1.png",
+            "block_heading_1": "Our Supplements Range",
+            "block_subcopy_1": "",
+            "block_cta_1": "Shop Now",
+            "block_horizontal_1": "center",
+            "block_vertical_1": "middle",
+            "block_enabled_2": true,
+            "block_url_2": "",
+            "block_image_2": "shopify:\/\/shop_images\/404-Message-Skincare-400x400_26d96e12-4f99-4966-a587-52659734dab8_767x_crop_center_2x_1.png",
+            "block_heading_2": "Our Skincare Range",
+            "block_subcopy_2": "",
+            "block_cta_2": "Shop Now",
+            "block_horizontal_2": "center",
+            "block_vertical_2": "middle",
+            "block_enabled_3": true,
+            "block_url_3": "",
+            "block_image_3": "shopify:\/\/shop_images\/404-Message-Zuerfoods-400x400_767x_crop_center_2x_1.png",
+            "block_heading_3": "Our Superfood Range",
+            "block_subcopy_3": "",
+            "block_cta_3": "Shop Now",
+            "block_horizontal_3": "center",
+            "block_vertical_3": "middle"
+          }
+        }
+      },
+      "block_order": [
+        "fc08b85c-bab8-49b9-a0df-b475d4c9d337"
+      ],
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "main",
+    "15dd0950-cf1d-41de-91a9-a5f0e8aa8a6c"
+  ]
+}

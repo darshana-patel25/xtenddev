@@ -1,0 +1,628 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "df106696-6a19-47ea-8059-eba98c8cce09": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14457907314806__df106696-6a19-47ea-8059-eba98c8cce09-1672134577dc3baee1-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Total-Balance-Page_1920x1020_2b926ef9-3edd-4249-82b2-f36471c3ac02.png",
+            "tablet_image": "shopify:\/\/shop_images\/Total-Balance--iPad-768x475.png",
+            "mobile_image": "shopify:\/\/shop_images\/Total-Balance-Mob-560x560_a680c010-da1e-4193-b9f3-8631ba5cca81.png",
+            "pretext_tag": "<p>Serving <strong>400,000+<\/strong> customers globally<\/p>",
+            "title": "The Most Comprehensive Multivitamin",
+            "pretext": "",
+            "subtitle": "<p>Formulated with a fusion of 90+ vitamins, minerals, enzymes, herbs, and other pivotal nutrients, each Total Balance is designed for the specific needs of age and gender to support everyday wellness.<\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#005895",
+            "heading_color": "#005895",
+            "subheading_color": "#005895",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "60",
+            "button_1": "SHOP TOTAL BALANCE",
+            "button_1_link": "",
+            "button_1_style": "button--primary",
+            "button_1_color": "#00a9d5",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--14457907314806__df106696-6a19-47ea-8059-eba98c8cce09-1672134577dc3baee1-0"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 768px) and (max-width: 1023px) {.image-slideshow .caption {top: 50%; } .total-slider .caption-content {width: 50%; } .total-slider .slideshow-classic__banner h1.title {font-size: 34px; line-height: 1.2; } .total-slider .image-slideshow .subtitle {font-size: 15px; }}"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "800px",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "total-slider",
+        "custom_css": ".image-slideshow .caption{\ntop: 40%;\n}"
+      }
+    },
+    "260655bf-c6f9-46f2-ab05-c012222d061e": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "ac823072-a366-4034-aa5f-da07a705d4c6": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "8ad0e01f-eb0a-4388-8b94-4891561bb545": {
+      "type": "title-with-subtitle",
+      "disabled": true,
+      "settings": {
+        "title": "Total Balance - Go Beyond Multi-Vitamins",
+        "description": "<p>If you are going to take one supplement, then this is it. Way beyond a multi-vitamin, it’s a complete nutrient system with specifically tailored versions for men and women.<\/p><p>Manufactured in New Zealand with over 90 vitamins, minerals, enzymes, herbs and other nutrients, all designed to synergistically work together. Based on science and constantly updated for 20 years, we and 20,000+ customers believe that this is the most comprehensive supplement available.<\/p>"
+      }
+    },
+    "80a3574c-c1a9-427f-b6d8-85c541cc48d3": {
+      "type": "image-with-text-column",
+      "blocks": {
+        "d72d90d7-0af7-493e-b51d-a729362f4159": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-General_health.png",
+            "title": "The Foundation of Good Health",
+            "description": "A complete nutrient system to feed your cells the right nutrients, in the right amounts, at the right time supporting energy levels, immunity and foundational health."
+          }
+        },
+        "74f2a714-27ca-49fb-82a1-77898cb0674c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Enhanced_anti-aging_support.png",
+            "title": "Anti-Aging Formula",
+            "description": "With age-defying nutrients to support your entire body at a cellular level, Total Balance helps maintain youthful cell function, giving you an advantage in tackling the main causes of aging."
+          }
+        },
+        "8891f1a1-789f-4508-b98a-6056024e4f81": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Optimised_for_Men_and_Women.png",
+            "title": "Optimised for Men and Women",
+            "description": "Our gender-specific formulas support the specific needs of men and women, including prostate and testosterone support for men and support for menopause and PMS for women."
+          }
+        }
+      },
+      "block_order": [
+        "d72d90d7-0af7-493e-b51d-a729362f4159",
+        "74f2a714-27ca-49fb-82a1-77898cb0674c",
+        "8891f1a1-789f-4508-b98a-6056024e4f81"
+      ],
+      "settings": {
+        "title": "Go Beyond Multivitamins",
+        "richcontent": "<p>If you are going to take one supplement, then this is it. Way beyond a multivitamin, it’s a complete nutrient system with specifically tailored versions for men and women.<\/p><ul><li> Manufactured in New Zealand<\/li><li> 90+ vitamins, minerals, enzymes, herbs and other nutrients<\/li><li>  Based on science and constantly updated for 20 years<\/li><\/ul>"
+      }
+    },
+    "f5fb8b52-eae2-4c23-9d02-22cc970f47de": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "859ff160-64b1-42bd-85f5-0a5724dd4b6d": {
+      "type": "video-with-text",
+      "disabled": true,
+      "settings": {
+        "video": "https:\/\/player.vimeo.com\/video\/625077457",
+        "horizontal_alignment": "right",
+        "title": "The Search for Health",
+        "description": "<p>Total Balance was born out of a personal quest by Warren Matthews, founder of Xtend-Life to increase his health span at the same time as he increased his life span. The journey started with vitamins and developed into a complete multi-nutrient solution, with minerals, enzymes, amino acids and age-defying nutrients, all in their premium forms, to support cellular health and keep all the systems of his body in balance.<\/p><p>In this video, Warren shares how it has helped support his family against the causes of aging for over 20 years.<\/p>"
+      }
+    },
+    "ebe0a840-72ec-4dc7-9264-b40c79e94fd4": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "individual_product_tab_N6z64M": {
+      "type": "individual-product-tab",
+      "blocks": {
+        "product_akcn78": {
+          "type": "product",
+          "settings": {
+            "tab_1": "Standard",
+            "pro_url_1": "total-balance-mens",
+            "tab_2": "Premium",
+            "pro_url_2": "total-balance-mens-premium"
+          }
+        },
+        "product_cATTWd": {
+          "type": "product",
+          "settings": {
+            "tab_1": "Standard",
+            "pro_url_1": "total-balance-womens",
+            "tab_2": "Premium",
+            "pro_url_2": "total-balance-womens-premium"
+          }
+        },
+        "product_zPweEV": {
+          "type": "product",
+          "settings": {
+            "tab_1": "",
+            "pro_url_1": "total-balance-childrens",
+            "tab_2": "",
+            "pro_url_2": ""
+          }
+        },
+        "product_QALWjh": {
+          "type": "product",
+          "settings": {
+            "tab_1": "",
+            "pro_url_1": "total-balance-unisex",
+            "tab_2": "",
+            "pro_url_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_akcn78",
+        "product_cATTWd",
+        "product_zPweEV",
+        "product_QALWjh"
+      ],
+      "settings": {
+        "header": "Foundational Health Products",
+        "class_name": "",
+        "custome_css": ""
+      }
+    },
+    "3687b792-4840-4ce6-8af0-78166345545d": {
+      "type": "product-selector-tab",
+      "blocks": {
+        "d57da190-f1dd-4983-9402-b6c60a9bb187": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Men's",
+            "tab_1": "",
+            "pro_url_1": "total-balance-mens-premium",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "Standard",
+            "pro_url_2": "total-balance-mens",
+            "bgcolor_2": "#ffffff",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        },
+        "98cbebb8-c140-4584-be92-bbc8bfc02258": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Women's",
+            "tab_1": "Premium",
+            "pro_url_1": "total-balance-womens-premium",
+            "bgcolor_1": "#f4cbe8",
+            "tab_2": "Standard",
+            "pro_url_2": "total-balance-womens",
+            "bgcolor_2": "#ffffff",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        },
+        "613bfb3c-c509-4716-a569-5d9abe0bc891": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Unisex",
+            "tab_1": "Standard",
+            "pro_url_1": "total-balance-unisex",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "Premium",
+            "pro_url_2": "total-balance-unisex-premium",
+            "bgcolor_2": "#cae9fb",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        },
+        "1dba3d4e-6e76-40b4-bcc1-a0d00a15cdca": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Children's",
+            "tab_1": "Standard",
+            "pro_url_1": "total-balance-childrens",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "Premium",
+            "pro_url_2": "",
+            "bgcolor_2": "#e3ebf6",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        }
+      },
+      "block_order": [
+        "d57da190-f1dd-4983-9402-b6c60a9bb187",
+        "98cbebb8-c140-4584-be92-bbc8bfc02258",
+        "613bfb3c-c509-4716-a569-5d9abe0bc891",
+        "1dba3d4e-6e76-40b4-bcc1-a0d00a15cdca"
+      ],
+      "disabled": true,
+      "settings": {
+        "standard_tab_bg": "#ffffff",
+        "standard_tab_text": "#005895",
+        "standard_tab_border": "#005895",
+        "standard_tab_bg_active": "#005895",
+        "standard_tab_text_active": "#ffffff",
+        "standard_tab_border_active": "#005895",
+        "header": "Start Your Wellness Journey",
+        "color_title": "#005895",
+        "class_name": "",
+        "custome_css": ""
+      }
+    },
+    "9195f01d-5a16-4307-a5ca-2fb9449e00e9": {
+      "type": "title-with-text",
+      "disabled": true,
+      "settings": {
+        "title_class": "h1",
+        "title": "Manufactured in New Zealand from Quality Natural Ingredients",
+        "description": "<p>Total Balance, like all our supplements, is manufactured in our state-of-the-art manufacturing facility in New Zealand, which is FDA registered and GMP certified.<\/p><p>We know that a supplement is only as good as the ingredients that go into it - ingredients of the same name can vary enormously in efficacy depending upon where they are sourced – that’s why we only use the natural, most bioactive forms of ingredients, which are better for your body and absorbed more completely.<\/p><p>To make Total Balance even more effective, the ingredients are protected by a special enteric coating to ensure that stomach acids don’t damage or destroy the nutrients before they reach the upper intestine where the body can make best use of them.<\/p><p>These extra steps are part of our commitment to making Total Balance the most comprehensive supplement available.<\/p>"
+      }
+    },
+    "54cc68d0-7f73-461d-a4f9-9b9a5bc0c9ad": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "template--14720675348577__54cc68d0-7f73-461d-a4f9-9b9a5bc0c9ad-image-1": {
+          "type": "image",
+          "settings": {
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "template--14720675348577__54cc68d0-7f73-461d-a4f9-9b9a5bc0c9ad-text-1": {
+          "type": "text",
+          "settings": {
+            "title": "Total Balance = Your Daily Nutritional Foundation",
+            "heading_size": "regular",
+            "text": "<h3>Vitamins<\/h3><p>Over 90 essential vitamins you need each day.<\/p><h3>Minerals and Micro Nutrients<\/h3><p>Promote cell growth and builds immunity.<\/p><h3>Powerful Antioxidants<\/h3><p>Resists the damage caused by free radicals.<\/p><h3>Amino Acids<\/h3><p>Builds protein and supporting metabolism and cellular health.<\/p><h3>Enzymes <\/h3><p>Boosts bioavailability of the nutrients and deliver nutrients to cells.<\/p><h3>Eye Health Blend<\/h3><p>Targeted eye-nourishing nutrients for healthy vision.<\/p><p><\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14720675348577__54cc68d0-7f73-461d-a4f9-9b9a5bc0c9ad-image-1",
+        "template--14720675348577__54cc68d0-7f73-461d-a4f9-9b9a5bc0c9ad-text-1"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "total-balance",
+        "custom_css": ".total-balance .content h3 {\n\tfont-size: 22px !important;\n\tcolor: #005895;\n\tmargin-top: 20px;\n   margin-bottom: 0;\n}\n.total-balance .content p {\n\tfont-size: 18px;\n\tfont-family: lora-regular;\n\tmargin-bottom: 0 !important;\n}"
+      }
+    },
+    "90b3291f-f763-4de7-846f-0e21035e9b83": {
+      "type": "testimonial",
+      "blocks": {
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-0": {
+          "type": "supplements",
+          "settings": {
+            "title": "Total Balance Men's Premium",
+            "quote": "<p><strong>Class of its Own<\/strong><br\/>Total Balance Men's Premium is a game changer in supplementation. I’ve used these for about eight years and when I delay an order and try something else, I always regret it. I see and feel the difference in my energy, appearance, and health. It also helps knowing that it positively impacts every system in the body.<\/p>",
+            "rating": 5,
+            "author": "Wayne, USA",
+            "featured_product": ""
+          }
+        },
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-1": {
+          "type": "skincare",
+          "settings": {
+            "title": "Total Balance Women's Premium",
+            "quote": "<p><strong>To Feel Your Best<br\/><\/strong>I have been taking Total Balance Women's for several years now. I found it looking for the most complete vitamin without taking a handful of pills throughout the day. This one checked all the boxes! As a post-menopausal woman who had occasional hot flashes, I knew that moving into the next chapter of my life required making a few better choices for my aging body. This vitamin makes me feel better.<\/p>",
+            "rating": 5,
+            "author": "Bunny, USA",
+            "featured_product": ""
+          }
+        },
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-2": {
+          "type": "service",
+          "settings": {
+            "title": "Total Balance Men's Standard",
+            "quote": "<p><strong>I trust Xtend-Life's Total Balance Vitamins<br\/><\/strong>I am 52 years of age and have been taking this product for several years. I have always been health-conscious and did not want to waste money on vitamins that did not get into my system properly and with the proper effects. Xtend-Life has done extensive research into what vitamins... I have found no other company in the world follows stricter manufacturing guidelines.<\/p>",
+            "rating": 5,
+            "author": "Aaron, USA",
+            "featured_product": ""
+          }
+        },
+        "002be554-5082-454c-a729-370e5bd16fe4": {
+          "type": "supplements",
+          "settings": {
+            "title": "Total Balance Women's Standard",
+            "quote": "<p><strong>Great Comprehensive Supplement<br\/><\/strong>I have been taking these for years and feel great. Considering all the ingredients included in this dietary supplement it is the best bang for your buck. I have done a lot of research on vitamins and nutritional supplements, and Total Balance is still the best in terms of the types and amounts of micronutrients it offers. Definitely recommend!<\/p>",
+            "rating": 5,
+            "author": "Tamara, USA",
+            "featured_product": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-0",
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-1",
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-2",
+        "002be554-5082-454c-a729-370e5bd16fe4"
+      ],
+      "settings": {
+        "background_bg": "#005895",
+        "review_block_bg": "#e8e8e8",
+        "dots_bg": "#00a9d5",
+        "dotsactive_bg": "#005895",
+        "title": "What Customers Say About Total Balance",
+        "enable_overlay": false,
+        "author_tick": false,
+        "text_alignment": "center",
+        "heading_color": "#005895",
+        "content_color": "#005895",
+        "author_color": "#231f20"
+      }
+    },
+    "0514d46e-b629-477a-a1b7-a17a53b46cee": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "6f1b1de3-6227-48c1-9c47-788564773215": {
+      "type": "info-grid",
+      "blocks": {
+        "7dafaae2-903e-4546-bc93-5986286098de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-General_health.png",
+            "title": "General Health",
+            "description": "<ul>\n<li>Liver health<\/li>\n<li>Lung health<\/li>\n<li>Skin elasticity & hydration<\/li>\n<li>Strong bones<\/li>\n<li>Exercise recovery<\/li>\n<li>Sharp vision & eye protection<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "92fae889-68db-41f8-baba-ba0622d7845e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Cardiovascular.png",
+            "title": "Cardiovascular",
+            "description": "<ul>\n<li>Healthy blood vessels<\/li>\n<li>Blood flow<\/li>\n<li>Healthy blood pressure<\/li>\n<li>Vasodilation<\/li>\n<li>Healthy cholesterol & triglycerides<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "a1de839e-ddfc-496c-b0f7-cdb1d4fca40c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Telomeres-Anti-Aging.png",
+            "title": "Telomeres & Anti-Aging",
+            "description": "<ul>\n<li>Telomere protection<\/li>\n<li>Antioxidant protection for cells & DNA<\/li>\n<li>Anti-inflammatory<\/li>\n<li>Cellular energy<\/li>\n<li>Positive outlook<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "e9117157-5b75-4b54-88bf-ba5b0df31224": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Mental_Health_Brain.png",
+            "title": "Mental Health & Brain",
+            "description": "<ul>\n<li>Memory, cognition & focus<\/li>\n<li>Anti-aging vitamins for brain<\/li>\n<li>Neuroprotection<\/li>\n<li>Positive outlook<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "502f33d1-2f17-4af3-a208-5d29c4caea63": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Immunity.png",
+            "title": "Immunity",
+            "description": "<ul>\n<li>Innate immunity<\/li>\n<li>Acquired immunity<\/li>\n<li>Anti-viral defenses<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "5acda0b5-b599-41bb-afa2-6c0288127130": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Metabolic.png",
+            "title": "Metabolic",
+            "description": "<ul>\n<li>Glycemic control<\/li>\n<li>Fat burning<\/li>\n<li>Metabolic syndrome<\/li>\n<li>Weight control<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "8744f57f-964f-4806-89ae-8b428fcfcf4f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Joint_Health.png",
+            "title": "Joints",
+            "description": "<ul>\n<li>Joint comfort<\/li>\n<li>Improved mobility<\/li>\n<li>Cartilage regeneration<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "00387024-167b-4132-acf7-289a10d5dc5f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Digestion.png",
+            "title": "Digestion",
+            "description": "<ul>\n<li>Enzymes to assist digestion<\/li>\n<li>Maintain function of gut lining<\/li>\n<li>Encourage regular bowel movements<\/li>\n<li>Reduce gas and bloating<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "bb7516cd-00f6-4745-8099-c557c4acf05b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Benefit_Icon-Sexual_Hormonal_Health.png",
+            "title": "Sexual & Hormonal Health",
+            "description": "<ul>\n<li>Prostate support (Men’s)<\/li>\n<li>Testosterone support (Men’s)<\/li>\n<li>Menopause relief (Women’s)<\/li>\n<li>PMS support (Women’s)<\/li>\n<li>Libido (Men & Women’s)<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "7dafaae2-903e-4546-bc93-5986286098de",
+        "92fae889-68db-41f8-baba-ba0622d7845e",
+        "a1de839e-ddfc-496c-b0f7-cdb1d4fca40c",
+        "e9117157-5b75-4b54-88bf-ba5b0df31224",
+        "502f33d1-2f17-4af3-a208-5d29c4caea63",
+        "5acda0b5-b599-41bb-afa2-6c0288127130",
+        "8744f57f-964f-4806-89ae-8b428fcfcf4f",
+        "00387024-167b-4132-acf7-289a10d5dc5f",
+        "bb7516cd-00f6-4745-8099-c557c4acf05b"
+      ],
+      "settings": {
+        "title": "Why do I need Xtend-Life's Total Balance?",
+        "description": ""
+      }
+    },
+    "e4f77ff6-0199-4c9b-97d0-eb9cde8b77db": {
+      "type": "standard-text-description",
+      "settings": {
+        "bgcolor": "rgba(0,0,0,0)",
+        "bgwidth": "full",
+        "header": "Which Total Balance Version is Right for Me?",
+        "color_title": "#005895",
+        "align_text": "left",
+        "content_area": "<div>\n<table class=\"ingerdient_table\">\n<thead>\n<tr>\n<th style=\"text-align: center;\" scope=\"col\"> <\/th>\n<th style=\"display: flex;align-items: center;background: #e8e8e8;\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/0f861eaa5b9a8c2b86ea78c8367ca206.png\" alt=\"\" style=\"width: 120px;\"> <br> <a style=\"\/*! color: #ed9727; *\/\" href=\"\/products\/total-balance-mens-premium\">Total Balance Premium<\/a>\n<\/th>\n<th style=\"background: #e8e8e8;\/*! display: flex; *\/\/*! align-items: center; *\/\">\n<div class=\"flex\">\n<img alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/46d6d15f87218c863aab839505b138bf.png\" style=\"width: 120px;\"><br><a href=\"\/products\/total-balance-mens\"> Total Balance Standard<\/a>\n<\/div>\n<\/th>\n\n\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<th>Full Spectrum Multi-vitamin<\/th>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>DNA and Cell Repair<\/th>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Immunity Support<\/th>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Anti-Aging Formula<\/th>\n<td style=\"color: #00A9D5;\">Enhanced<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Enzymes, Amino Acids<\/th>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Enteric Coating<\/th>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Tablets a Day<\/th>\n<td style=\"color: #00A9D5;\">7<\/td>\n<td style=\"color: #00A9D5;\">4<\/td>\n\n\n<\/tr>\n<tr>\n<th>Price (30 Day Supply)<\/th>\n<td style=\"font-weight: bold;\">$105.95<\/td>\n<td style=\"font-weight: bold;\">$54.95<\/td>\n<\/tr>\n<tr>\n<th style=\"border: none;\"><\/th>\n<td style=\"border: none;padding: 0 20px;\"><a href=\"#productbundle-shop\" class=\"productbundle-shop\">SHOP PREMIUM<\/a><\/td>\n<td style=\"border: none;padding: 0 20px;\"><a href=\"#productbundle-shop\" class=\"productbundle-shop\" style=\"background: #005895;\">SHOP standard<\/a><\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>",
+        "color_content": "#005895"
+      }
+    },
+    "ac1df486-aa4c-4d71-b663-58744e3edaf2": {
+      "type": "guarantee",
+      "disabled": true,
+      "settings": {
+        "title": "Our 365 Day Good Health Guarantee",
+        "description": "<p>We’d like you to join the hundreds of thousands of our customers who have made an investment in their health. They’ve told us the nutrients in Total Balance have built health they can see and feel, from the appearance of their skin, hair and nails, to energy levels, sleep and immunity.<\/p><p>To remove the risk we’re offering you this guarantee: Try Total Balance now. If you don’t feel the benefits within two to three months we will give you a full refund, less the shipping costs, when you return your empty or unopened bottle within 365 days of purchase.<\/p>",
+        "image": "shopify:\/\/shop_images\/Total_Blance_Guarantee.png"
+      }
+    },
+    "22077669-94d8-473e-af92-698e758baf81": {
+      "type": "index__image-with-text-overlay",
+      "settings": {
+        "link": "",
+        "image": "shopify:\/\/shop_images\/365-Day_Desk_1900x324_151bc16a-d12b-4e64-935f-221bafae9950.png",
+        "mobile_image": "shopify:\/\/shop_images\/365-Day_MOB_385x284_9257ec54-7c2f-484b-83f2-210f9c69002b.png",
+        "pretext": "",
+        "title": "365 Day Good Health Guarantee",
+        "subtitle": "<p>If you don’t feel the benefits within two to three months we will give you a full refund, less the shipping costs, when you return your empty or unopened bottle within 365 days of purchase.<\/p>",
+        "pretext_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "subheading_color": "#ffffff",
+        "text_alignment": "center",
+        "text_horizontal_position": "center",
+        "text_vertical_position": "middle",
+        "background_color": "#ffffff",
+        "background_opacity": 0,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 70,
+        "button_1": "SHOP TOTAL BALANCE",
+        "button_1_link": "",
+        "button_1_style": "button--secondary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--secondary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "rgba(0,0,0,0)",
+        "subheading_color_mobile": "rgba(0,0,0,0)",
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "total-balanceimg",
+        "custom_css": ".total-balanceimg  p{\n font-size: 16px;\n}\n.image-with-text-overlay__buttons .button{\nflex: unset;\nborder-radius: 50px;\nbackground: #ffff;\ncolor: #005895;\nfont-size: 16px;\n}"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "df106696-6a19-47ea-8059-eba98c8cce09",
+    "260655bf-c6f9-46f2-ab05-c012222d061e",
+    "ac823072-a366-4034-aa5f-da07a705d4c6",
+    "8ad0e01f-eb0a-4388-8b94-4891561bb545",
+    "80a3574c-c1a9-427f-b6d8-85c541cc48d3",
+    "f5fb8b52-eae2-4c23-9d02-22cc970f47de",
+    "859ff160-64b1-42bd-85f5-0a5724dd4b6d",
+    "ebe0a840-72ec-4dc7-9264-b40c79e94fd4",
+    "individual_product_tab_N6z64M",
+    "3687b792-4840-4ce6-8af0-78166345545d",
+    "9195f01d-5a16-4307-a5ca-2fb9449e00e9",
+    "54cc68d0-7f73-461d-a4f9-9b9a5bc0c9ad",
+    "90b3291f-f763-4de7-846f-0e21035e9b83",
+    "0514d46e-b629-477a-a1b7-a17a53b46cee",
+    "6f1b1de3-6227-48c1-9c47-788564773215",
+    "e4f77ff6-0199-4c9b-97d0-eb9cde8b77db",
+    "ac1df486-aa4c-4d71-b663-58744e3edaf2",
+    "22077669-94d8-473e-af92-698e758baf81"
+  ]
+}

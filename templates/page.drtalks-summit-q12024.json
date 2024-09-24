@@ -1,0 +1,641 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "index_slideshow_classic_E3VzPx": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "image_9wEfGT": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/DrTalks_GG_Desk_1920x1020_fd6a8639-b711-45da-b7ac-2ddb11157c55.png",
+            "tablet_image": "shopify:\/\/shop_images\/DrTalks_GG_iPad-768x475.png",
+            "mobile_image": "shopify:\/\/shop_images\/DrTalks_GG_Mob-560x560.png",
+            "pretext_tag": "<p>Your Key to a Healthier Heart<\/p>",
+            "title": "Uncover the Power of GG",
+            "pretext": "",
+            "subtitle": "<p>Explore the heart-boosting power of GG, the essential building block of CoQ10. This vital compound supports heart health and cellular function, while also showing promise in managing Statin-Associated Muscle Symptoms (SAMs). Uncover the pivotal role of GG today for a healthier heart and enhanced well-being!<\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#005895",
+            "heading_color": "#005895",
+            "subheading_color": "#005895",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "42",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_1_color": "#36659c",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        }
+      },
+      "block_order": [
+        "image_9wEfGT"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "custom_html_n9LBk9": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "index_slideshow_with_text_YDFcbx": {
+      "type": "index__slideshow-with-text",
+      "blocks": {
+        "image_Eieecr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Video_WebPage-Thumnail_Dr-Kahn_Dr.Tan_0e9e137c-01c9-4cf8-b0ef-fb39273f3dde.png",
+            "video_id": "https:\/\/player.vimeo.com\/video\/913531549",
+            "pretext": "<p>DrTalks Special <\/p>",
+            "title": "Discover GG-Pure: Replenish, Restore, Revitalize",
+            "text": "<p>With Dr. Kahn and Dr. Barrie Tan<\/p><p><\/p><p>Learn how statin medications lower LDL-cholesterol to reduce heart disease risk and impact the production of essential compounds in the body. Discover how GG-Pure, a vitamin from the Amazon, helps restore balance by replenishing the beneficial compounds reduced by statins.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_Eieecr"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 767px) {.image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--left {width: 100%; margin-bottom: 15px; } .text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {width: 100%; } .width_bind {display: block; width: 90%; align-items: center; }}"
+      ],
+      "settings": {
+        "background_color": "#eeeeee",
+        "text_color": "#005895",
+        "content_color": "#231f20",
+        "text_alignment": "left",
+        "text_transition": "fadeIn",
+        "button_style": "button--primary",
+        "show_nav_buttons": false,
+        "image_position": "left",
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "css_class": "",
+        "custom_css": ".image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--left {\n  width: 35%;\n}\n.text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {\n  width: 65%;\n}\n.text-slideshow__heading.banner__subheading p {\n  color: #969696;\n}\n.text-slideshow__heading p {\n\tfont-family: \"lora-regular\";\n}\n.text-slideshow__slide{\npadding-right: 0px;}"
+      }
+    },
+    "index_featured_product_XjMDVD": {
+      "type": "index__featured-product",
+      "blocks": {
+        "review_YRbeEa": {
+          "type": "review",
+          "settings": {
+          }
+        },
+        "title_8ALtMz": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_Gd4Jbn": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "product_summary_Nk7CbW": {
+          "type": "product-summary",
+          "settings": {
+            "learn_more": "Learn More"
+          }
+        },
+        "form_JdeAkz": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": false
+          }
+        },
+        "shipping_bar_Y7GRVf": {
+          "type": "shipping-bar",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/free-shipping-icon.png",
+            "text": "<p>Free DHL shipping with this bundle for U.S.\/CAN<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "review_YRbeEa",
+        "title_8ALtMz",
+        "price_Gd4Jbn",
+        "product_summary_Nk7CbW",
+        "form_JdeAkz",
+        "shipping_bar_Y7GRVf"
+      ],
+      "custom_css": [
+        ".flickity-enabled.is-draggable .flickity-viewport {pointer-events: none;}",
+        ".product-hero__summary {font-family: Lora-regular;}"
+      ],
+      "settings": {
+        "featured_product": "gg-pure-3-month-bundle",
+        "product_images_position": "left",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "gallery_arrows": false,
+        "enable_zoom": false,
+        "enable_product_lightbox": false,
+        "slideshow_speed": 0,
+        "slideshow_transition": "slide",
+        "display_thumbnails": false,
+        "thumbnail_position": "bottom-thumbnails",
+        "enable_thumbnail_slider": false,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ".flickity-page-dots {\n\tdisplay: none;\n}\n.product-block--shipping-bar {\n\tborder-bottom: 2px solid;\n\tborder-color: rgba(0,89,152,20%);\n}"
+      }
+    },
+    "index_logo_list_QP83eb": {
+      "type": "index__logo-list",
+      "blocks": {
+        "logo_image_hckpM9": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/USA-Today-Logo.svg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "logo_image_rJ3V9m": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-CBS_News.png",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "logo_image_f4eyPA": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DrTalks_Logo-02.png",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "logo_image_LXa8Pa": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-Fox_News.png",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "logo_image_cF3JDy": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-NBC.png",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_hckpM9",
+        "logo_image_rJ3V9m",
+        "logo_image_f4eyPA",
+        "logo_image_LXa8Pa",
+        "logo_image_cF3JDy"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 525px) {.collection_list_title::before, .collection_list_title::after {display: none; }}"
+      ],
+      "settings": {
+        "title": "As Seen On",
+        "logos_per_row": 5,
+        "logo_size": "medium",
+        "background": "#eeeeee",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "width": "standard",
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ".collection_list_title {\n    position: relative;\n     max-width: 430px;\n     margin: 0 auto;\n     margin-bottom: 15px;\nfont-size: 22px;\n}\n.collection_list_title::before, .collection_list_title::after {\n\tcontent: \"\";\n\tdisplay: block;\n\theight: 1.5px;\n\twidth: 150px;\n\tposition: absolute;\n\tbackground: #005895;\n\tbottom: 6px;\n}\n.collection_list_title::before{\n   left: 0;\n}\n.collection_list_title::after {\n\tright: 0;\n}"
+      }
+    },
+    "index_featured_product_h9p3jL": {
+      "type": "index__featured-product",
+      "blocks": {
+        "review_rRttRd": {
+          "type": "review",
+          "settings": {
+          }
+        },
+        "title_TLiFML": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "price_j9Y6CB": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "product_summary_Tk8q6K": {
+          "type": "product-summary",
+          "settings": {
+            "learn_more": "Learn More"
+          }
+        },
+        "form_yHqPyP": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": false
+          }
+        },
+        "shipping_bar_zzzEgQ": {
+          "type": "shipping-bar",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/free-shipping-icon.png",
+            "text": "<p>Free DHL shipping with this bundle for U.S.\/CAN<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "review_rRttRd",
+        "title_TLiFML",
+        "price_j9Y6CB",
+        "product_summary_Tk8q6K",
+        "form_yHqPyP",
+        "shipping_bar_zzzEgQ"
+      ],
+      "custom_css": [
+        ".flickity-enabled.is-draggable .flickity-viewport {pointer-events: none;}",
+        ".product-hero__summary {font-family: Lora-regular;}"
+      ],
+      "settings": {
+        "featured_product": "xtend-quinol-6-month-bundle",
+        "product_images_position": "left",
+        "set_product_height": false,
+        "product_height": 500,
+        "video_looping": false,
+        "gallery_arrows": false,
+        "enable_zoom": false,
+        "enable_product_lightbox": true,
+        "slideshow_speed": 0,
+        "slideshow_transition": "slide",
+        "display_thumbnails": true,
+        "thumbnail_position": "bottom-thumbnails",
+        "enable_thumbnail_slider": true,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ".flickity-page-dots {\n\tdisplay: none;\n}\n.product-block--shipping-bar {\n\tborder-bottom: 2px solid;\n\tborder-color: rgba(0,89,152,20%);\n}"
+      }
+    },
+    "product_selector_tab_QncqTH": {
+      "type": "product-selector-tab",
+      "blocks": {
+        "product_anjCTL": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "CoQ10 + Statin Support",
+            "tab_1": "",
+            "pro_url_1": "gg-pure-omega-3-qh-premium-coq10",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "",
+            "pro_url_2": "gg-pure-xtend-quinol",
+            "bgcolor_2": "rgba(0,0,0,0)",
+            "tab_3": "",
+            "pro_url_3": "",
+            "bgcolor_3": "rgba(0,0,0,0)",
+            "tab_4": "",
+            "pro_url_4": "",
+            "bgcolor_4": "rgba(0,0,0,0)"
+          }
+        },
+        "product_xzePVJ": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Blood Pressure + Calcification",
+            "tab_1": "",
+            "pro_url_1": "gg-pure-vasqflow",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "",
+            "pro_url_2": "gg-pure-cx8-heart-health-support",
+            "bgcolor_2": "rgba(0,0,0,0)",
+            "tab_3": "",
+            "pro_url_3": "",
+            "bgcolor_3": "rgba(0,0,0,0)",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        }
+      },
+      "block_order": [
+        "product_anjCTL",
+        "product_xzePVJ"
+      ],
+      "settings": {
+        "standard_tab_bg": "#ffffff",
+        "standard_tab_text": "#005895",
+        "standard_tab_border": "#005895",
+        "standard_tab_bg_active": "#1c5497",
+        "standard_tab_text_active": "#ffffff",
+        "standard_tab_border_active": "#005895",
+        "header": "More Heart Health Summit Specials",
+        "color_title": "#005895",
+        "class_name": "",
+        "custome_css": "#productbundle-shop {\n\tpadding-top: 0;\n\tmargin-top: -50px;\n}\n.interest .product-grid {\n\tflex-wrap: wrap !important;\n\tdisplay: flex;\n}"
+      }
+    },
+    "testimonial_qpcHgi": {
+      "type": "testimonial",
+      "blocks": {
+        "supplements_XLFzdT": {
+          "type": "supplements",
+          "settings": {
+            "title": "Supplements",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "rating": 5,
+            "author": "Author's name",
+            "featured_product": ""
+          }
+        },
+        "skincare_VhQrQr": {
+          "type": "skincare",
+          "settings": {
+            "title": "Skincare",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "rating": 5,
+            "author": "Author's name",
+            "featured_product": ""
+          }
+        },
+        "service_KtUFH6": {
+          "type": "service",
+          "settings": {
+            "title": "Service",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "rating": 5,
+            "author": "Author's name",
+            "featured_product": ""
+          }
+        },
+        "skincare_PX8Afw": {
+          "type": "skincare",
+          "settings": {
+            "title": "Skincare",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "rating": 5,
+            "author": "Author's name",
+            "featured_product": ""
+          }
+        },
+        "supplements_mGPCCG": {
+          "type": "supplements",
+          "settings": {
+            "title": "Supplements",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "rating": 5,
+            "author": "Author's name",
+            "featured_product": ""
+          }
+        }
+      },
+      "block_order": [
+        "supplements_XLFzdT",
+        "skincare_VhQrQr",
+        "service_KtUFH6",
+        "skincare_PX8Afw",
+        "supplements_mGPCCG"
+      ],
+      "settings": {
+        "background_bg": "#005895",
+        "review_block_bg": "#ffffff",
+        "dots_bg": "#ffffff",
+        "dotsactive_bg": "#ffffff",
+        "title": "20,000+ 5-Star Reviews",
+        "enable_overlay": true,
+        "author_tick": true,
+        "text_alignment": "center",
+        "heading_color": "#005895",
+        "content_color": "#005895",
+        "author_color": "#231f20"
+      }
+    },
+    "divider_c7TJnA": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "info_grid_x8tFi7": {
+      "type": "info-grid",
+      "blocks": {
+        "image_waq4zz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_3237_1.png",
+            "title": "Life-Sustaining",
+            "description": "A strong heart with a healthy cardiovascular system is vital to our livelihood. Heart disease is the leading cause of death worldwide, which causes 1 out of every 4 deaths in the US. Statistics from the Heart Health Foundation show that cardiovascular diseases (CVD) affect nearly half of American adults. In Australia, ¾ of Australians are at risk of developing one  and 1 in 21 adults in New Zealand are living with CVD. CVD can cause symptoms anywhere in the body, sadly some symptoms and risk factors are “silent”. Hence it’s very important to take preventive actions to keep your heart healthy.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_agfEPy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heart_Health_Icon-03_1.png",
+            "title": "Quality of Life",
+            "description": "Heart health is essential to overall good health. The heart pumps nutrient-rich blood throughout the body, supplying oxygen fuel, hormones, and a host of essential cells to organs. This contributes to overall wellbeing, energy levels, and the ability to engage in daily activities without fatigue or discomfort. Without a healthy heart and cardiovascular system, various adverse consequences can occur, which include reduced physical function, dysfunction or failure of vital organs, cardiovascular diseases, impaired oxygen and nutrient delivery, metabolic imbalances, hormonal disorders and more.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_gxmQaE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_3237_2.png",
+            "title": "Heart Health and Men",
+            "description": "Men often have a higher risk of developing cardiovascular diseases (CVD), including coronary artery disease, heart attack, stroke, and heart failure, at a younger age compared to women, this is due to various biological, hormonal, lifestyle, and behavioural factors. Men may engage in specific lifestyle behaviours that increase their risk of CAD, such as higher rates of tobacco use, excessive alcohol consumption, unhealthy dietary habits, and inadequate physical activity. These modifiable risk factors can accelerate the development of CAD and contribute to its onset at a younger age.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "image_GPn9nJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_3237_3.png",
+            "title": "Heart Health and Women",
+            "description": "Cardiovascular health is also critical for women. Although the higher estrogen hormone in women has been associated with some protective cardiovascular effects, however after menopause, when estrogen levels decline, women's risk of cardiovascular diseases may increase dramatically. Additionally, CVD risk in women can be under-recognised because women may experience atypical symptoms of CVD compared to men. These subtler or more diverse symptoms may not always be immediately recognized as signs of heart disease . Hence, understanding heart health risk factors and taking preventive care is vital for women.",
+            "linktitle": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_waq4zz",
+        "image_agfEPy",
+        "image_gxmQaE",
+        "image_GPn9nJ"
+      ],
+      "custom_css": [
+        ".one-third,.col-md-4 {width: calc(50% - 17.5px);}",
+        ".info-grid-desc {font-family: Lora-regular;}",
+        "@media only screen and (max-width: 767px) {.one-third, .col-md-4 {width: calc(100% - 17.5px); } .flex.info-grid-inner {justify-content: space-around; }}"
+      ],
+      "settings": {
+        "title": "Why is Heart Health so Important?",
+        "description": ""
+      }
+    },
+    "index_image_with_text_ixdBgr": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "image_zgkne8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/adaptive_health.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "text_Drhw8W": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_size": "regular",
+            "text": "<h3>Adopting a heart-healthy lifestyle can significantly reduce the risk of developing heart-related conditions. <\/h3><ol><li>A heart healthy lifestyle includes a balanced and heart-healthy diet, regular physical activity, avoid smoking, limit alcohol consumption and manage stress. <\/li><li> Targeted supplementation can make all the difference to make sure that you are getting the proper amount that your body requires. As we age, essential nutrients such as omega-3, CoQ10, and vitamin K2 begin to slowly deplete and decrease in production rate (and absorption rate). These nutrients are crucial to our health and for promoting cardiovascular health and preventing disease.<br\/><\/li><\/ol>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_zgkne8",
+        "text_Drhw8W"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "h3 {\n\tfont-size: 20px;\n\tcolor: #005895;\n}\n.image-with-text__text.content li {\n\tfont-family: Lora;\n}"
+      }
+    },
+    "index_image_with_text_overlay_Nh66Km": {
+      "type": "index__image-with-text-overlay",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "link": "",
+        "image": "shopify:\/\/shop_images\/365-Day_Desk_1900x324_151bc16a-d12b-4e64-935f-221bafae9950.png",
+        "mobile_image": "shopify:\/\/shop_images\/365-Day_MOB_385x284_9257ec54-7c2f-484b-83f2-210f9c69002b.png",
+        "pretext": "",
+        "title": "365 Day Good Health Guarantee",
+        "subtitle": "<p>If you don’t feel the benefits within two to three months we will give you a full refund, less the shipping costs, when you return your empty or unopened bottle within 365 days of purchase.<\/p>",
+        "pretext_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "subheading_color": "#ffffff",
+        "text_alignment": "center",
+        "text_horizontal_position": "center",
+        "text_vertical_position": "middle",
+        "background_color": "#ffffff",
+        "background_opacity": 0,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 65,
+        "button_1": "SHOP HEART HEALTH",
+        "button_1_link": "",
+        "button_1_style": "button--secondary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--secondary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "#005895",
+        "heading_color_mobile": "#005895",
+        "subheading_color_mobile": "#005895",
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "total-balanceimg",
+        "custom_css": ".total-balanceimg p {\n  font-size: 16px;\n}\n.image-with-text-overlay__buttons .button {\n  flex: unset;\n  border-radius: 50px;\n  background: #ffff;\n  color: #005895;\n  font-size: 16px;\n}\n.title span::before {\n  content: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Vector.png?v=1704106695\");\n  padding-right: 6px;\n}\n.caption-content {\n\tpadding-top: 0;\n}"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "index_slideshow_classic_E3VzPx",
+    "custom_html_n9LBk9",
+    "index_slideshow_with_text_YDFcbx",
+    "index_featured_product_XjMDVD",
+    "index_logo_list_QP83eb",
+    "index_featured_product_h9p3jL",
+    "product_selector_tab_QncqTH",
+    "testimonial_qpcHgi",
+    "divider_c7TJnA",
+    "info_grid_x8tFi7",
+    "index_image_with_text_ixdBgr",
+    "index_image_with_text_overlay_Nh66Km"
+  ]
+}

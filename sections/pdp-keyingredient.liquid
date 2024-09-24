@@ -1,0 +1,142 @@
+{% if section.settings.key_ingredient != blank %}
+<div class="section">
+  <h2 class="key_ingredient_title">{{ section.settings.key_ingredient }}</h2>
+  <div class="ingredient-cards ingredientSlider js-filterable">
+        {% for meta_blog in product.metafields.custom.key_ingredients.value %}
+          {% assign article_blog_handle = meta_blog %}
+          	{% assign article = articles[article_blog_handle] %}
+      <div class="ingredient-card ingredient-card js-ingredient-card column two-sixths large-down--eight medium-down--sixteen js-ingredient-card" data-filter-letter="{{ first_letter }}" data-handle="{{ article.handle }}">
+        <div class="ingredient-card__info">
+            <figure class="ingredient-card__image">
+              
+              <!-- {% render 'image-element',
+                                image: article.image,
+                                alt: article.image.alt,
+                                 crop: center
+                        %} -->
+             <img src=" {{ article.image | img_url: '110x110', crop: 'center' }}">
+
+            </figure>
+          <div class="ingredient-card__details"> 
+            <h2 class="ingredient-card__title"><a class="ingredient-card__title--link" href="{{ article.url }}">{{ article.title }}</a></h2>
+            {% if article.metafields.custom.ingredient_descriptions != blank %}
+              {{ article.metafields.custom.ingredient_descriptions | metafield_tag }}
+            {% else %}
+              <p class="ingredient-card__excerpt">{{ article.excerpt  | strip_html }}</p>
+            {% endif %}
+            
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<style>
+  .ingredient-card__image img {
+	width: revert-layer;
+	border-radius: 20px;
+  margin: unset !important;
+}
+  .ingredient-card {
+	padding-top: 15px;
+	padding-bottom: 15px;
+    display: table-cell;
+}
+  .ingredient-card__details {
+	padding-top: 30px;
+	padding-right: 30px;
+}
+  .key_ingredient h2 {
+  	font-size: 40px;
+  	padding: 10px 0 ;
+  }
+  .key_ingredient_title{
+    text-align: center;
+  }
+  .key_ingredient {
+    background: #EEEEEE;
+    padding: 20px 0;
+    margin: 30px 0;
+  }
+  .ingredient-card__details .metafield-rich_text_field {
+	padding-left: 10px;
+	margin-top: 15px;
+}
+  /* @media only screen and (max-width: 767px) { */
+  .ingredientSlider {
+	position: relative;
+    overflow: hidden;
+    /* padding: 0 30px; */
+}
+  .ingredientSlider .slick-arrow {
+	fill: #fff;
+	background: #005895;
+	padding: 7px 7px 2px;
+	border-radius: 50%;
+	z-index: 9;
+	height: auto;
+	width: auto;
+}
+  .ingredientSlider .slick-arrow svg {
+	height: 28px;
+	width: 28px;
+}
+  .ingredient-card__info {
+	padding: 0 50px;
+}
+  .slick-arrow.slick-prev  {
+    left:0;
+  }
+  .slick-arrow.slick-next {
+    right:0;
+  }
+  .ingredientSlider .slick-next::before, .ingredientSlider .slick-prev::before  {
+	content: "";
+}
+.slick-prev:hover, .slick-prev:focus, .slick-next:hover, .slick-next:focus {
+	background: #005895 !important;
+}
+  .slick-arrow.slick-next, .slick-arrow.slick-prev  {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%); 
+}
+  /* } */
+  /* @media only screen and (min-width: 768px) {
+      .ingredient-card {
+    margin-left: 8.75px;
+    margin-right: 8.75px;
+      }
+  .ingredientSlider{
+    display: flex;
+    flex-wrap:wrap;
+  }
+  } */
+  .key_ingredient .ingredient-card__title {
+	font-size: 25px !important;
+	padding: 0 !important;
+}
+  .key_ingredient .ingredient-cards p{
+	margin: 15px 0;
+}
+  </style>
+{% endif %}
+{% schema %}
+  {
+    "name": "Key Ingredients",
+  "class": "key_ingredient",
+  "settings": [
+    {
+      "type": "text",
+      "id": "key_ingredient",
+      "label": "Key Ingredient"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Key Ingredients",
+      "category": "Content"
+    }
+  ]
+  }
+{% endschema %}

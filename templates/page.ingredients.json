@@ -1,0 +1,58 @@
+{
+  "sections": {
+    "index_image_with_text_pL6Crn": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "text_UdPBma": {
+          "type": "text",
+          "settings": {
+            "title": "Using Science to Get the Best Out of Nature...",
+            "heading_size": "regular",
+            "text": "<p>At Xtendlife, we ensure that only the best goes into our quality supplements. No expense is spared in the sourcing of raw ingredients, and each is carefully selected for purity, potency and bioavailability. We then optimize these ingredients by blending them with complementary ingredients to ensure optimal synergy within the formulations.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "#e8e8e8",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        },
+        "image_tqHntN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/01_Ingredient-Page-Banner.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_UdPBma",
+        "image_tqHntN"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "back_clr",
+        "custom_css": ".back_clr{\nposition: relative;\npadding: 40px 0;\n}\n.back_clr::before {\n\twidth: calc(0% + 100vw);\n\tposition: absolute;\n\ttop: 0;\n\tleft: calc(100% - 98vw);\n\tbottom: 0;\n\tcontent: \"\";\n\tbackground-color: #e8e8e8;\n}\n.back_clr::after {\n\twidth: calc(100vw - 100%);\n\tposition: absolute;\n\ttop: 0;\n\tright: calc(100% - 100vw);\n\tbottom: 0;\n\tcontent: \"\";\n\tbackground-color: #e8e8e8;\n}\n.image-with-text__text-column {\n\twidth: calc(40% - 17.5px);\n}\n.image-with-text__image-column {width: calc(60% - 17.5px);\n}\n.image-with-text__text-column {\n\tpadding: 30px 0;\n\tpadding-right: 25px;\n}"
+      }
+    },
+    "main": {
+      "type": "page-ingredients",
+      "settings": {
+        "supplement_intro": "<p>At Xtend-Life, we ensure that only the best goes into our quality supplements. No expense is spared in the sourcing of raw ingredients, and each is carefully selected for purity, potency and bio-availability. We then optimize these ingredients by blending them with complimentary ingredients to ensure optimal synergy within the formulations.<\/p><p>Find out the important roles each ingredient plays in Xtend-Life formulations. Use this section to learn more about individual ingredients: their many benefits, ingredient origins and the Xtend-Life products they feature in. All ingredients are listed alphabetically, simply click on an ingredient to learn more.<\/p>",
+        "blog_category": "supplement-ingredients",
+        "skincare_intro": "<p>At Xtend-Life, we ensure that only the best goes into our quality skincare. No expense is spared in the sourcing of raw ingredients, and each is carefully selected for maximum skin benefits while keeping in line with our skincare philosophy. We then optimize these ingredients by blending them with complimentary ingredients to ensure optimal synergy within the formulations.<\/p><p>Find out the important roles each ingredient plays in Xtend-Life formulations. Use this section to learn more about individual ingredients: their many benefits, ingredient origins and the Xtend-Life products they feature in. All ingredients are listed alphabetically, simply click on an ingredient to learn more.<\/p>",
+        "blog_category_1": "skincare-ingredients"
+      }
+    }
+  },
+  "order": [
+    "index_image_with_text_pL6Crn",
+    "main"
+  ]
+}

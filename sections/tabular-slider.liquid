@@ -1,0 +1,170 @@
+<link rel="preload" href="{{ 'product-selector-tab.css' | asset_url }}" as="style">
+<link rel="stylesheet" href="{{ 'product-selector-tab.css' | asset_url }}">
+<!-- Buy It SEPERATELY  and RECOMMENDED ---->
+<style>
+  .section-{{section.id}} .quote_section-header h2 {
+    color:{{section.settings.color_title}};
+  }
+  {% if section.settings.custome_css != blank %}
+    {{ section.settings.custome_css }}
+  {% endif %}
+  .product-grid__item-rating .spr-badge-starrating .spr-icon{
+    color: {{settings.reivew_star_color}} !important;
+  }
+    #productbundle-shop {
+  	padding-top: 30px;
+  }
+  @media only screen and (max-width: 767px){
+  .interest .interest__tabs .tabs__nav li {
+    width: 100%;
+  }
+  .tabs__control.js-tab-control {
+    margin-left: 0 !important;
+  }
+}
+</style>
+<div id="productbundle-shop" class="section product-info-column section-{{section.id}} {{ section.settings.class_name }}">
+  {% if section.settings.header != blank %}
+    <div class="quote_section-header text-center">
+      <h2>{{section.settings.header}}</h2>
+    </div>
+  {% endif %}
+  <section class="interest tabs js-tabs">
+    <div class="interest__tabs">
+      <ul class="tabs__nav">
+      {% if section.settings.tab_1 != blank %}
+        <li><button class="tabs__control tabs__count-1 js-tab-control control--active" data-control-for="for_{{ section.settings.tab_1 | handleize }}">{{section.settings.tab_1}}</button></li>
+        {% endif %}
+        {% if section.settings.tab_2 != blank %}
+        <li><button class="tabs__control tabs__count-2 js-tab-control" data-control-for="for_{{ section.settings.tab_2 | handleize }}">{{section.settings.tab_2}}</button></li>
+        {% endif %}
+        {% if section.settings.tab_3 != blank %}
+        <li><button class="tabs__control tabs__count-3 js-tab-control" data-control-for="for_{{ section.settings.tab_3 | handleize }}">{{section.settings.tab_3}}</button></li>
+        {% endif %}
+      </ul>
+    </div>
+    <div class="interest__container">
+          <div class="tabs__content js-tab-content tab_cnt-1 content--active" data-content="for_{{ section.settings.tab_1 | handleize }}">
+<div class="skincare-page" data-slides-show="{{ section.settings.slide_number }}">                 
+ {% for block in section.blocks %}
+        {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_1 %}
+            {%- assign collection = collections[block.settings.collection] -%}
+                {% render 'product-slider-tab', products: collection.products %}
+                 {% endif %}
+          {% endif %}
+      {% endfor %}  
+    </div>
+          </div>
+              <div class="tabs__content js-tab-content tab_cnt-2" data-content="for_{{ section.settings.tab_2 | handleize }}">
+                <div class="skincare-page" data-slides-show="{{ section.settings.slide_number }}">   
+                {% for block in section.blocks %}
+        {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_2 %}
+                       {%- assign collection = collections[block.settings.collection] -%}
+                {% render 'product-slider-tab', products: collection.products %}
+            {% endif %}
+                    {% endif %}
+      {% endfor %}  
+                </div>
+          </div>
+              <div class="tabs__content js-tab-content tab_cnt-3" data-content="for_{{ section.settings.tab_3 | handleize }}">
+<div class="skincare-page" data-slides-show="{{ section.settings.slide_number }}">                    
+{% for block in section.blocks %}
+        {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_3 %}
+                    {%- assign collection = collections[block.settings.collection] -%}
+                {% render 'product-slider-tab', products: collection.products %}
+                  {% endif %}
+          {% endif %}
+      {% endfor %}  
+</div>
+          </div>
+    </div>
+  </section>
+</div>
+{% schema %}
+  {
+    "name": "Collection Tab Slider",
+    "settings": [
+      {
+        "type": "text",
+        "id": "header",
+        "label": "Header",
+        "default": "Foundational Health Products"
+      },
+      {
+        "type": "color",
+        "id": "color_title",
+        "label": "Title Color",
+        "default": "#4271a9"
+      },
+      {
+        "type": "text",
+        "id": "slide_number",
+        "label": "Slide show number",
+        "default": "4"
+      },
+      {
+            "type": "text",
+            "id": "tab_1",
+            "label": "Tab 1",
+            "default": "Standard"
+          },
+      {
+            "type": "text",
+            "id": "tab_2",
+            "label": "Tab 2",
+            "default": "Standard"
+          },
+      {
+            "type": "text",
+            "id": "tab_3",
+            "label": "Tab 3",
+            "default": "Standard"
+          },
+      {
+        "type": "text",
+        "id": "class_name",
+        "label": "Custome Class"
+      },
+      {
+        "type": "textarea",
+        "id": "custome_css",
+        "label": "Custome CSS",
+        "info": "Please make sure to apply custom CSS based on the above class."
+      }
+    ],
+    "blocks": [
+      {
+        "type": "product",
+        "name": "Product content",
+        "settings": [
+          {
+            "type": "text",
+            "id": "standard_tab",
+            "label": "Heading",
+            "default": "Match tab title"
+          },
+          {
+            "type": "collection",
+            "id": "collection",
+            "label": "Collection"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+      "category": "Product",
+      "name": "Collection Tab Slider"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

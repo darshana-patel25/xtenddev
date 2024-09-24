@@ -1,0 +1,41 @@
+{% for product in products %}
+  <div class="product-grid">
+    <div class="product-grid__item bg_color_premium_">
+    {%- assign product = all_products[block.settings.pro_url] -%}
+      <a class="link_pro" href="{{ product.url }}" title="{{ product.title }}">  
+        <div class="product-grid__item-image">
+          {% if product.metafields.custom.product_image_alt != blank %}
+            <img src="{{ product.metafields.custom.product_image_alt  | img_url:"grande"}}"/>
+          {% else %}
+            <img src="{{ product.featured_image | img_url:"grande"}}"/>
+          {% endif %}
+        </div>
+      </a>
+    <div class="product-grid__item-details">
+      <p class="first_wordtitle">{%- assign titleArray = product.title | split: " " -%} {{ titleArray[0] }} </p>
+      <h3 class="product-grid__item-title">{{ product.title | remove_first: titleArray[0] }}  
+      </h3>
+      <div class="product-grid__item-desc">
+        {{ product.metafields.custom.product_summary_description }}
+      </div>
+      <div class="product-grid__item-price-sizing">
+        <div class="product-grid__item-price">
+          <div class="product-grid__item-sizing">
+          {{  product.metafields.custom.option_text_2 }}
+          </div>
+          <div class="price_selectoretab">
+          {% if product.compare_at_price != blank %}<span class="price-compare"> was {{ product.compare_at_price | money }}</span>{% endif %}<div class="{% if product.compare_at_price != blank %}saleprice1 {% else %} tab_price {% endif %}">{{product.price | money }}</div> 
+          </div>
+        </div>
+      </div>
+    </div>   
+    {%- if product.variants.size > 1 -%}
+      <a class="button button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+    {%- else -%}
+      <div class="add-details__buttons">
+        <a class="button button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+      </div>
+    {%- endif -%}
+    </div>   
+  </div>
+{% endfor %}

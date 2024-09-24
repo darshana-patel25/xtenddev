@@ -1,0 +1,304 @@
+<link rel="preload" href="{{ 'slick.css' | asset_url }}" as="style">
+
+<link rel="preload" href="{{ 'product-selector-tab.css' | asset_url }}" as="style">
+
+<link rel="stylesheet" href="{{ 'product-selector-tab.css' | asset_url }}">
+<style>
+  #shopify-section-{{ section.id }} {
+    background: {{ section.settings.background_bg }};
+  }
+  .js-tabbed-content {
+	display: none;
+}
+  .js-tabbed-content.content--active {
+	display: block;
+}
+   .bundle.interest .interest__tabs .tabs__nav .tabs__control {
+	padding: .8em 2.3em;
+	color: #005895;
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: .25px;
+	border: none;
+	border-radius: 50px;
+	font-family: Arimo-Bold;
+	text-transform: uppercase;
+	margin: 5px;
+}
+  .bundle.interest .interest__tabs .tabs__nav .tabs__control.control--active {
+	background-color: #005895;
+	color: #fff;
+	border: 2px solid #005895;
+}
+  .bundle .tabs__nav {
+	border: 2px solid #005895 !important;
+	border-radius: 50px;
+}
+  .tabs__nav li {
+	margin: 0;
+}
+  .bundle_slider .slick-slide {
+	padding:0 20px;
+}
+  .bundle_slider .slick-prev {
+	left: -55px;
+}
+  .bundle_slider .slick-next {
+	right: -55px;
+}
+  @media only screen and (min-width: 768px) and (max-width: 1400px){
+  .bundle_slider .slick-prev {
+	left: -5px;
+  }
+  .bundle_slider .slick-next {
+	right: -5px;
+  }
+  }
+  @media only screen and (max-width: 767px) {
+  .bundle.interest .interest__tabs .tabs__nav li {
+    display: inline-block;
+    width: 48.5%;
+    margin: unset;
+  }
+      .bundle.interest .interest__tabs .tabs__nav {
+    display: inline-flex;
+  }
+    
+  .bundle .slick-next {
+    right: 10px;
+    bottom: unset;
+    top: 50%;
+  }
+  .bundle .slick-prev {
+    left: 10px;
+    bottom: unset;
+    top: 50%;
+  }
+}
+  </style>
+<div class="bundle interest tabs js-tabbed block-{{section.id}}" id="video_pdf_slide"> 
+  <div class="section">
+    <div class="bundle_header">
+      <h2>{{ section.settings.title }}</h2>
+    </div>
+    <div class="interest__tabs">
+      <ul class="tabs__nav">
+        <li><button class="tabs__control tabs__count-1 js-tabbed-control control--active" data-control-for="for_{{ section.settings.tab_1 | handleize }}">{{section.settings.tab_1}}</button></li>
+        <li><button class="tabs__control tabs__count-2 js-tabbed-control" data-control-for="for_{{ section.settings.tab_2 | handleize }}">{{section.settings.tab_2}}</button></li>
+      </ul>
+    </div>
+      <div class="tabs__container">
+         <div class="js-tabbed-content tab_cnt-1 content--active" data-content="for_{{ section.settings.tab_1 | handleize }}">
+    <div class="bundle_slider" data-slides-show="{{ section.settings.slide_number }}">
+      {% for block in section.blocks %}
+                
+          {% if block.settings.standard_tab == section.settings.tab_1 %}
+            {% if block.type == 'video' %}
+          {%- assign image = block.settings.image -%}
+          <div id="shopify-section-{{ block.id }}" class="video-{{ forloop.index }}" data-slide-index={{ forloop.index0 }} {{ block.shopify_attributes }}>
+           
+              <a href="?video_popup={{ forloop.index }}">
+         
+              {% if image != blank %}
+                {% render 'image-element',
+                        image: block.settings.image,
+                        alt: block.settings.image.alt,
+                        stretch_width: true
+                %}
+              {% else %}
+                        
+                 {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+              {% endif %}
+  
+              </a>
+
+          </div>
+                  
+            {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
+         </div>
+               <div class="js-tabbed-content tab_cnt-2" data-content="for_{{ section.settings.tab_2 | handleize }}">
+    <div class="bundle_slider" data-slides-show="{{ section.settings.slide_number }}">
+      {% for block in section.blocks %}
+          {% if block.settings.standard_tab == section.settings.tab_2 %}
+      {% if block.type == 'eBooks' %}
+          {%- assign image = block.settings.image -%}
+          <div class="ebooks-{{ forloop.index }}" data-slide-index={{ forloop.index0 }} {{ block.shopify_attributes }}>
+           
+              <a href="{{ block.settings.ebook_id }}" target="_blank">
+         
+              {% if image != blank %}
+                {% render 'image-element',
+                        image: block.settings.image,
+                        alt: block.settings.image.alt,
+                        stretch_width: true
+                %}
+              {% else %}
+                        
+                 {{ 'lifestyle-1' | placeholder_svg_tag: 'placeholder-svg' }}
+              {% endif %}
+  
+              </a>
+           
+          </div>
+            {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
+         </div>
+   {% for block in section.blocks %}
+      <div class="plus_popup">
+           {% if block.settings.video_id != blank %}
+          <div style="display: none;" class="popuprofl_cnt popup-{{ forloop.index }}">
+            <div class="clsclick video-close-{{ forloop.index }}"><svg viewbox="0 0 20 20" class="icon icon-close" role="presentation" aria-hidden="true" focusable="false"> <path d="M15.89 14.696l-4.734-4.734 4.717-4.717c.4-.4.37-1.085-.03-1.485s-1.085-.43-1.485-.03L9.641 8.447 4.97 3.776c-.4-.4-1.085-.37-1.485.03s-.43 1.085-.03 1.485l4.671 4.671-4.688 4.688c-.4.4-.37 1.085.03 1.485s1.085.43 1.485.03l4.688-4.687 4.734 4.734c.4.4 1.085.37 1.485-.03s.43-1.085.03-1.485z" fill="#444"></path> </svg></div>
+            <div class="embed-container"><iframe src="{{ block.settings.video_id }}" id="video-{{ forloop.index }}" data-dashlane-frameid="417" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
+          </div>
+             {% endif %}
+           <script>
+   setTimeout(function () {
+      if (window.location.href.indexOf("?video_popup={{ forloop.index }}") > -1) {
+        $('.overlay').show();
+        $('.video-{{ forloop.index }} .plus_popup').find('.popup-{{ forloop.index }}').show();
+      }
+    }, 2000);
+    $('.video-{{ forloop.index }} a').click(function(e){
+      e.preventDefault();
+      $('.overlay').show();
+      $('.popup-{{ forloop.index }}').show();
+    });
+    $('.clsclick').click(function(){
+      $('.popup-{{ forloop.index }}').fadeOut(300);
+      $('.overlay').fadeOut(300);
+    });
+    $('.overlay').click(function(){
+      $('.popup-{{ forloop.index }}').fadeOut(300);
+      $('.overlay').fadeOut(300);
+    });
+          $('.video-{{ forloop.index }}').click(function(){
+            const video = document.querySelector("#video-{{ forloop.index }}");
+            video.contentWindow.postMessage('{"method":"play"}', '*');
+          });
+          $('.video-close-{{ forloop.index }} svg').click(function(){
+            $(".overlay").trigger("click");
+            return false;
+          });
+          $('.overlay').click(function(){
+            const video1 = document.querySelector("#video-{{ forloop.index }}");
+            video1.contentWindow.postMessage('{"method":"pause"}', '*');      
+          });
+          </script>
+      </div>
+
+        {% endfor %}
+    </div>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "Video and eBooks",
+    "settings": [
+       {
+    	  "type": "color",
+    	  "id": "background_bg",
+    	  "label": "Background Color"
+    	},
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Heading"
+      },
+      {
+        "type": "text",
+        "id": "slide_number",
+        "label": "Slide show number",
+        "default": "2"
+      },
+      {
+      "type": "text",
+      "id": "tab_1",
+      "label": "Tab 1",
+      "default": "Standard"
+    },
+    {
+      "type": "text",
+      "id": "tab_2",
+      "label": "Tab 2",
+      "default": "Standard"
+    },
+      {
+        "type": "textarea",
+        "id": "bundle_tc",
+        "label": "Bundle terms and condition"
+      },
+      {
+        "type": "url",
+        "id": "bundle_tc_link",
+        "label": "Bundle terms and condition link"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "video",
+        "name": "Video slide",
+        "settings": [
+          {
+            "type": "text",
+            "id": "standard_tab",
+            "label": "Heading",
+            "default": "Match tab title"
+          },
+                  {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "1600 x 1000px recommended"
+        },
+       {
+          "type": "text",
+          "id": "video_id",
+          "label": "Vimeo video url",
+          "info": "vimeo video url"
+        }
+        ]
+      },
+      {
+        "type": "eBooks",
+        "name": "eBooks",
+        "settings": [
+          {
+            "type": "text",
+            "id": "standard_tab",
+            "label": "Heading",
+            "default": "Match tab title"
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+          },
+         {
+            "type": "text",
+            "id": "ebook_id",
+            "label": "Pdf url"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Video and eBooks",
+        "category": "Videos",
+        "settings": {
+        }
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

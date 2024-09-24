@@ -1,0 +1,324 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "16636540201124c8c3": {
+      "type": "video-lists",
+      "blocks": {
+        "4f2cfb3e-4731-4374-ab05-8b8280946fdd": {
+          "type": "video",
+          "settings": {
+            "video_title": "Is 2022 the year for heart attacks and strokes?",
+            "video_id_list": "h24eo9ldPKQ"
+          }
+        },
+        "10e986eb-6b60-4fd1-893c-e03921ead897": {
+          "type": "video",
+          "settings": {
+            "video_title": "A Sad But True Story",
+            "video_id_list": "p7vQsYV_7gg"
+          }
+        },
+        "9846ff81-ff20-4a8e-8cf5-7f7ebb9b47cc": {
+          "type": "video",
+          "settings": {
+            "video_title": "3 Issues Why Your Food Isn’t Providing Needed Nutrients",
+            "video_id_list": "avWZCz06Z4o"
+          }
+        },
+        "79cdca7a-4131-4c55-8049-6b530b1ecdc0": {
+          "type": "video",
+          "settings": {
+            "video_title": "Coronavirus: Can it be contained by lockdowns?",
+            "video_id_list": "j-SXPFfie1U"
+          }
+        },
+        "a2a5eff8-0da8-4e87-805a-22d690304cce": {
+          "type": "video",
+          "settings": {
+            "video_title": "The Importance of Water and Cellular Health",
+            "video_id_list": "DYpXUbaIHy8"
+          }
+        },
+        "8ea7923e-407e-4c5f-83d4-fab0fc6ddd00": {
+          "type": "video",
+          "settings": {
+            "video_title": "The role of government & health, is it changing?",
+            "video_id_list": "ZEgdBcA0RTI"
+          }
+        },
+        "cc7161fd-7ef6-49ae-9a94-6df49ac0354f": {
+          "type": "video",
+          "settings": {
+            "video_title": "Why boosting the Immune System is up to us.",
+            "video_id_list": "LrJaSi5ev5o"
+          }
+        },
+        "ce9c785e-2b81-4166-81b6-2c38f03086df": {
+          "type": "video",
+          "settings": {
+            "video_title": "More about Statin drugs",
+            "video_id_list": "GClm_8RABeI"
+          }
+        },
+        "73bfa56e-2c05-4072-aa49-89eea880418f": {
+          "type": "video",
+          "settings": {
+            "video_title": "Are sore joints a sign of something more?",
+            "video_id_list": "kt6Mbh_Kh_I"
+          }
+        },
+        "f526138f-0468-4f19-a0a5-2845d297e046": {
+          "type": "video",
+          "settings": {
+            "video_title": "Why I refused a Statin drug pt. 3",
+            "video_id_list": "Ou3VKI5Bn40"
+          }
+        },
+        "e54792a8-32c9-459b-a5ff-4f086c2412f3": {
+          "type": "video",
+          "settings": {
+            "video_title": "Why I refused a Statin drug pt. 2",
+            "video_id_list": "Pv-tENiIn4k"
+          }
+        },
+        "e5d08d19-faee-48c0-90e4-0f2988397f94": {
+          "type": "video",
+          "settings": {
+            "video_title": "Why I refused a Statin drug pt. 1",
+            "video_id_list": "P2FSMay2G-0"
+          }
+        },
+        "5fc6bd84-9a59-48b2-b450-401280231ef3": {
+          "type": "video",
+          "settings": {
+            "video_title": "Negative health effects of beauty & fashion trends",
+            "video_id_list": "HcXYsFgMkQY"
+          }
+        },
+        "7639f059-0d73-45ee-b90d-57853e75333a": {
+          "type": "video",
+          "settings": {
+            "video_title": "Omega 3 fish oil - Do EPA & DHA levels matter?",
+            "video_id_list": "BXCVuREE19Y"
+          }
+        },
+        "5fd456c0-0579-4f09-8630-7df8a1664b75": {
+          "type": "video",
+          "settings": {
+            "video_title": "Xtend-Life virtual factory tour",
+            "video_id_list": "QBbEQBf4UmA"
+          }
+        },
+        "8303d305-ec03-4f3e-bd14-cfb2710a31a8": {
+          "type": "video",
+          "settings": {
+            "video_title": "Vascular calcification - A Letter from Mel",
+            "video_id_list": "IhV-QbY6j14"
+          }
+        },
+        "c6b446c1-282b-47f4-9f7b-e9d1497a9725": {
+          "type": "video",
+          "settings": {
+            "video_title": "How do I choose a supplement",
+            "video_id_list": "gTYGucZQF-g"
+          }
+        },
+        "50cedb71-3fb5-4c36-9ad2-80bf214a9213": {
+          "type": "video",
+          "settings": {
+            "video_title": "Personal Freedom under attack",
+            "video_id_list": "m4pRQRVlSQQ"
+          }
+        },
+        "d103a703-b597-4019-bcc2-d0eca76116ca": {
+          "type": "video",
+          "settings": {
+            "video_title": "How does fear impact health? The unintended consequences of extreme precautions",
+            "video_id_list": "YTkQD2235Xk"
+          }
+        },
+        "2ea1335e-093c-4f68-92bc-00632d56b35e": {
+          "type": "video",
+          "settings": {
+            "video_title": "Health tips I learned from 1 old dog’s experience",
+            "video_id_list": "-TXluDxhLHg"
+          }
+        },
+        "2d3b77b6-aec5-4cee-87f9-08b7378dd76a": {
+          "type": "video",
+          "settings": {
+            "video_title": "Is REMDESIVIR the Secret cure for “the Virus”? beyond health tips",
+            "video_id_list": "5X9zVUrJ5gY"
+          }
+        },
+        "0f1d9646-6917-4ea1-a224-06c9e675911c": {
+          "type": "video",
+          "settings": {
+            "video_title": "Silent Inflammation and a Test to Measure It",
+            "video_id_list": "yYnXtpWa-aw"
+          }
+        },
+        "574e00c3-0b70-4c2b-88d2-e76d0821d4ce": {
+          "type": "video",
+          "settings": {
+            "video_title": "Circulation is critical to cardiovascular health",
+            "video_id_list": "S6vVwNGCwfE"
+          }
+        },
+        "020a2821-a803-458a-ae8f-68003c7ed8cb": {
+          "type": "video",
+          "settings": {
+            "video_title": "Hardening of the Arteries",
+            "video_id_list": "KSx72EzvAyQ"
+          }
+        },
+        "09b7f3d0-c1a3-4ee0-afe1-7cb93ec69b7d": {
+          "type": "video",
+          "settings": {
+            "video_title": "Immunity and the COVID-19 Coronavirus",
+            "video_id_list": "hB-PwX0mYYA"
+          }
+        },
+        "0f7d9fce-9a49-4aea-8bfe-0cc6f4b0159f": {
+          "type": "video",
+          "settings": {
+            "video_title": "Calcification in the Cardiovascular System",
+            "video_id_list": "sviyO7uqfoY"
+          }
+        },
+        "1ba7923a-a2eb-4004-a5ca-cc1d13a99293": {
+          "type": "video",
+          "settings": {
+            "video_title": "Five Causes of Heart Disease",
+            "video_id_list": "qWvQM3MI9tA"
+          }
+        },
+        "5eadf63c-71e3-493c-97d0-2c104e7f4b24": {
+          "type": "video",
+          "settings": {
+            "video_title": "How to Boost Your Immune System for Free",
+            "video_id_list": "e7pVWjcK4P8"
+          }
+        },
+        "92e950b1-319f-437d-b4c8-2dbc6dde27fa": {
+          "type": "video",
+          "settings": {
+            "video_title": "Some Reflections - Coronavirus COVID-19",
+            "video_id_list": "Af_hyW9m_DE"
+          }
+        },
+        "433bb796-5fda-4dbd-8206-599c9b4df406": {
+          "type": "video",
+          "settings": {
+            "video_title": "Diabetes, Heart Disease and COVID-19",
+            "video_id_list": "bllvqwQfEkA"
+          }
+        },
+        "5297346c-b325-4425-9fec-cce1bdfa85f0": {
+          "type": "video",
+          "settings": {
+            "video_title": "Some Facts About the COVID-19 Coronavirus",
+            "video_id_list": "93U4lQqNgtI"
+          }
+        },
+        "59952fa5-a536-4460-aa51-f3013683e96d": {
+          "type": "video",
+          "settings": {
+            "video_title": "Heart Attack Prevention: How a Pulse Wave Velocity Check May Help Prevent a Cardiac Event?",
+            "video_id_list": "Vvd4cMUfQdg"
+          }
+        },
+        "1db998c8-95b9-4995-ae6e-f254f4386073": {
+          "type": "video",
+          "settings": {
+            "video_title": "Why you should get a CAC scan to know your risk for a heart attack or stroke?",
+            "video_id_list": "6CalGJC2tm0"
+          }
+        },
+        "bdc26348-293e-492a-bea4-57be10384b87": {
+          "type": "video",
+          "settings": {
+            "video_title": "Is it possible to avoid a cardiac event such as a heart attack or stroke?",
+            "video_id_list": "4LHkNwp9LN4"
+          }
+        },
+        "e8a41277-86bb-417c-867b-c7564b46543f": {
+          "type": "video",
+          "settings": {
+            "video_title": "What are the chances of you dying from a heart attack or stroke?",
+            "video_id_list": "PZ1ahyU5lOo"
+          }
+        },
+        "1cbb81d5-5f80-49e5-925f-0bbc5bbff40a": {
+          "type": "video",
+          "settings": {
+            "video_title": "An Introduction to Beyond Health Tips with Warren Matthews",
+            "video_id_list": "VYSsfJ0GSkQ"
+          }
+        }
+      },
+      "block_order": [
+        "4f2cfb3e-4731-4374-ab05-8b8280946fdd",
+        "10e986eb-6b60-4fd1-893c-e03921ead897",
+        "9846ff81-ff20-4a8e-8cf5-7f7ebb9b47cc",
+        "79cdca7a-4131-4c55-8049-6b530b1ecdc0",
+        "a2a5eff8-0da8-4e87-805a-22d690304cce",
+        "8ea7923e-407e-4c5f-83d4-fab0fc6ddd00",
+        "cc7161fd-7ef6-49ae-9a94-6df49ac0354f",
+        "ce9c785e-2b81-4166-81b6-2c38f03086df",
+        "73bfa56e-2c05-4072-aa49-89eea880418f",
+        "f526138f-0468-4f19-a0a5-2845d297e046",
+        "e54792a8-32c9-459b-a5ff-4f086c2412f3",
+        "e5d08d19-faee-48c0-90e4-0f2988397f94",
+        "5fc6bd84-9a59-48b2-b450-401280231ef3",
+        "7639f059-0d73-45ee-b90d-57853e75333a",
+        "5fd456c0-0579-4f09-8630-7df8a1664b75",
+        "8303d305-ec03-4f3e-bd14-cfb2710a31a8",
+        "c6b446c1-282b-47f4-9f7b-e9d1497a9725",
+        "50cedb71-3fb5-4c36-9ad2-80bf214a9213",
+        "d103a703-b597-4019-bcc2-d0eca76116ca",
+        "2ea1335e-093c-4f68-92bc-00632d56b35e",
+        "2d3b77b6-aec5-4cee-87f9-08b7378dd76a",
+        "0f1d9646-6917-4ea1-a224-06c9e675911c",
+        "574e00c3-0b70-4c2b-88d2-e76d0821d4ce",
+        "020a2821-a803-458a-ae8f-68003c7ed8cb",
+        "09b7f3d0-c1a3-4ee0-afe1-7cb93ec69b7d",
+        "0f7d9fce-9a49-4aea-8bfe-0cc6f4b0159f",
+        "1ba7923a-a2eb-4004-a5ca-cc1d13a99293",
+        "5eadf63c-71e3-493c-97d0-2c104e7f4b24",
+        "92e950b1-319f-437d-b4c8-2dbc6dde27fa",
+        "433bb796-5fda-4dbd-8206-599c9b4df406",
+        "5297346c-b325-4425-9fec-cce1bdfa85f0",
+        "59952fa5-a536-4460-aa51-f3013683e96d",
+        "1db998c8-95b9-4995-ae6e-f254f4386073",
+        "bdc26348-293e-492a-bea4-57be10384b87",
+        "e8a41277-86bb-417c-867b-c7564b46543f",
+        "1cbb81d5-5f80-49e5-925f-0bbc5bbff40a"
+      ],
+      "settings": {
+        "content_html": "<p style=\"text-align: left;\"><a href=\"https:\/\/www.beyondhealthtips.com\/\" target=\"_blank\" title=\"Beyond Health Tips\" rel=\"noopener noreferrer\">Wellness with Warren<\/a> is a website created by Warren Matthews, health researcher and founder of Xtend-Life.<\/p>\n<p style=\"text-align: left;\">Warren developed the site to provide like-minded people (who don't have the time to do the research) with knowledge around wellness, better health &amp; longevity.<\/p>\n<p style=\"text-align: left;\">His agenda is simple: to encourage scientific research into the benefits of pure, natural products along with sensible diet and lifestyle.<\/p>\n<p style=\"text-align: left;\">At 73 years of age, he's a living example of how we'd all like to experience the aging process.<\/p>\n<p style=\"text-align: left;\">Watch the videos below, and subscribe to the <a href=\"https:\/\/www.youtube.com\/channel\/UCVLLAdteYlyqQg5MNW4C-RA\/featured?sub_confirmation=1\" target=\"_blank\" title=\"Beyond Health Tips\" rel=\"noopener noreferrer\">Wellness with Warren<\/a> YouTube channel, for Warren's advice on how to live a full and active life well into old age.<\/p><p> <\/p>",
+        "btn_text": "SUBSCRIBE TO WELLNESS WITH WARREN",
+        "url_btn": "https:\/\/www.youtube.com\/channel\/UCVLLAdteYlyqQg5MNW4C-RA\/featured?sub_confirmation=1",
+        "background_color": "#e3ebf6",
+        "text_color": "#000000",
+        "video_id": "VYSsfJ0GSkQ"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16636540201124c8c3"
+  ]
+}

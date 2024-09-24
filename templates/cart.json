@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "cd2869b6-23ad-4677-9900-a3a1fffaf07f": {
+      "type": "index__html",
+      "disabled": true,
+      "settings": {
+        "html_content": "<div class=\"container is-flex is-justify-left\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Shopping-Cart-Banner.png?v=1701133676\" alt=\"Free gift when you spend over $150\"><\/div>",
+        "width": "standard",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "cart__main",
+      "settings": {
+        "display_product_quantity_cart": true,
+        "display_savings": true,
+        "cart_message": "",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "cd2869b6-23ad-4677-9900-a3a1fffaf07f",
+    "main"
+  ]
+}

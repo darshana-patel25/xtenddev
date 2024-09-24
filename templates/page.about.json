@@ -1,0 +1,251 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ba941048-ef9e-4ca3-ae04-b44ac0ab1b7f": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14712442257495__ba941048-ef9e-4ca3-ae04-b44ac0ab1b7f-1667818696b69f4619-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Our-Story.png",
+            "tablet_image": "shopify:\/\/shop_images\/Our-Story-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Our-Story-Mob.png",
+            "pretext_tag": "",
+            "title": "Our Story",
+            "pretext": "<p>The origins of Xtendlife<\/p>",
+            "subtitle": "",
+            "pretag_color": "#1B3281",
+            "pretag_backcolor": "#1B3281",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50%",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_1_color": "#36659c",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        }
+      },
+      "block_order": [
+        "template--14712442257495__ba941048-ef9e-4ca3-ae04-b44ac0ab1b7f-1667818696b69f4619-0"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": false,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "8590b19c-4ca2-4146-8777-8e104675bfa1": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "de3120b6-799b-4acf-8c7b-0ad4c1cee7a8": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "7fc56774-de20-42ed-ab7d-0fe311e16870": {
+      "type": "image-with-text",
+      "settings": {
+        "bgcolor": "#ffffff",
+        "bgwidth": "full",
+        "title": "Our story",
+        "sub_title": "The search for longevity started it all",
+        "content": "<p>Our journey began in 1998, when Xtendlife founder, Warren Matthews, found himself at a crossroads in life. At 50 years old, he had lost everything in his business and was left with no other option but to start again. This difficult period gave him a stark realization: he would need another 20 healthy years to rebuild his life.<\/p><p>Inspired by the concept of extending life for better years, he channeled his efforts and research into developing a health supplement that could transform lives—his included. The result was Total Balance, a product that became the cornerstone of Xtendlife.<\/p><p>This passion for the benefits of holistic health led him to formally establish Xtendlife in 1998—a mission that has driven the company for more than 25 years and counting. Xtendlife has grown into a global brand, trusted by over 400,000 customers. Now our team has taken the original vision and will carry on, building Xtendlife for the future. Our commitment to science ensures that our formulas deliver the best results to our customers, helping them live longer and healthier.<\/p>",
+        "text_alignment": "left",
+        "text_column_alignment": "right",
+        "text_column_width": "one-half",
+        "image": "shopify:\/\/shop_images\/Our-Story-Warren_252a8aa1-5f25-43cb-91d7-8c268c5e05f3.png"
+      }
+    },
+    "f8292dc0-ee52-46fc-b637-6ae97ab22a98": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "9329ad4d-6628-42b2-aa46-aeebd585d30d": {
+      "type": "standard-text-description",
+      "settings": {
+        "bgcolor": "#e8e8e8",
+        "bgwidth": "full",
+        "header": "Quality and Control",
+        "color_title": "#4271a9",
+        "align_text": "left",
+        "content_area": "<p>To ensure the highest quality in our products, we built a state-of-the-art pharmaceutical-grade facility in New Zealand in 2012. This purpose-built facility allows us to have complete control over every step of the production process, from sourcing the finest ingredients to manufacturing the final product. The complexity of making Total Balance lead us to building our own manufacturing facility.<\/p>",
+        "color_content": "#3c4146"
+      }
+    },
+    "9d8c9f1e-7be9-4084-9c2b-ecefb489e4a8": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider": "40px",
+        "divider_bg": ""
+      }
+    },
+    "9a213d02-50a0-484f-8f7a-9b7b4096be04": {
+      "type": "image-with-text",
+      "settings": {
+        "bgcolor": "#ffffff",
+        "bgwidth": "full",
+        "title": "Expert Scientific Research",
+        "sub_title": "",
+        "content": "<p>Our team includes scientific experts who play a crucial role in our success. Dr. Abul-Munem Al-Shakarchi, a research and formulator, has been with us for over 20 years and was the original formulator of our flagship product range, Total Balance. His expertise in chemistry and naturopathic medicine has been invaluable in creating formulas that deliver exceptional results. We also have the guidance of Ivor Cummins, a leading expert on chronic disease causes, and Dr. Ali Mohamed, a Harvard-trained age management physician.<\/p>",
+        "text_alignment": "left",
+        "text_column_alignment": "left",
+        "text_column_width": "three-fifths",
+        "image": "shopify:\/\/shop_images\/Expert-Scientific-Research_3ee2bce3-4d75-42b9-9ab2-b2e98454a542.png"
+      }
+    },
+    "fabdfa62-233f-4cce-9efa-4ea2ea56ae19": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider": "40px",
+        "divider_bg": ""
+      }
+    },
+    "0efaabd4-1ffc-4ce3-82b4-3b370b79200a": {
+      "type": "image-with-text",
+      "settings": {
+        "bgcolor": "#e8e8e8",
+        "bgwidth": "full",
+        "title": "Always Innovating",
+        "sub_title": "",
+        "content": "<p>We are committed to perpetual innovation in our product range. We always listen to our customers and follow the science to other nutrients that give them a healthier, longer life. Our commitment to research and customer feedback drives us to constantly improve and expand our product offerings to better serve the evolving needs of our community.<\/p>",
+        "text_alignment": "left",
+        "text_column_alignment": "right",
+        "text_column_width": "three-fifths",
+        "image": "shopify:\/\/shop_images\/Always-Innovated.png"
+      }
+    },
+    "28bee03f-4de8-4254-a8be-e95e74b7156f": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider": "40px",
+        "divider_bg": "#ffffff"
+      }
+    },
+    "afcc92fe-49af-474b-9b5b-838bc1748e67": {
+      "type": "image-with-text",
+      "settings": {
+        "bgcolor": "#ffffff",
+        "bgwidth": "full",
+        "title": "Trusted by Customers Worldwide",
+        "sub_title": "",
+        "content": "<p>Over the years, we have gained the trust of over 400,000 satisfied customers globally. Our products are trusted in over 40 countries, and we are proud to have customers who have been with us for two decades. We strive to continuously meet and exceed their expectations.<\/p>",
+        "text_alignment": "left",
+        "text_column_alignment": "left",
+        "text_column_width": "three-fifths",
+        "image": "shopify:\/\/shop_images\/Trusted-by-Customers_3df84491-32d7-4d16-8341-41bddbf85c5a.png"
+      }
+    },
+    "0a6ef7a1-c1c8-4c1a-8c18-ee1655fe2551": {
+      "type": "divider",
+      "disabled": true,
+      "settings": {
+        "divider": "40px",
+        "divider_bg": "#ffffff"
+      }
+    },
+    "ad6b9df6-343e-4ac7-b208-3bfa7af09148": {
+      "type": "standard-text-description",
+      "disabled": true,
+      "settings": {
+        "bgcolor": "#e8e8e8",
+        "bgwidth": "full",
+        "header": "A Family-Owned Business",
+        "color_title": "#4271a9",
+        "align_text": "left",
+        "content_area": "<p>As a family-owned business, we can focus on the best interests of our customers and staff, without the pressures of external interests. This allows us to maintain our values and remain committed to providing a better way for our customers.<\/p>",
+        "color_content": "#3c4146"
+      }
+    },
+    "2b5908a9-d03f-40d1-a045-f43b05da4def": {
+      "type": "standard-text-description",
+      "settings": {
+        "bgimage": "shopify:\/\/shop_images\/Our-Journey_1600x480_7b972fe6-7b0e-4342-8c5b-8d4af4d8c88c.png",
+        "bgcolor": "#e8e8e8",
+        "bgwidth": "full",
+        "header": "Join Us on the Journey",
+        "color_title": "#ffffff",
+        "align_text": "center",
+        "content_area": "<p>At Xtendlife, we believe in offering a better way for our customers to take care of their health. With our commitment to scientific research, quality, and our expert team, we are dedicated to improving the health and well-being of our customers. Join us on this journey and experience the difference that Xtendlife can make in your health and vitality.<\/p>",
+        "color_content": "#ffffff"
+      }
+    },
+    "bbb19b45-21da-4932-bf21-49b6d0e24c44": {
+      "type": "divider",
+      "settings": {
+        "divider": "40px",
+        "divider_bg": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ba941048-ef9e-4ca3-ae04-b44ac0ab1b7f",
+    "8590b19c-4ca2-4146-8777-8e104675bfa1",
+    "de3120b6-799b-4acf-8c7b-0ad4c1cee7a8",
+    "7fc56774-de20-42ed-ab7d-0fe311e16870",
+    "f8292dc0-ee52-46fc-b637-6ae97ab22a98",
+    "9329ad4d-6628-42b2-aa46-aeebd585d30d",
+    "9d8c9f1e-7be9-4084-9c2b-ecefb489e4a8",
+    "9a213d02-50a0-484f-8f7a-9b7b4096be04",
+    "fabdfa62-233f-4cce-9efa-4ea2ea56ae19",
+    "0efaabd4-1ffc-4ce3-82b4-3b370b79200a",
+    "28bee03f-4de8-4254-a8be-e95e74b7156f",
+    "afcc92fe-49af-474b-9b5b-838bc1748e67",
+    "0a6ef7a1-c1c8-4c1a-8c18-ee1655fe2551",
+    "ad6b9df6-343e-4ac7-b208-3bfa7af09148",
+    "2b5908a9-d03f-40d1-a045-f43b05da4def",
+    "bbb19b45-21da-4932-bf21-49b6d0e24c44"
+  ]
+}

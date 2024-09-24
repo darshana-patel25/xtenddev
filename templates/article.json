@@ -1,0 +1,94 @@
+{
+  "sections": {
+    "5e62cc09-d640-40b4-b440-7eeb835e6eba": {
+      "type": "collection__breadcrumb",
+      "settings": {
+        "width": "standard",
+        "padding_top": 5,
+        "padding_bottom": 5,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "banner": {
+      "type": "fallback_image_banner",
+      "disabled": true,
+      "settings": {
+        "image_darken": false,
+        "width": "standard",
+        "banner_height": "medium",
+        "padding_top": 23,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "article__main",
+      "blocks": {
+        "ae63b6ae-3063-4193-8e2e-481550dee2ca": {
+          "type": "html",
+          "disabled": true,
+          "settings": {
+            "html_content": "<div class=\"blog_content_img mobile-tablet-hide\">\n     <a href=\"\/collections\/heart-health-series-2\">\n            <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/1267\/0135\/files\/Blog-Page-Nav-Banner-Heart-Series.png\"> \n          <\/a>\n        <\/div>"
+          }
+        },
+        "01edd141-dcc1-4c39-a92e-3087b412c841": {
+          "type": "menu",
+          "settings": {
+            "menu": "blog-categories"
+          }
+        },
+        "5ef35df2-d5fa-42fd-869b-5b9379b043ea": {
+          "type": "recent_posts",
+          "disabled": true,
+          "settings": {
+            "title": "Recent posts",
+            "blog": "health-articles",
+            "blog_post_count": 4
+          }
+        },
+        "newsletter_haUyX7": {
+          "type": "newsletter",
+          "settings": {
+            "newsletter_title": "stay Connected",
+            "newsletter_richtext": "<p>Subscribe to our newsletter and  get the latest wellness tips, exclusive deals, and news from Xtendlife delivered straight to your inbox.<\/p>",
+            "display_first_name": false,
+            "display_last_name": false
+          }
+        }
+      },
+      "block_order": [
+        "ae63b6ae-3063-4193-8e2e-481550dee2ca",
+        "01edd141-dcc1-4c39-a92e-3087b412c841",
+        "5ef35df2-d5fa-42fd-869b-5b9379b043ea",
+        "newsletter_haUyX7"
+      ],
+      "settings": {
+        "show_breadcrumb": false,
+        "blog_author": true,
+        "blog_date": false,
+        "read_time": false,
+        "blog_comment_count": false,
+        "show_tags": true,
+        "show_featured_image": false,
+        "relate_blog": true,
+        "blog_footer": true,
+        "show_sidebar": true,
+        "sidebar_position": "right",
+        "see_more": "See More",
+        "shop_now": "Shop now",
+        "width": "standard",
+        "padding_top": 10,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "5e62cc09-d640-40b4-b440-7eeb835e6eba",
+    "banner",
+    "main"
+  ]
+}

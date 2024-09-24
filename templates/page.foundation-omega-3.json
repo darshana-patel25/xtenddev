@@ -1,0 +1,422 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "f4aa017f-5278-4aaf-8a99-1637ca031840": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14709809774679__f4aa017f-5278-4aaf-8a99-1637ca031840-1667465912a8f62ee1-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Collection-Omega3-Health.png",
+            "tablet_image": "shopify:\/\/shop_images\/Collection-Omega3-Health-Ipad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Collection-Omega3-Health-MOB.png",
+            "pretext": "",
+            "title": "Omega 3 Health",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50%",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--14709809774679__f4aa017f-5278-4aaf-8a99-1637ca031840-1667465912a8f62ee1-0"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": false,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "7853e1c9-7387-4ad0-a509-5e31cea4a753": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": ""
+      }
+    },
+    "73921d0e-201d-4dfc-ad34-2340a44e3fbf": {
+      "type": "title-with-text",
+      "settings": {
+        "title_class": "h1",
+        "title": "Omega 3 Fish Oil – A Must Have Supplement",
+        "description": "<p>Xtend-Life’s omega 3 fish oils are unlike any other product on the world market.  It is the only one that has a blend of natural non-concentrated New Zealand fish oil combined with highly concentrated  tuna oil, all from sustainable sources.<\/p>"
+      }
+    },
+    "9dd36dfc-3f37-4e0a-9822-1c29d69d5c0c": {
+      "type": "background-with-text",
+      "settings": {
+        "description": "Those who eat a high amount of seafood tend to live longer than those who don’t, pointing to a pivotal role of fish oils in longevity"
+      }
+    },
+    "bde71379-e36a-4559-bb59-50bcf11e4477": {
+      "type": "image-with-text-column",
+      "blocks": {
+        "877cee62-d522-4da7-a046-7a5203fd4117": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Cardiovascular-health-blue.png",
+            "title": "Cardiovascular health",
+            "description": "Omega 3s have been shown to support cardiovascular health, including healthy triglyceride levels, healthy blood pressure and reduced risk of serious cardiac events."
+          }
+        },
+        "8df6c2e2-c4d3-437c-8ed6-2414079200fb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Brain-health-LBlue.png",
+            "title": "Brain health and<br>mental clarity",
+            "description": "DHA is essential for normal brain function and having plenty of DHA in your diet helps keep memory and cognition in good shape as you age."
+          }
+        },
+        "b2f77e77-e610-47b6-be0f-d426c788506c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Joint-Health-Inflammation-orange.png",
+            "title": "Joint health and<br>inflammation",
+            "description": "Omega 3s have been shown to fight the inflammation associated with joint pain and arthritis."
+          }
+        }
+      },
+      "block_order": [
+        "877cee62-d522-4da7-a046-7a5203fd4117",
+        "8df6c2e2-c4d3-437c-8ed6-2414079200fb",
+        "b2f77e77-e610-47b6-be0f-d426c788506c"
+      ],
+      "settings": {
+      }
+    },
+    "10512bf6-ffb9-4d4d-886f-ae486b7c3772": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "fbe198d0-d029-48bc-8dc6-ba5b13e7c58b": {
+      "type": "video-with-text",
+      "settings": {
+        "video": "https:\/\/player.vimeo.com\/video\/625066646?h=35fecaba7b",
+        "horizontal_alignment": "left",
+        "title": "Discover Our Signature Range of Fish Oils",
+        "description": "<p>It's difficult to get consistent amounts of the fatty acids your body needs with the typical diet alone. Health-savvy people rely on fish oil supplements, but the processes used to make almost every fish oil on the market make it difficult for your body to break down and absorb. And if your body isn't absorbing the omega 3s, it's as if you never took them.<br\/><br\/>Our Founder, Warren Matthews, explains in more depth what makes Xtend-Life’s fish oils so special. <\/p>"
+      }
+    },
+    "f8302fb8-b6e3-44b7-9a1c-d2ee6ac57340": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "43d88ff6-c4f8-4f51-8856-b8ec8359c4ef": {
+      "type": "product-selector-tab",
+      "blocks": {
+        "31610877-a17f-4659-9ce4-4baf166e447b": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Omega 3 \/ DHA Range",
+            "tab_1": "",
+            "pro_url_1": "omega-3-qh-premium-coq10",
+            "bgcolor_1": "#cae9fb",
+            "tab_2": "",
+            "pro_url_2": "omega-3-dha-plus",
+            "bgcolor_2": "rgba(0,0,0,0)",
+            "tab_3": "",
+            "pro_url_3": "omega-3-dha-fish-oil",
+            "bgcolor_3": "rgba(0,0,0,0)"
+          }
+        },
+        "8f522095-c700-41f9-a82d-ca803cfecf65": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Omega 3 \/ DHA Mini Gels",
+            "tab_1": "",
+            "pro_url_1": "omega-3-dha-fish-oil-mini-gels",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "Premium",
+            "pro_url_2": "",
+            "bgcolor_2": "#e3ebf6",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6"
+          }
+        },
+        "0e32e6ee-fd7a-45dd-b4e7-e1e04fc1d0db": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Omega 3 For Dogs",
+            "tab_1": "",
+            "pro_url_1": "omega-3-for-dogs",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "Premium",
+            "pro_url_2": "",
+            "bgcolor_2": "#e3ebf6",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6"
+          }
+        }
+      },
+      "block_order": [
+        "31610877-a17f-4659-9ce4-4baf166e447b",
+        "8f522095-c700-41f9-a82d-ca803cfecf65",
+        "0e32e6ee-fd7a-45dd-b4e7-e1e04fc1d0db"
+      ],
+      "settings": {
+        "standard_tab_bg": "#ffffff",
+        "standard_tab_text": "#3f7cbf",
+        "standard_tab_border": "#3f7cbf",
+        "standard_tab_bg_active": "#1c5497",
+        "standard_tab_text_active": "#ffffff",
+        "standard_tab_border_active": "#3f7cbf",
+        "header": "",
+        "color_title": "#4271a9",
+        "class_name": "omega-3-overview-tab",
+        "custome_css": ".omega-3-overview-tab .interest .interest__tabs .tabs__nav .tabs__control {\n     font-size: 20px;\n}\n @media (min-width: 1200px){\n     .omega-3-overview-tab .interest .interest__tabs .tabs__nav .tabs__control {\n         width: 370px;\n    }\n}\n @media (max-width: 1200px){\n     .omega-3-overview-tab .interest .interest__tabs .tabs__nav .tabs__control {\n         font-size: 16px;\n    }\n}\n @media (max-width: 767px){\n     .omega-3-overview-tab .interest .product-grid{\n         flex-direction: column;\n         flex-wrap: wrap;\n    }\n     .omega-3-overview-tab .interest__container .product-grid > .js-product{\n         width: calc(100% - 40px);\n    }\n}\n @media (max-width: 480px){\n     .omega-3-overview-tab .qty-selector__dials{\n         width: 100%;\n    }\n     .omega-3-overview-tab .quantity-wrapper.quantity-style--box .quantity-input-control--fill input{\n         width: calc(100% - 90px);\n    }\n     .product-info-column .new_add_tocart_cr {\n         max-width: 100%;\n    }\n}\n @media (min-width: 481px) and (max-width: 767px){\n     .interest__container .purchase-details {\n         display: flex;\n    }\n     .quantity-wrapper.quantity-style--box .quantity-input-control {\n         width: inherit;\n    }\n}"
+      }
+    },
+    "9f1b9df6-74ad-471e-a91b-282da77d49a0": {
+      "type": "graph-block-3",
+      "settings": {
+        "title_1": "Am I Getting Enough Omega 3?",
+        "description_1": "<p>It is tricky to consistently get enough omega 3s through diet alone.<\/p><p>In the United States, women only get 40%, and men only get 50% of the omega 3s they need daily, and recent studies indicate that up to 68% of adults are below the recommended levels.<\/p><p>Health-savvy people rely on fish oil supplements, but not all supplements are equal. You need to know what type of omega 3 you are taking and the amount of DHA it contains.<\/p>",
+        "graph_title": "Omega 3 levels",
+        "graph_image": "shopify:\/\/shop_images\/graph_circle.png",
+        "graph_description": "<span>At or above the recommended level<\/span>\n<span>Below the recommended level<\/span>",
+        "color_1": "#1c3180",
+        "title_2": "Am I Getting the Right Types of Omega 3?",
+        "description_2": "<p>Most concentrated fish oils are subject to high heat and are converted to ethyl esters as part of the process, then sometimes reconverted back to the triglyceride form and are no longer natural and thus have poorer bioavailability.<\/p><p>The proprietary enzymatic process behind Xtend-Life’s production of fish oils delivers pure, concentrated DHA and EPA in the NATURAL TRIGLYCERIDE FORM. This is the most effective form of fish oil and is rare among supplement brands because it is both technically challenging and expensive to make.<\/p>",
+        "color_2": "#3e7ac0",
+        "title_3": "Am I Getting Enough DHA?",
+        "description_3": "<p>DHA is the most complex form of omega 3. It’s the most important omega for brain and eye health and is difficult to consume in sufficient amounts because it is contained in so few food sources.<\/p><p>Our fish oil supplements are higher in DHA than EPA – the opposite of most other products on the market. Xtend-Life’s supplements contain a generous 700mg DHA per serve!  DHA can easily convert to EPA if the body needs it but not the other way around.<\/p>",
+        "color_3": "#fc8503"
+      }
+    },
+    "2fe46ff3-407f-45c5-8186-3d2b6baf3b40": {
+      "type": "why-do-i-need",
+      "blocks": {
+        "b61b58ef-738e-4f39-b2eb-04b625acea3d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Cardiovascular-health-blue-1.png",
+            "title": "Cardiovascular health",
+            "description": "<p>It’s estimated that 84,000 heart-related deaths in the U.S. could have been prevented annually with an adequate intake of DHA and EPA daily.<\/p><p>Our premium blend also includes CoQ10, which has been shown to have benefits for heart health, especially for those on statin medications.<\/p><p><a href=\"\/products\/omega-3-qh-premium\" title=\"Omega 3 \/ QH Premium\">Find out how you can support a happy, healthy cardiovascular system with Xtend-Life’s superior quality fish oils.<\/a><\/p>"
+          }
+        },
+        "be0b55e1-f7fe-45e5-b631-44df6d6a8c42": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Brain-health-LBlue-1.png",
+            "title": "Brain health",
+            "description": "<p>DHA is essential for normal brain function and having plenty of DHA in your diet helps keep memory and cognition in good shape as you age.<\/p><p>An enormous analysis of data sets that followed more than 23,000 older people, showed that increased fish intake led to significant protection against memory and cognitive decline.<\/p><p><a href=\"\/products\/omega-3-dha-fish-oil\" title=\"Omega 3 \/ DHA Fish Oil\">Find out more about how Xtend-Life’s superior quality fish oils can support your brain.<\/a><\/p>"
+          }
+        },
+        "6ff3270a-716a-4e68-906b-9c8dc0880bfe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Skin-and-eye-health-1.png",
+            "title": "Skin and eye health",
+            "description": "<p>Having good vision is vital to health and wellbeing. Numerous studies show that DHA and EPA play an important role in keeping our eyes healthy. In fact, the body’s highest concentration of DHA is found in the retina, illustrating the importance of this nutrient for your eyes.<\/p><p><a href=\"\/products\/omega-3-dha-plus\" title=\"Omega 3 \/ DHA Plus\">Find out how you can protect your eyes and have beautiful, glowing skin with Xtend-Life’s superior quality fish oil.<\/a><\/p>"
+          }
+        },
+        "92e9e0f8-1d2b-4be0-b958-b6ff5a996bef": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Icon-Joint-Health-Inflammation-orange-1.png",
+            "title": "Joint health and fighting inflammation",
+            "description": "<p>Inflammation is a normal part of the body responding to infection or injury. That works well if the infection or injury is short term, but when the body suffers inflammation over a longer period, it often leads to serious health problems.<\/p><p>Long term inflammation in joints can damage cartilage, bones, tendons and ligaments and even irritate nerves. This can be debilitating and lead to loss of mobility.<\/p><p>As anyone with painful joints knows, long term inflammation is to be avoided!<a href=\"\/products\/omega-3-dha-fish-oil\" title=\"Omega 3 \/ DHA Fish Oil\"> Find out how Xtend-Life’s superior quality fish oils can help.<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b61b58ef-738e-4f39-b2eb-04b625acea3d",
+        "be0b55e1-f7fe-45e5-b631-44df6d6a8c42",
+        "6ff3270a-716a-4e68-906b-9c8dc0880bfe",
+        "92e9e0f8-1d2b-4be0-b958-b6ff5a996bef"
+      ],
+      "settings": {
+        "title": "Why Do I Need Xtend-Life’s Omega 3?",
+        "description": "<p>Omega 3s are some of the most studied nutrients in the world. There are more than 27,000 published studies on their health benefits.<\/p>"
+      }
+    },
+    "ef6f38a5-c22e-4cde-b13d-cd8c0048a302": {
+      "type": "title-with-text",
+      "settings": {
+        "title_class": "h1",
+        "title": "What's Special About Xtend-Life's Fish Oil?",
+        "description": "<p>Xtend-Life is committed to providing omega 3 products that are of the highest quality, sustainability, and integrity. All our omega 3 products are:<\/p>"
+      }
+    },
+    "6f281238-1758-4353-afd9-9f2d6c88d565": {
+      "type": "image-with-text-column",
+      "blocks": {
+        "3f354b18-81ea-4a6d-9944-3f1b5893fe45": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our-Products-are-EFFECTIVE.png",
+            "title": "Effective",
+            "description": "Not all fish oils are created equal. Xtend-Life uses a unique blend of triglyceride oils that are easier for the body to absorb."
+          }
+        },
+        "9282f357-b616-4eb6-b5a5-05ee1ba48718": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our-Products-are-SAFE.png",
+            "title": "Safe",
+            "description": "Each batch of our products is independently tested to ensure they meet or exceed stringent international levels for contaminants."
+          }
+        },
+        "68752465-8200-42c0-9933-c3dce152ad3c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our-Products-are-SUSTAINABLE.png",
+            "title": "Sustainable",
+            "description": "Xtend-Life has a long term relationship with fish oil suppliers that have sustainability at the core of their business."
+          }
+        },
+        "aaf401b8-f28c-4441-aefc-2d13f8f1a541": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Our-Products-are-FRESH.png",
+            "title": "Fresh",
+            "description": "Our processes and testing are designed to ensure freshness, but the best way we know to prove it is to have you try it."
+          }
+        }
+      },
+      "block_order": [
+        "3f354b18-81ea-4a6d-9944-3f1b5893fe45",
+        "9282f357-b616-4eb6-b5a5-05ee1ba48718",
+        "68752465-8200-42c0-9933-c3dce152ad3c",
+        "aaf401b8-f28c-4441-aefc-2d13f8f1a541"
+      ],
+      "settings": {
+      }
+    },
+    "e12ba755-551e-4afe-854f-77bc9d92766a": {
+      "type": "title-with-text",
+      "settings": {
+        "title_class": "",
+        "title": "Effective",
+        "description": "<p>Not all fish oils are created equal. Xtend-Life uses natural triglyceride oils that have superior bioavailability. Let’s take a closer look at that.<\/p><p>When we consume seafood, the omega 3s are in their natural form, called triglycerides. In contrast, when most manufacturers purify and concentrate fish oils, the oil is converted to a form called ethyl esters. This is needed for the distillation process, which requires high heat.<\/p><p>The problem with ethyl esters is that they are poorly absorbed by the body. One study showed that the maximum level of omega 3 (DHA and EPA) in the blood was<br\/>about 50% lower with ethyl esters compared to triglycerides. Fish oils in the ethyl ester form are the most common type of supplements because they are less expensive to produce.<\/p><p>Some fish oil manufacturers take another step (called trans-esterification) to turn the ethyl esters back to triglycerides. But there is a catch! In re-creating the triglyceride in this way, the molecule ends up in a different chemical structure compared to the natural form.<\/p><p>When it comes to fish oils, we believe nature knows best! That’s why we only use oil in their NATURAL TRIGLYCERIDE form. To manufacture our purified, concentrated fish oils and maintain their NATURAL TRIGLYCERIDE form requires a propriety enzymatic step that is technically difficult and also expensive.<\/p><p>Xtend-Life’s omega blend contains two fish oils which contain NATURAL TRIGLYCERIDES (DHA and EPA), with no conversion to ethyl esters. That makes Xtend-Life’s omega 3 products far superior to most other fish oil supplements on the market, so you can be confident you are getting the most effective type of fish oil available.<\/p>"
+      }
+    },
+    "3e4595c0-3877-45f7-ae54-ed1f66602f04": {
+      "type": "title-with-small-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GOED_proud_member_logo-original.png",
+        "title": "Safe",
+        "description": "<p><\/p><p>While experts agree that fish oils provide multiple health benefits, some people may be concerned about contaminants such as heavy metals.<\/p><p>At Xtend-Life, we don’t shy away from difficult conversations. Sadly, heavy metals and other contaminants are part of the ocean ecosystem, and therefore the seafood we consume also contains low levels of contaminants.<\/p><p>Rest assured, Xtend-Life’s fish oils are a safe way to get the health benefits of DHA and EPA. Fish oils are purified by a process called molecular distillation, which is highly effective at removing contaminants. International bodies such as GOED (Global Organisation for EPA and DHA) have set limits for contaminants in fish oils.<\/p>"
+      }
+    },
+    "64c99a99-6af7-4fdd-bae9-4c6b9e26eaab": {
+      "type": "title-with-text",
+      "settings": {
+        "title_class": "",
+        "title": "Sustainable",
+        "description": "<p>Here in New Zealand, we are surrounded by sea. As children, we grow up with a sense of awe and respect for the ocean. As adults, we are determined to protect the ocean for our mokopuna (Māori word for grandchildren).<\/p><p>With that in mind, Xtend-Life takes great care to work with fish oil suppliers that have sustainability at the core of their business.<\/p><p>Our New Zealand Hoki oil supplier operates within catchment limits set by New Zealand’s Ministry of Primary Industries, which ensures no detrimental effects on Hoki populations.<br\/>In addition, our Hoki supplier is certified by two international organisations, The Marine Stewardship Council and Friends of the Sea. Our Tuna supplier is also certified by Friends of the Sea.<\/p><p>These certifications mean that customers can be confident that the products come from sustainable fisheries.<\/p>"
+      }
+    },
+    "383c1cfb-a5d0-403e-915f-3e2cbe0c0046": {
+      "type": "title-with-text",
+      "settings": {
+        "title_class": "",
+        "title": "Fresh",
+        "description": "<p>The freshness of fish oils is of the utmost importance. The freshness of fish oils is determined by testing the oxidation status of the oil. Measurements such as anisidine value and peroxide value are often used, but these change over time and are not meaningful on their own.<\/p><p>The only truly meaningful measurement of freshness is called TOTOX. TOTOX is a calculation based on both anisidine value and peroxide value. Xtend-Life has set a stringent level of TOTOX which is a lot lower (fresher) than that set by GOED. We test for TOTOX in every batch to ensure complete freshness.<\/p><p>As a consumer, how do you know if your fish oil supplement is fresh? The best thing to do is try it! Fresh oils that have low levels of oxidation have a mild oceanic flavour and aroma. On the other hand, heavily oxidised (rancid) fish oils have a very strong, unpleasant ‘fishy’ taste.<br\/>We welcome you to cut open your soft gel. We guarantee you’ll be pleasantly surprised!<\/p>"
+      }
+    },
+    "83fa5059-ad5a-4965-81ef-241aeb2fa964": {
+      "type": "title-with-text",
+      "settings": {
+        "title_class": "h1",
+        "title": "Our Signature Range of Fish Oils",
+        "description": "<p>Xtend-Life’s omega 3 fish oils are unlike any other product on the world market.  It is the only one that has a blend of natural non-concentrated New Zealand fish oil combined with highly concentrated tuna oil, all from sustainable sources.<\/p>"
+      }
+    },
+    "fbfa9de8-1b37-497e-919a-c95674c746d8": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "86b2fb44-d21e-4fd0-aac6-553fec996922": {
+      "type": "standard-text-description",
+      "settings": {
+        "header": "",
+        "color_title": "#4271a9",
+        "align_text": "center",
+        "content_area": "<div style=\"overflow-x:auto;\">\n<table class=\"ingerdient_table\">\n<thead>\n<tr>\n<th style=\"text-align: center;\" scope=\"col\"><\/th>\n<th style=\"min-width: 80px;\"><a href=\"\/products\/omega-3-dha-fish-oil\"> Omega 3 \/ DHA Fish Oil<\/a><\/th>\n<th style=\"min-width: 80px;\"><a href=\"\/products\/omega-3-dha-fish-oil-mini-gels\">Omega 3 \/ DHA Mini Gels<\/a><\/th>\n<th style=\"min-width: 80px;\"><a href=\"\/products\/omega-3-dha-plus\">Omega 3 \/ DHA Plus<\/a><\/th>\n<th style=\"min-width: 80px;\"><a href=\"\/products\/omega-3-qh-premium\"> Omega 3 \/ QH Premium<\/a><\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<th>Pure, high quality fish oil<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<\/tr>\n<tr>\n<th>Support cardiovascular health<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>Enhanced<\/td>\n<\/tr>\n<tr>\n<th>Boost brain health<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<\/tr>\n<tr>\n<th>Promote joint health &amp; fighting inflammation<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<\/tr>\n<tr>\n<th>Manage skin &amp; eye health<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>Enhanced<\/td>\n<td>Enhanced<\/td>\n<\/tr>\n<tr>\n<th>Effective - natural triglyceride oils with superior bioavailability<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<\/tr>\n<tr>\n<th>Safe - independently tested for contaminants<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<\/tr>\n<tr>\n<th>Sustainably sourced<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<\/tr>\n<tr>\n<th>Fresh - highest quality ingredients<\/th>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<td>✓<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>",
+        "color_content": "#4271a9"
+      }
+    },
+    "8ad96949-9dd0-4fa1-abdc-2a8aafac38f9": {
+      "type": "title-with-text",
+      "settings": {
+        "title_class": "h1",
+        "title": "References",
+        "description": "<p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/2144420\/#:~:text=The%20mean%20relative%20bioavailability%20of,esters%20as%20compared%20to%20triglycerides.\" target=\"_blank\" title=\"[Comparative bioavailability of eicosapentaenoic acid and docasahexaenoic acid from triglycerides, free fatty acids and ethyl esters in volunteers]\">Beckermann B, Beneke M, Seitz I. Vergleich der Bioverfügbarkeit von Eicosapentaensäure und Docosahexaensäure aus Triglyceriden, freien Fettsäuren und Ethylestern bei<br\/>Probanden [Comparative bioavailability of eicosapentaenoic acid and docasahexaenoic acid from triglycerides, free fatty acids and ethyl esters in volunteers]. Arzneimittelforschung. 1990 Jun;40(6):700-4.<\/a><\/p><p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/20638827\/\" target=\"_blank\" title=\"Bioavailability of marine n-3 fatty acid formulations\">Dyerberg J, Madsen P, Møller JM, Aardestrup I, Schmidt EB. Bioavailability of marine n-3 fatty acid formulations. Prostaglandins Leukot Essent Fatty Acids. 2010 Sep;83(3):137-41. doi: 10.1016\/j.plefa.2010.06.007. PMID: 20638827.<\/a><\/p><p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/21063431\/\" target=\"_blank\" title=\"Enhanced increase of omega-3 index in response to long-term n-3 fatty acid supplementation from triacylglycerides versus ethyl esters\">Neubronner J, Schuchardt JP, Kressel G, Merkel M, von Schacky C, Hahn A. Enhanced increase of omega-3 index in response to long-term n-3 fatty acid supplementation from triacylglycerides versus ethyl esters. Eur J Clin Nutr. 2011 Feb;65(2):247-54. doi: 10.1038\/ejcn.2010.239. Epub 2010 Nov 10. PMID: 21063431.<\/a><\/p><p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/32994616\/\" target=\"_blank\" title=\"N Z Med J . 2020 Sep 25;133(1522):52-62. Are over-the-counter fish oil supplements safe, effective and accurate with labelling? Analysis of 10 New Zealand fish oil supplements\">Rucklidge JJ, Shaw IC. Are over-the-counter fish oil supplements safe, effective and accurate with labelling? Analysis of 10 New Zealand fish oil supplements. N Z Med J. 2020 Sep 25;133(1522):52-62. PMID: 32994616.<\/a><\/p><p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/30383282\/\" target=\"_blank\" title=\"Long-Chain Omega-3 Fatty Acid Bioavailability: Implications for Understanding the Effects of Supplementation on Heart Disease Risk\">Maki KC. Long-Chain Omega-3 Fatty Acid Bioavailability: Implications for Understanding the Effects of Supplementation on Heart Disease Risk. J Nutr. 018 Nov 1;148(11):1701-1703. doi: 10.1093\/jn\/nxy205. PMID: 30383282.<\/a><\/p><p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/31204771\/\" target=\"_blank\" title=\"Compound-specific isotope analysis reveals no retroconversion of DHA to EPA but substantial conversion of EPA to DHA following supplementation: a randomized control trial\">Metherel AH, Irfan M, Klingel SL, Mutch DM, Bazinet RP. Compound-specific isotope analysis reveals no retroconversion of DHA to EPA but substantial conversion of<br\/>EPA to DHA following supplementation: a randomized control trial. Am J Clin Nutr. 2019 Oct 1;110(4):823-831. doi: 10.1093\/ajcn\/nqz097. PMID: 31204771.<\/a><\/p><p><a href=\"https:\/\/pubmed.ncbi.nlm.nih.gov\/33972333\/\" target=\"_blank\" title=\"Long-chain omega-3 fatty acid serum concentrations across life stages in the USA: an analysis of NHANES 2011-2012\">Murphy RA, Devarshi PP, Ekimura S, et al Long-chain omega-3 fatty acid serum concentrations across life stages in the USA: an analysis of NHANES 2011–2012. BMJ<br\/>Open 2021;11:e043301. doi: 10.1136\/bmjopen-2020-043301<\/a><\/p>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f4aa017f-5278-4aaf-8a99-1637ca031840",
+    "7853e1c9-7387-4ad0-a509-5e31cea4a753",
+    "73921d0e-201d-4dfc-ad34-2340a44e3fbf",
+    "9dd36dfc-3f37-4e0a-9822-1c29d69d5c0c",
+    "bde71379-e36a-4559-bb59-50bcf11e4477",
+    "10512bf6-ffb9-4d4d-886f-ae486b7c3772",
+    "fbe198d0-d029-48bc-8dc6-ba5b13e7c58b",
+    "f8302fb8-b6e3-44b7-9a1c-d2ee6ac57340",
+    "43d88ff6-c4f8-4f51-8856-b8ec8359c4ef",
+    "9f1b9df6-74ad-471e-a91b-282da77d49a0",
+    "2fe46ff3-407f-45c5-8186-3d2b6baf3b40",
+    "ef6f38a5-c22e-4cde-b13d-cd8c0048a302",
+    "6f281238-1758-4353-afd9-9f2d6c88d565",
+    "e12ba755-551e-4afe-854f-77bc9d92766a",
+    "3e4595c0-3877-45f7-ae54-ed1f66602f04",
+    "64c99a99-6af7-4fdd-bae9-4c6b9e26eaab",
+    "383c1cfb-a5d0-403e-915f-3e2cbe0c0046",
+    "83fa5059-ad5a-4965-81ef-241aeb2fa964",
+    "fbfa9de8-1b37-497e-919a-c95674c746d8",
+    "86b2fb44-d21e-4fd0-aac6-553fec996922",
+    "8ad96949-9dd0-4fa1-abdc-2a8aafac38f9"
+  ]
+}

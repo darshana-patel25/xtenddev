@@ -1,0 +1,1524 @@
+{
+  "current": {
+    "show_announcement_bar": true,
+    "show_popup": false,
+    "show_fixed_message": false,
+    "header_layout": "search_focus",
+    "footer_layout": "classic",
+    "image_loading_style": "color",
+    "logo_mobile": "shopify:\/\/shop_images\/bloom__logo-color.png",
+    "mobile_logo_width": 100,
+    "logo_mobile_position": "center",
+    "logo_menu_position": "left",
+    "show_search_icon_mobile": false,
+    "show_locale_selector": false,
+    "show_currency_selector": false,
+    "mobile_sidebar_position": "below",
+    "mobile_menu_background_color": "rgba(0,0,0,0)",
+    "mobile_menu_opacity": 100,
+    "mobile_menu_link_color": "rgba(0,0,0,0)",
+    "mobile_menu_link_hover_color": "rgba(0,0,0,0)",
+    "button_primary_padding": "regular",
+    "button_primary_bg_color": "#00a9d5",
+    "button_primary_bg_color_transparency": 100,
+    "button_primary_border_color": "rgba(0,0,0,0)",
+    "button_primary_text_color": "#ffffff",
+    "button_primary_bg_color--highlight": "#00a9d5",
+    "button_primary_bg_color_transparency--highlight": 100,
+    "button_primary_border_color--highlight": "rgba(0,0,0,0)",
+    "button_primary_text_color--highlight": "#ffffff",
+    "button_primary_border_radius": 5,
+    "button_secondary_padding": "regular",
+    "button_secondary_bg_color": "rgba(0,0,0,0)",
+    "button_secondary_bg_color_transparency": 0,
+    "button_secondary_border_color": "#d3d6d8",
+    "button_secondary_text_color": "#000000",
+    "button_secondary_bg_color--highlight": "rgba(0,0,0,0)",
+    "button_secondary_bg_color_transparency--highlight": 100,
+    "button_secondary_border_color--highlight": "#000000",
+    "button_secondary_text_color--highlight": "#000000",
+    "button_secondary_border_radius": 5,
+    "button_link_padding": "regular",
+    "button_link_text_color": "#4271a9",
+    "button_link_text_color--highlight": "#7eabe0",
+    "button_link_underline_style": "solid",
+    "button_link_underline_thickness": 1,
+    "button_cart_padding": "regular",
+    "button_cart_bg_color": "#00a9d5",
+    "button_cart_bg_color--highlight": "#00a9d5",
+    "button_cart_border_color": "rgba(0,0,0,0)",
+    "button_cart_border_color--highlight": "rgba(0,0,0,0)",
+    "button_cart_text_color": "#fff",
+    "button_cart_text_color--highlight": "#ffffff",
+    "button_cart_icon": "",
+    "button_cart_icon_position": "left",
+    "button_cart_border_radius": 35,
+    "icon": "icon_solid",
+    "toggle_icon_style": "carets",
+    "social_media_share_style": "rounded",
+    "breadcrumb_capitalization": "none",
+    "breadcrumb_separator": "arrow",
+    "breadcrumb_size": "small",
+    "dropdown_style": "vertical",
+    "dropdown_position": "below-parent",
+    "dropdown_link_spacing": "medium",
+    "use_placeholders": true,
+    "form_button_style": "button--primary",
+    "display_heading_divider": false,
+    "heading_divider_animation": "none",
+    "heading_divider_style": "short",
+    "heading_divider_width": 2,
+    "toggle_sidebar": false,
+    "tab_style": "outline",
+    "table_styles_enabled": true,
+    "qty_box_style": "box",
+    "qty_border_radius": 0,
+    "tag_style": "solid",
+    "mega_menu_1": true,
+    "mega_menu_2": true,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "mega_menu_6": false,
+    "mega_menu_7": false,
+    "mega_menu_8": false,
+    "mega_menu_9": true,
+    "mega_menu_10": true,
+    "shop_bg_color": "#ffffff",
+    "border_color": "#eaeaea",
+    "regular_color": "#231f20",
+    "link_color": "#4271a9",
+    "link_hover_color": "#1c5497",
+    "heading_color": "#005895",
+    "banner_heading_color": "#ffffff",
+    "divider_color": "#3a913f",
+    "logo_text": "#ffffff",
+    "header_background": "#ffffff",
+    "header_link_color": "#005895",
+    "header_link_hover_color": "#005895",
+    "header_cart_badge_color": "#005895",
+    "cart_background_color": "#fff",
+    "show_dropdown_shadow": true,
+    "dropdown_background": "#fff",
+    "dropdown_background_opacity": 90,
+    "dropdown_link_color": "#000000",
+    "dropdown_link_hover_color": "#1c5497",
+    "footer_background": "rgba(0,0,0,0)",
+    "footer_border": "#eaeaea",
+    "footer_link_color": "#231f20",
+    "footer_link_hover_color": "#7eabe0",
+    "footer_text_color": "#1c5497",
+    "sale_color": "#3c4146",
+    "was_price_color": "#3c4146",
+    "product_hover_text_color": "#000000",
+    "product_hover_bg_color": "#ffffff",
+    "banner_bestseller": "#f3d936",
+    "banner_comingsoon": "#b8af79",
+    "banner_new": "#222222",
+    "banner_preorder": "#b8af79",
+    "banner_sale": "#3a913f",
+    "banner_staffpick": "#282726",
+    "qty_icon_color": "#000000",
+    "qty_icon_hover_color": "#000000",
+    "qty_background_color": "#eaeaea",
+    "qty_background_hover_color": "#cdcdcd",
+    "regular__font": "open_sans_n4",
+    "regular_font_size": 16,
+    "logo__font": "montserrat_n5",
+    "logo_font_size": 20,
+    "logo_font_style": "none",
+    "nav__font": "montserrat_n7",
+    "nav_font_size": 14,
+    "nav_letter_spacing": 1,
+    "nav_font_style": "none",
+    "dropdown_heading_font_size": 16,
+    "dropdown_font_size": 14,
+    "dropdown_letter_spacing": 0,
+    "dropdown_font_style": "none",
+    "button__font": "montserrat_n6",
+    "button_letter_spacing": 0,
+    "button_font_style": "none",
+    "heading__font": "montserrat_n6",
+    "heading_size": 40,
+    "heading_letter_spacing": 0,
+    "heading_font_style": "none",
+    "preheading_font": "open_sans_n4",
+    "preheading_size": 17,
+    "preheading_style": "uppercase",
+    "subheading_font": "open_sans_n4",
+    "subheading_size": 17,
+    "subheading_style": "none",
+    "banner_heading__font": "montserrat_n6",
+    "banner_heading_size": 56,
+    "banner_heading_style": "none",
+    "banner_text__font": "montserrat_n6",
+    "banner_text_size": 30,
+    "banner_text_letter_spacing": 0,
+    "footer_heading_font_size": 14,
+    "footer_font_size": 14,
+    "open_sans_semi_bold": "open_sans_n6",
+    "search_option": "product",
+    "search_title": "Search",
+    "search_placeholder": "I'm looking for...",
+    "search_heading_color": "#000000",
+    "search_display_style": "popup",
+    "search_popup_bg": "#fff",
+    "search_menu": "",
+    "enable_autocomplete": true,
+    "search_to_display": 5,
+    "show_secondary_image": false,
+    "display_vendor": false,
+    "thumbnail_hover_enabled": false,
+    "thumbnail_text_alignment": "left",
+    "stickers_enabled": true,
+    "sticker_shape": "round",
+    "sticker_position": "right",
+    "collection_swatches": false,
+    "collection_swatches_shape": "square",
+    "enable_shopify_review_comments": true,
+    "enable_shopify_collection_badges": true,
+    "display_product_quantity": true,
+    "limit_quantity": false,
+    "display_inventory_left": false,
+    "inventory_threshold": 21,
+    "free_price_text": "Free",
+    "product_form_style": "radio",
+    "swatch_style": "rounded",
+    "notify_me_form": true,
+    "notify_me_description": "<p>Notify me when this product is available:<\/p>",
+    "size_chart": "",
+    "enable_quickshop": false,
+    "quickshop_button_style": "button--secondary",
+    "quickshop_show_vendor": false,
+    "quickshop_show_price_savings": true,
+    "show_dynamic_checkout_button": true,
+    "quickshop_truncate_words": false,
+    "quickshop_truncate_words_limit": 20,
+    "qs_popup_color": "#fff",
+    "show_product_gallery_thumbnails": true,
+    "quickshop_arrows": true,
+    "quickshop_magnify_images": false,
+    "quickshop_speed": 0,
+    "quickshop_gallery_transition_styles": "slide",
+    "quickshop_thumbnail_position": "bottom-thumbnails",
+    "enable_thumbnail_slider": true,
+    "quickshop_gallery_position": "left",
+    "video_looping": false,
+    "cart_action": "redirect_cart",
+    "show_lock_icon": false,
+    "cart_icon": "cart",
+    "display_special_instructions": false,
+    "display_tos_checkbox": true,
+    "tos_page": "",
+    "display_savings": true,
+    "display_ajax_quantity_box": false,
+    "cart_message": "",
+    "go_to_checkout": true,
+    "enable_shipping_calculator": false,
+    "shipping_calculator_default_country": "United States",
+    "currency_format": "money_format",
+    "show_multiple_currencies": false,
+    "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+    "default_currency": "USD",
+    "tax_messaging": "",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "facebook_link": "https:\/\/www.facebook.com\/XtendLife",
+    "youtube_link": "https:\/\/www.youtube.com\/user\/XtendLifeChannel",
+    "instagram_link": "https:\/\/www.instagram.com\/xtend.life\/",
+    "favicon": "shopify:\/\/shop_images\/favicon_68bc2f30-29e6-4e25-bc2d-591dbf3edaae.png",
+    "link-1": "shopify:\/\/pages\/our-story",
+    "image-1": "shopify:\/\/shop_images\/25_years_84d92a6a-05f5-4612-819c-a00e72c74cf8.png",
+    "description-1": "Trusted Brand for 25 Years",
+    "link-2": "shopify:\/\/pages\/our-story",
+    "image-2": "shopify:\/\/shop_images\/Mask_group_13d94caa-7f00-405e-86e1-167c65a49d6e.png",
+    "description-2": "Made in New Zealand",
+    "link-3": "shopify:\/\/pages\/refunds-and-returns",
+    "image-3": "shopify:\/\/shop_images\/365-days-icon_14e762a2-5a2f-4c17-b5d2-7dfda65ca7a9.png",
+    "description-3": "365 Days Guarantee",
+    "link-4": "shopify:\/\/pages\/refunds-and-returns",
+    "description-4": "",
+    "apps_wisepops_enabled": true,
+    "apps_wisepops_site_id": "VEAfQjjXJG",
+    "feature_norton_enabled": true,
+    "feature_norton_serial_number": "967903337",
+    "atc_loyalty_message": "",
+    "tax-messaging": "(Incl Tax)",
+    "payment_enabled_jcb": false,
+    "payment_enabled_shoppay": true,
+    "payment_enabled_applepay": true,
+    "payment_enabled_gpay": true,
+    "payment_enabled_alipay": false,
+    "country_popup": "<p>Users are automatically redirected to the website most relevant to their specific country.<\/p>\n      <p>If you can't find your country listed, please clear your cookies and visit the links below. Please note, your shopping cart will not be transferred to the new link.\n      <\/p>\n\t<ul>\n\t  <li data-value=\"nz\"><a href=\"https:\/\/nz.xtend-life.com\/\">New Zealand<\/a><\/li>\n\t  <li data-value=\"au\"><a href=\"https:\/\/au.xtend-life.com\/\">Australia<\/a><\/li>\n\t  <li data-value=\"uk\"><a href=\"https:\/\/uk.xtend-life.com\/\">United Kingdom <\/a><\/li>\n\t  \n\t<\/ul>\n<p>If you continue to have issues, please email us at!<br>customer.service@xtend-life.com<\/p>",
+    "restricted_products_kr": "4593157865590,4635952742518",
+    "reivew_star_color": "#DCAA27",
+    "checkout_header_image": "shopify:\/\/shop_images\/bloom__page--blog-01.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/checkout_log0.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#13066e",
+    "checkout_button_color": "#13066e",
+    "checkout_error_color": "#f40000",
+    "product_layout": "sections",
+    "icon_style": "icons",
+    "og_image_fallback": "shopify:\/\/shop_images\/bloom-social-share-image.jpg",
+    "show_labels": false,
+    "quikckshop_show_price_savings": true,
+    "logo_width": 200,
+    "field_input_style": "square",
+    "show_form_icons": false,
+    "form_size": "regular",
+    "form_border_style": "square",
+    "btn1_font_size": 15,
+    "btn1_border_radius": 3,
+    "btn1_block": false,
+    "btn1_bg_color": "#199347",
+    "btn1_border_color": "rgba(0,0,0,0)",
+    "btn1_text_color": "#ffffff",
+    "btn1_bg_color--highlight": "#16a94e",
+    "btn1_border_color--highlight": "rgba(0,0,0,0)",
+    "btn1_text_color--highlight": "#ffffff",
+    "btn2_font_size": 16,
+    "btn2_border_radius": 0,
+    "btn2_block": false,
+    "btn2_bg_color": "#ffffff",
+    "btn2_border_color": "#000000",
+    "btn2_text_color": "#000000",
+    "btn2_bg_color--highlight": "#000000",
+    "btn2_border_color--highlight": "#000000",
+    "btn2_text_color--highlight": "#ffffff",
+    "btn3_font_size": 17,
+    "btn3_border_radius": 4,
+    "btn3_bg_color": "#3a913f",
+    "btn3_bg_color_transparency": 100,
+    "btn3_bg_color--highlight": "#fff",
+    "btn3_bg_color_transparency--highlight": 100,
+    "btn3_border_color": "#199347",
+    "btn3_border_color--highlight": "rgba(0,0,0,0)",
+    "btn3_text_color": "#fff",
+    "btn3_text_color--highlight": "#000000",
+    "btn3_icon": "leaf-2",
+    "btn3_icon_position": "left",
+    "btn3_animation": "checkmark",
+    "feature_enabled_product_locale": true,
+    "app_enabled_uppromote": true,
+    "app_enabled_bundlebear": true,
+    "app_enabled_triplewhale": false,
+    "feature_standard_loyalty_enabled": false,
+    "cross_sell_widge_id_cart": "4P0M0P5O7T2E3I0",
+    "stamped_product_reviews": true,
+    "xtendlife_integrator_url": "https:\/\/integrator.xtend-life.com",
+    "xtendlife_integrator_v2": true,
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "icon_label": "",
+          "text": "<p>Free US Shipping over $125 |   <a href=\"\/collections\/all\" title=\"All products\">Shop Now<\/a><\/p>",
+          "alignment": "center",
+          "size": "regular",
+          "button_label": "",
+          "link": "",
+          "button_style": "button--primary",
+          "background": "#005895",
+          "text_color": "#ffffff",
+          "width": "wide",
+          "homepage_only": false,
+          "enable_sticky": false,
+          "show_close_icon": false,
+          "css_class": "header__promo",
+          "custom_css": ""
+        }
+      },
+      "header__top-bar": {
+        "type": "header__top-bar",
+        "blocks": {
+          "header__top-bar-0": {
+            "type": "text",
+            "settings": {
+              "text": "123 Main Street, Pleasantville USA"
+            }
+          },
+          "header__top-bar-1": {
+            "type": "social_media",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "header__top-bar-0",
+          "header__top-bar-1"
+        ],
+        "settings": {
+          "show_top_bar": false,
+          "font": "open_sans_n4",
+          "font_style": "none",
+          "font_size": 14,
+          "letter_spacing": 0,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "background": "rgba(0,0,0,0)",
+          "link_color": "rgba(0,0,0,0)",
+          "link_hover_color": "rgba(0,0,0,0)",
+          "text_color": "rgba(0,0,0,0)",
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "header-classic": {
+        "type": "header-classic",
+        "settings": {
+          "logo": "",
+          "logo_width": 200,
+          "main_linklist": "main-menu",
+          "menu_alignment": "start",
+          "dropdown_click": false,
+          "display_search": true,
+          "icon_style": "icons",
+          "enable_overlay": false,
+          "show_text_shadow": false,
+          "overlay_link_color": "rgba(0,0,0,0)",
+          "overlay_link_hover_color": "rgba(0,0,0,0)",
+          "overlay_background": "rgba(0,0,0,0)",
+          "overlay_background_opacity": 0,
+          "overlay_logo": "",
+          "overlay_logo_width": 80,
+          "enable_sticky": false,
+          "sticky_background_opacity": 50,
+          "scroll_logo_width": 80,
+          "width": "standard",
+          "vertical_alignment": "center",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "blocks": {
+          "82746eec-f595-4b86-b027-5371a248fbb5": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "mega-menu-featured-products",
+              "menu_1_link": "",
+              "shop_text": "Shop all Products",
+              "shop_link": "shopify:\/\/collections",
+              "img_checkbox": true
+            }
+          },
+          "b22dcb04-ebc8-4802-9aad-cc2dda4d045a": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "shop-by-category",
+              "menu_1_link": "",
+              "shop_text": "Shop all Products",
+              "shop_link": "",
+              "img_checkbox": false
+            }
+          },
+          "9bd83489-c7c2-46bd-a0cc-bdd401c26851": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Navigation-Image-Total-Balance.png",
+              "image_link": "shopify:\/\/pages\/total-balance-multivitamin-overview",
+              "image_title": "A Complete Nutrient System",
+              "image_caption": "<p>Your complete nutrient system.<\/p>",
+              "badge": "Best sellers",
+              "badge_color": "#00a9d5",
+              "link_title": "Shop Now"
+            }
+          },
+          "5c42fa88-eaad-4763-8e73-cd2cbc6863dd": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Navigation-Image-Heart-Health-Bundle.png",
+              "image_link": "shopify:\/\/products\/heart-health-bundle",
+              "image_title": "Heart Health Bundle Pack",
+              "image_caption": "<p>Bundle & save 5%.<\/p>",
+              "badge": "Sale",
+              "badge_color": "#dcaa27",
+              "link_title": "Shop Now"
+            }
+          }
+        },
+        "block_order": [
+          "82746eec-f595-4b86-b027-5371a248fbb5",
+          "b22dcb04-ebc8-4802-9aad-cc2dda4d045a",
+          "9bd83489-c7c2-46bd-a0cc-bdd401c26851",
+          "5c42fa88-eaad-4763-8e73-cd2cbc6863dd"
+        ],
+        "settings": {
+          "parent_link": "Supplements & Vitamins",
+          "enable_mega_menu_border": false,
+          "enable_overlay_image": false,
+          "mega_menu_background_color": "#ffffff",
+          "mega_menu_text_color": "#231f20",
+          "mega_menu_link_color": "#005895",
+          "show_mega_bottom_bar": false,
+          "mega_bottom_bar_icon": "cart",
+          "mega_bottom_bar_text": "Free shipping on orders over $75. Applies at checkout!",
+          "mega_bottom_bar_link": "",
+          "size": "regular",
+          "bottom_banner_bg": "#ffffff",
+          "bottom_banner_text": "#231f20",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer__icon-bar": {
+        "type": "footer__icon-bar",
+        "blocks": {
+          "footer__icon-bar-0": {
+            "type": "text",
+            "settings": {
+              "icon": "leaf",
+              "text": "100% Organic",
+              "link": ""
+            }
+          },
+          "1564007747013": {
+            "type": "text",
+            "settings": {
+              "icon": "shield",
+              "text": "Batch verified",
+              "link": ""
+            }
+          },
+          "footer__icon-bar-2": {
+            "type": "text",
+            "settings": {
+              "icon": "sun",
+              "text": "Locally grown",
+              "link": ""
+            }
+          },
+          "1564007613840": {
+            "type": "text",
+            "settings": {
+              "icon": "droplet",
+              "text": "Hydroponic",
+              "link": ""
+            }
+          },
+          "footer__icon-bar-3": {
+            "type": "text",
+            "settings": {
+              "icon": "truck",
+              "text": "Free shipping",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "footer__icon-bar-0",
+          "1564007747013",
+          "footer__icon-bar-2",
+          "1564007613840",
+          "footer__icon-bar-3"
+        ],
+        "settings": {
+          "show_icon_bar": false,
+          "alignment": "center",
+          "icon_position": "row",
+          "size": "medium",
+          "background": "#f3d936",
+          "link_color": "#000000",
+          "link_hover_color": "#000000",
+          "text_color": "#000000",
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer-classic": {
+        "type": "footer-classic",
+        "blocks": {
+          "0573d681-c6d3-4c7d-97cc-269fac5e1148": {
+            "type": "logo",
+            "settings": {
+              "size": "small",
+              "text": "<p>Trusted By Over 400,000 Customers For 22 Years<\/p>",
+              "social_icons_footer": true,
+              "social_title": "Follow Us on Social Media"
+            }
+          },
+          "69de8a62-68a8-48bb-82c1-6ea3585791d2": {
+            "type": "newsletter",
+            "settings": {
+              "newsletter_title": "Sign Up & Save 10% Off",
+              "newsletter_richtext": "<p>Subscribe to our newsletter and get news about promotions, discounts, product launches, and 10% off your first purchase!<\/p>",
+              "background_color": "#005895",
+              "display_klaviyoform": true,
+              "code_klaviyoform": "<div class=\"klaviyo-form-WLH7TA\"><\/div>",
+              "display_first_name": false,
+              "display_last_name": false
+            }
+          },
+          "1564514799950": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer-menu-1",
+              "social_icons_footer": false
+            }
+          },
+          "footer-classic-1": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer-menu-2",
+              "social_icons_footer": false
+            }
+          },
+          "1564514789950": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer-menu-3",
+              "social_icons_footer": false
+            }
+          },
+          "1564515208746": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer-menu-4",
+              "social_icons_footer": false
+            }
+          },
+          "50301747-6aef-40ce-9dcb-0930388ae88a": {
+            "type": "html",
+            "settings": {
+              "html_content": "<p class=\"footer__heading\">USA | Canada<\/p>\n<ul class=\"footer-contact\">\n<li class=\"footer__menu-link\"> <a href=\"tel:+18884879304\" class=\"\"><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-phone\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 13 14\"><path fill=\"#414B54\" fill-rule=\"evenodd\" d=\"M3.125 0c-.24 0-.477.07-.682.2-.2.127-.329.281-.415.383l-.037.043-.242.242-.119.118c-.118.118-.239.235-.36.351a16.91 16.91 0 0 0-.63.626 2.388 2.388 0 0 0-.559.928c-.12.39-.08.74-.05.993l.006.057c.066.596.22 1.177.456 1.727.255.635.584 1.27.968 1.865.53.815 1.15 1.571 1.843 2.25.063.06 1.347 1.284 2.151 1.828.587.398 1.215.74 1.867 1.017a6.01 6.01 0 0 0 1.696.481l.056.008c.156.021.315.04.473.04.186 0 .356-.023.521-.07.331-.095.647-.276.94-.54.22-.197.43-.407.638-.617.118-.119.237-.238.357-.354l.122-.117.251-.24.04-.033c.103-.083.26-.208.391-.407a1.233 1.233 0 0 0-.01-1.399 1.255 1.255 0 0 0-.395-.35c-.032-.019-.064-.035-.096-.05l-.849-.429c-.5-.252-1-.503-1.499-.757a1.37 1.37 0 0 0-.678-.179c-.355 0-.703.141-1.006.408-.15.132-.268.271-.362.382-.038.045-.075.091-.115.133-.102-.01-.39-.08-.955-.498a7.276 7.276 0 0 1-.946-.834c-.156-.17-.639-.71-.835-.987-.412-.58-.472-.873-.479-.965.043-.039.09-.075.135-.113.114-.092.255-.206.39-.354.331-.36.477-.792.414-1.218-.03-.212-.109-.373-.15-.46-.245-.506-.488-1.013-.73-1.52L4.233.736a1.25 1.25 0 0 0-.391-.498A1.177 1.177 0 0 0 3.125 0m0 1c.042 0 .082.011.115.036a.25.25 0 0 1 .067.084.75.75 0 0 1 .025.05c.38.79.756 1.583 1.137 2.373a.616.616 0 0 1 .063.174c.022.145-.062.286-.162.394-.162.177-.37.306-.538.478-.602.62.016 1.65.413 2.208.277.39.928 1.1.928 1.1.33.346.69.663 1.074.947.391.29 1.018.696 1.574.696a.88.88 0 0 0 .625-.238c.176-.164.308-.37.49-.529.096-.085.217-.158.344-.158.017 0 .035.001.053.004a.634.634 0 0 1 .172.067c.783.397 1.567.79 2.351 1.185l.048.025a.281.281 0 0 1 .083.07c.054.075.038.183-.013.26-.072.108-.203.185-.296.275-.12.12-.245.236-.367.354-.326.312-.638.647-.974.95-.156.141-.34.262-.544.32a.893.893 0 0 1-.246.031c-.133 0-.268-.02-.4-.038a5.096 5.096 0 0 1-1.434-.41 10.026 10.026 0 0 1-1.697-.924c-.744-.504-2.013-1.716-2.013-1.716A12.178 12.178 0 0 1 2.301 6.99a9.964 9.964 0 0 1-.889-1.716 5.08 5.08 0 0 1-.38-1.442c-.025-.214-.06-.436.005-.646a1.41 1.41 0 0 1 .331-.538c.31-.329.65-.634.97-.953l.36-.36c.093-.092.172-.22.282-.29A.276.276 0 0 1 3.125 1\"><\/path><\/svg>\n1 888 487 9304\n<\/a>\n<\/li>\n<li class=\"footer__menu-link\"> \n<a href=\"mailto:customer.service@xtend-life.com\"><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-email\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 17 11\"><g fill=\"none\" fill-rule=\"evenodd\"><path fill=\"#414B54\" d=\"M14.757 0H1.335C.599 0 0 .599 0 1.334V9.37c0 .736.599 1.335 1.335 1.335h13.422c.736 0 1.335-.6 1.335-1.335V1.334C16.092.599 15.493 0 14.757 0m0 1c.185 0 .335.15.335.334V9.37c0 .185-.15.335-.335.335H1.335A.335.335 0 0 1 1 9.37V1.334C1 1.15 1.15 1 1.335 1h13.422\"><\/path><path class=\"a\" stroke=\"#414B54\" stroke-width=\"1.065\" d=\"M1 1l6.39 4.95c.385.3.926.3 1.313 0L15.093 1\"><\/path><\/g><\/svg>customer.service@xtend-life.com<\/a>\n<\/li>\n<li class=\"footer__menu-link\"> \n<a href=\"#livechat\"><svg aria-hidden=\"true\" focusable=\"false\" role=\"presentation\" class=\"icon icon-chat\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewbox=\"0 0 17 15\"><g fill=\"#414B54\" fill-rule=\"evenodd\"><path d=\"M14.757 0H1.335C.6 0 0 .599 0 1.334v8.037c0 .736.6 1.335 1.335 1.335h8.607l2.616 2.617 1.708 1.707v-4.324h.491c.736 0 1.334-.599 1.334-1.335V1.334C16.091.599 15.493 0 14.757 0m0 1c.185 0 .334.15.334.334v8.037a.334.334 0 0 1-.334.335h-1.49v2.91l-2.91-2.91H1.334A.335.335 0 0 1 1 9.371V1.334C1 1.15 1.15 1 1.335 1h13.422\"><\/path><path d=\"M5.499 5.353a.661.661 0 1 1-1.322 0 .661.661 0 0 1 1.322 0m3.207 0a.66.66 0 1 1-1.32 0 .66.66 0 0 1 1.32 0m3.208 0a.661.661 0 1 1-1.322 0 .661.661 0 0 1 1.322 0\"><\/path><\/g><\/svg>live chat<\/a>\n<\/li>\n<\/ul>"
+            }
+          },
+          "6f01ed09-1d75-4638-aedc-39640925dae4": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer-top-categories",
+              "social_icons_footer": false
+            }
+          },
+          "e7a02031-199b-4aa0-9d3a-d6ef3742faa1": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "content": "<p>All material provided within this website is for informational and educational purposes only, and is not to be construed as medical advice or instruction. No action should be taken solely on the contents of this website. Consult your physician or a qualified health professional on any matters regarding your health and well-being or on any opinions expressed within this website. The information provided in our newsletters and special reports is believed to be accurate based on the best judgement of the Company and the authors. However, the reader is responsible for consulting with their own health professional on any matters raised within. Neither the company nor the author(s) of any information provided accept responsibility for the actions or consequential results of any action taken by any reader.<\/p>",
+              "social_icons_footer": false
+            }
+          }
+        },
+        "block_order": [
+          "0573d681-c6d3-4c7d-97cc-269fac5e1148",
+          "69de8a62-68a8-48bb-82c1-6ea3585791d2",
+          "1564514799950",
+          "footer-classic-1",
+          "1564514789950",
+          "1564515208746",
+          "50301747-6aef-40ce-9dcb-0930388ae88a",
+          "6f01ed09-1d75-4638-aedc-39640925dae4",
+          "e7a02031-199b-4aa0-9d3a-d6ef3742faa1"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_shopify": false,
+          "display_payment_methods": true,
+          "payment_page_url": "shopify:\/\/pages\/payment-options",
+          "payment_enabled_visa": true,
+          "payment_enabled_master": true,
+          "payment_enabled_paypal": true,
+          "payment_enabled_american_express": true,
+          "payment_enabled_jcb": false,
+          "payment_enabled_shoppay": true,
+          "payment_enabled_applepay": true,
+          "payment_enabled_gpay": true,
+          "payment_enabled_alipay": false,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "header-search-focus": {
+        "type": "header-search-focus",
+        "settings": {
+          "logo_width": 135,
+          "search_background": "rgba(0,0,0,0)",
+          "search_icon": "#ffffff",
+          "icon_style": "icons_text",
+          "main_linklist": "mega-menu-left",
+          "right_linklist": "mega-menu-right",
+          "header_nav_1": true,
+          "header_nav_1_title": "Best Sellers",
+          "header_nav_1_url": "\/",
+          "header_nav_1_children": "mega-menu-left",
+          "header_nav_2": false,
+          "header_nav_2_title": "Shop by Product",
+          "header_nav_2_url": "\/",
+          "header_nav_2_children": "",
+          "header_nav_3": false,
+          "header_nav_3_title": "Shop by Health Category",
+          "header_nav_3_url": "\/",
+          "header_nav_3_children": "",
+          "header_nav_4": false,
+          "header_nav_4_title": "About Us",
+          "header_nav_4_url": "\/",
+          "header_nav_4_children": "",
+          "header_nav_5": false,
+          "header_nav_5_title": "Contact Us",
+          "header_nav_5_url": "\/",
+          "header_nav_5_children": "",
+          "header_nav_6": false,
+          "header_nav_6_title": "What's New",
+          "header_nav_6_url": "shopify:\/\/collections\/whats-new",
+          "header_nav_6_children": "",
+          "menu_alignment": "start",
+          "trust_block": true,
+          "mobile_Second_nav": "secondmenu-mobile",
+          "shop_text": "Shop all",
+          "shop_link": "shopify:\/\/collections\/all",
+          "dropdown_click": true,
+          "enable_sticky": true,
+          "sticky_background_opacity": 70,
+          "scroll_logo_width": 75,
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "search__main": {
+        "type": "search__main",
+        "settings": {
+          "search_breadcrumb": true,
+          "text": "<p>Find what you seek.<\/p>",
+          "products_per_row": 3,
+          "mobile_products_per_row": "2",
+          "pagination_limit": 48,
+          "pagination_type": "basic_pagination",
+          "align_height": false,
+          "collection_height": 200,
+          "blog_author": false,
+          "blog_date": true,
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "password__main": {
+        "type": "password__main",
+        "settings": {
+          "custom_logo": "shopify:\/\/shop_images\/bloom__logo-color.png",
+          "password-page-background": "shopify:\/\/shop_images\/bloom__page--password-01.jpg",
+          "pagework_page_bg_stretched": true,
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_shopify": false,
+          "social_media": true,
+          "password_page_background_color": "#ffffff",
+          "password_page_text_color": "#000000",
+          "newsletter_title": "Subscribe",
+          "newsletter_richtext": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+          "show_signup_form": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "padding_top": 21,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "collection__main": {
+        "type": "collection__main",
+        "settings": {
+          "collection_breadcrumb": true,
+          "collection_tags": true,
+          "collection_sort": true,
+          "show_promo_banner": false,
+          "image_darken": false,
+          "promo_title": "Special sale on now!",
+          "promo_text": "<p>Description of promotion with lots of details.<\/p>",
+          "banner_height": "medium",
+          "align_height": false,
+          "collection_height": 200,
+          "products_per_row": 4,
+          "mobile_products_per_row": "1",
+          "pagination_limit": 24,
+          "pagination_type": "basic_pagination",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product__sidebar": {
+        "type": "product__sidebar",
+        "blocks": {
+          "product__sidebar-0": {
+            "type": "featured_promo",
+            "settings": {
+              "promo_background": "#eeeeee",
+              "promo_text": "#000000",
+              "richtext": "<p>Use this area for promotional information.<\/p>",
+              "button_label": "Shop now",
+              "button_style": "button--primary"
+            }
+          },
+          "product__sidebar-1": {
+            "type": "menu",
+            "settings": {
+              "menu": ""
+            }
+          },
+          "product__sidebar-2": {
+            "type": "text",
+            "settings": {
+              "title": "Heading",
+              "text": "<p>Text area can be used for details about blog authors or general information.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "product__sidebar-0",
+          "product__sidebar-1",
+          "product__sidebar-2"
+        ],
+        "settings": {
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product__main": {
+        "type": "product__main",
+        "settings": {
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "gallery_arrows": true,
+          "enable_zoom": false,
+          "enable_product_lightbox": true,
+          "slideshow_speed": 3,
+          "slideshow_transition": "slide",
+          "display_thumbnails": true,
+          "thumbnail_position": "bottom-thumbnails",
+          "enable_thumbnail_slider": true,
+          "width": "standard",
+          "padding_top": 20,
+          "padding_bottom": 20,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product-image-scroll__main": {
+        "type": "product-image-scroll__main",
+        "settings": {
+          "enable_zoom": true,
+          "enable_product_lightbox": true,
+          "display_thumbnails": true,
+          "slideshow_speed": 3,
+          "slideshow_transition": "slide",
+          "enable_thumbnail_slider": true,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "width": "standard",
+          "padding_top": 20,
+          "padding_bottom": 0,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-2": {
+        "type": "mega-menu-2",
+        "blocks": {
+          "mega-menu-2-4": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Foundational.png",
+              "image_link": "shopify:\/\/pages\/total-balance-multivitamin-overview",
+              "image_title": "Total Balance",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          },
+          "61ba9cb5-242a-400a-96fd-984b38aabe12": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Omega-3.png",
+              "image_link": "shopify:\/\/collections\/omega-3-health",
+              "image_title": "Omega 3 Health",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          },
+          "0224ca07-10e1-4ab9-852a-11e2b5fabf3a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Heart-Health.png",
+              "image_link": "shopify:\/\/collections\/heart-health",
+              "image_title": "Heart Health",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          },
+          "16cacb55-5aa0-4e1e-ab39-a201aaa147f8": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Mental.png",
+              "image_link": "shopify:\/\/collections\/mental-and-brain-health",
+              "image_title": "Mental & Brain Health",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          },
+          "034a56ad-7c75-4522-8967-7c3e58f0f849": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Digestive.png",
+              "image_link": "shopify:\/\/collections\/digestive-and-keto-health",
+              "image_title": "Digestive Health",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          },
+          "e1393005-048b-419f-8577-f69803194446": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Joint.png",
+              "image_link": "shopify:\/\/collections\/joint-health",
+              "image_title": "Joint Health",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          },
+          "d5c34d29-2125-4948-893b-e9a237ced11e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Immunity.png",
+              "image_link": "shopify:\/\/collections\/immunity-health",
+              "image_title": "Immunity Health",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          },
+          "fa12e522-ff24-4b12-a458-1db123da26a3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Category-Menu-Hormonal.png",
+              "image_link": "shopify:\/\/collections\/hormonal-health",
+              "image_title": "Sexual & Hormonal Health",
+              "image_caption": "",
+              "badge": "",
+              "badge_color": "#00a9d5",
+              "link_title": ""
+            }
+          }
+        },
+        "block_order": [
+          "mega-menu-2-4",
+          "61ba9cb5-242a-400a-96fd-984b38aabe12",
+          "0224ca07-10e1-4ab9-852a-11e2b5fabf3a",
+          "16cacb55-5aa0-4e1e-ab39-a201aaa147f8",
+          "034a56ad-7c75-4522-8967-7c3e58f0f849",
+          "e1393005-048b-419f-8577-f69803194446",
+          "d5c34d29-2125-4948-893b-e9a237ced11e",
+          "fa12e522-ff24-4b12-a458-1db123da26a3"
+        ],
+        "settings": {
+          "parent_link": "Beauty & Skincare",
+          "enable_mega_menu_border": false,
+          "enable_overlay_image": true,
+          "mega_menu_background_color": "#ffffff",
+          "mega_menu_text_color": "#231f20",
+          "mega_menu_link_color": "#ffffff",
+          "show_mega_bottom_bar": false,
+          "mega_bottom_bar_icon": "",
+          "mega_bottom_bar_text": "Add your deal, information or promotional text",
+          "mega_bottom_bar_link": "",
+          "size": "regular",
+          "bottom_banner_bg": "#007ace",
+          "bottom_banner_text": "#efefef",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "blog__main": {
+        "type": "blog__main",
+        "settings": {
+          "blog_tags": false,
+          "blog_posts_per_row": 2,
+          "blog_posts_per_page": 6,
+          "pagination_type": "basic_pagination",
+          "blog_author": false,
+          "blog_date": false,
+          "read_time": true,
+          "blog_comment_count": false,
+          "blog_show_tags": false,
+          "blog_show_excerpt": true,
+          "show_border": true,
+          "button_label": "",
+          "button_type": "none",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "article__main": {
+        "type": "article__main",
+        "settings": {
+          "show_breadcrumb": true,
+          "blog_author": true,
+          "blog_date": true,
+          "read_time": true,
+          "blog_comment_count": true,
+          "show_tags": false,
+          "show_featured_image": false,
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "show_close_icon": true,
+          "show_popup_on_mobile": false,
+          "display_border": true,
+          "border_color": "#f3d936",
+          "border_width": 3,
+          "newsletter_title": "Stay in touch!",
+          "newsletter_text": "<p>Subscribe to our newsletter to get the inside scoop on new releases, exclusive offers and more.<\/p>",
+          "newsletter_section_text_align": "center",
+          "text_color": "#000000",
+          "background_color": "#ffffff",
+          "show_signup_form": true,
+          "display_first_name": true,
+          "display_last_name": true,
+          "image_cropping": "none",
+          "image_position": "left",
+          "overlay_color": "#ffffff",
+          "overlay_background_opacity": 80,
+          "popup_delay": 2,
+          "popup_days_to_hide": "2",
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "fixed-message": {
+        "type": "fixed-message",
+        "settings": {
+          "text": "<p>By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts. <\/p>",
+          "button_label": "Accept All Cookies",
+          "button_style": "button--primary",
+          "background": "#eaeaea",
+          "background_opacity": 100,
+          "text_color": "#000000",
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product__recommendations": {
+        "type": "product__recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_style": "slider",
+          "product_recommendations_heading": "You may also like",
+          "products_per": 3,
+          "recommended_products_limit": 4,
+          "align_height": false,
+          "collection_height": 200,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer-promotional": {
+        "type": "footer-promotional",
+        "blocks": {
+          "footer-promotional-1": {
+            "type": "link_list",
+            "settings": {
+              "menu_1": "learn",
+              "menu_2": "company",
+              "menu_3": "policies"
+            }
+          },
+          "footer-promotional-0": {
+            "type": "logo",
+            "settings": {
+              "logo": "",
+              "size": "small",
+              "alignment": "start"
+            }
+          }
+        },
+        "block_order": [
+          "footer-promotional-1",
+          "footer-promotional-0"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": true,
+          "display_shopify": true,
+          "display_payment_methods": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "enable_promo": true,
+          "promo_background": "#eeeeee",
+          "promo_text": "#000000",
+          "promo_position": "row-reverse",
+          "promo_image": "",
+          "richtext": "<p>Learn why CBD capsules&nbsp;have become our new favourite product!<\/p>",
+          "promo_link": "shopify:\/\/blogs\/the-daily-weed\/post2",
+          "button_label": "Read more",
+          "button_style": "button--primary",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "cart__main": {
+        "type": "cart__main",
+        "settings": {
+          "display_product_quantity_cart": true,
+          "display_savings": true,
+          "cart_message": "",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "404__main": {
+        "type": "404__main",
+        "settings": {
+          "not_found_text": "<p>We're sorry, but the page you requested could not be found.<\/p><p>Try searching or <a href='\/collections\/all'>continue shopping<\/a>.<\/p>",
+          "display_search_field": true,
+          "width": "standard",
+          "padding_top": 59,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "list-collections__main": {
+        "type": "list-collections__main",
+        "settings": {
+          "collections_per_row": 3,
+          "pagination_limit": 48,
+          "pagination_type": "basic_pagination",
+          "align_height": false,
+          "collection_height": 400,
+          "button_style": "button--secondary",
+          "overlay_background": "#939393",
+          "overlay_background_opacity": 70,
+          "overlay_text": "#ffffff",
+          "collection_title_below_image": false,
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer-centered": {
+        "type": "footer-centered",
+        "blocks": {
+          "footer-centered-0": {
+            "type": "logo",
+            "settings": {
+              "logo": "",
+              "size": "small"
+            }
+          },
+          "footer-centered-1": {
+            "type": "link_list",
+            "settings": {
+              "menu": "main-menu"
+            }
+          },
+          "footer-centered-2": {
+            "type": "text",
+            "settings": {
+              "title": "Title",
+              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            }
+          },
+          "footer-centered-3": {
+            "type": "social",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "footer-centered-0",
+          "footer-centered-1",
+          "footer-centered-2",
+          "footer-centered-3"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": true,
+          "display_shopify": true,
+          "display_payment_methods": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "login-form": {
+        "type": "login-form",
+        "settings": {
+          "richtext": "",
+          "image": "shopify:\/\/shop_images\/bloom__page--login-01.jpg",
+          "image_position": "right",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "newsletter": {
+        "type": "newsletter",
+        "settings": {
+        }
+      },
+      "social-media": {
+        "type": "social-media",
+        "settings": {
+          "title": "Follow Us on Social Media",
+          "facebook_icon": "https:\/\/www.facebook.com\/XtendLife",
+          "pinterest_icon": "",
+          "instagram_icon": "https:\/\/www.instagram.com\/xtend.life\/",
+          "twitter_icon": "",
+          "youtube_icon": "https:\/\/www.youtube.com\/user\/XtendLifeChannel"
+        }
+      },
+      "brand-values": {
+        "type": "brand-values",
+        "blocks": {
+          "89fa3790-6d68-42fc-adff-da139a0bf416": {
+            "type": "item",
+            "settings": {
+              "title": "Made in New Zealand",
+              "image": "shopify:\/\/shop_images\/made-in-new-zealand_2x_3d64c671-fc17-4475-993c-d07274777738.png"
+            }
+          },
+          "7c58b102-cb0e-41fb-911b-6fb14c309113": {
+            "type": "item",
+            "settings": {
+              "title": "Natural Ingredients",
+              "image": "shopify:\/\/shop_images\/Footer-Guarantee-Natural-Ingredients-Grey_204895b4-1a61-4ecf-afdc-59049b9d7142_65x_2x_1.png"
+            }
+          },
+          "6c43b609-3549-4f29-9647-ec42220affc9": {
+            "type": "item",
+            "settings": {
+              "title": "Free DHL Express (3-5 Business Days) Courier Over $125 (US only)",
+              "image": "shopify:\/\/shop_images\/Footer-Guarantee-Free-Shipping-Grey_65x_2x_1.png"
+            }
+          },
+          "e5267563-af8d-49df-8f1b-a107b4f37ba5": {
+            "type": "item",
+            "settings": {
+              "title": "Trusted Brand for 22 Years",
+              "image": "shopify:\/\/shop_images\/Footer-Guarantee-Trusted-brand-Grey_65x_2x_1.png"
+            }
+          },
+          "c681ae27-d3fd-488e-a68f-e8621c06c97c": {
+            "type": "item",
+            "settings": {
+              "title": "365 Day Guarantee",
+              "image": "shopify:\/\/shop_images\/Footer-Guarantee-365-Day-Guarantee-Grey_65x_2x_1.png"
+            }
+          }
+        },
+        "block_order": [
+          "89fa3790-6d68-42fc-adff-da139a0bf416",
+          "7c58b102-cb0e-41fb-911b-6fb14c309113",
+          "6c43b609-3549-4f29-9647-ec42220affc9",
+          "e5267563-af8d-49df-8f1b-a107b4f37ba5",
+          "c681ae27-d3fd-488e-a68f-e8621c06c97c"
+        ],
+        "settings": {
+        }
+      },
+      "account-orders": {
+        "type": "account-orders",
+        "settings": {
+          "title": "My Orders",
+          "message": "",
+          "enablefilter": false
+        }
+      },
+      "skincare-header-search-focus": {
+        "type": "skincare-header-search-focus",
+        "settings": {
+          "skincare_logo": "shopify:\/\/shop_images\/imgpsh_fullsize_anim.png",
+          "logo_width": 280,
+          "search_background": "#363636",
+          "search_icon": "#ffffff",
+          "icon_style": "icons_text",
+          "main_linklist": "skincare-left-menu",
+          "right_linklist": "mega-menu-right",
+          "header_nav_1": true,
+          "header_nav_1_title": "Beauty & Skincare",
+          "header_nav_1_url": "",
+          "header_nav_1_children": "",
+          "header_nav_2": true,
+          "header_nav_2_title": "Supplements & Vitamins",
+          "header_nav_2_url": "",
+          "header_nav_2_children": "",
+          "header_nav_3": true,
+          "header_nav_3_title": "What’s New",
+          "header_nav_3_url": "",
+          "header_nav_3_children": "",
+          "header_nav_4": false,
+          "header_nav_4_title": "",
+          "header_nav_4_url": "",
+          "header_nav_4_children": "",
+          "header_nav_5": false,
+          "header_nav_5_title": "",
+          "header_nav_5_url": "",
+          "header_nav_5_children": "",
+          "header_nav_6": false,
+          "header_nav_6_title": "",
+          "header_nav_6_url": "",
+          "header_nav_6_children": "",
+          "menu_alignment": "start",
+          "trust_block": true,
+          "mobile_Second_nav": "",
+          "shop_text": "Shop all",
+          "shop_link": "",
+          "dropdown_click": true,
+          "enable_sticky": true,
+          "sticky_background_opacity": 100,
+          "scroll_logo_width": 200,
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-9": {
+        "type": "mega-menu-9",
+        "blocks": {
+          "mega-menu-9-0": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "cleansers",
+              "menu_1_link": ""
+            }
+          },
+          "menu_Vbj8Gw": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "treat",
+              "menu_1_link": ""
+            }
+          },
+          "menu_XhBqf4": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "moisturisers",
+              "menu_1_link": ""
+            }
+          },
+          "menu_VDUFGn": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "skin-nutrition",
+              "menu_1_link": ""
+            }
+          },
+          "menu_nJmKJh": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "for-men",
+              "menu_1_link": ""
+            }
+          },
+          "image_dLhjzV": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/total_bal.png",
+              "image_link": "shopify:\/\/products\/total-balance-mens-premium",
+              "image_title": "Total Balance Men's Premium",
+              "image_caption": "<p>Your complete nutrient system.<\/p>",
+              "link_title": "Shop Now"
+            }
+          },
+          "html_K9HDyT": {
+            "type": "html",
+            "settings": {
+              "html_content": "<style>\n.menu_block_7 {\n  grid-row-start: 3;\n}\n<\/style>\n<a class=\"button button--primary\" href=\"\/collections\/all\">Shop all Skincare<\/a>"
+            }
+          }
+        },
+        "block_order": [
+          "mega-menu-9-0",
+          "menu_Vbj8Gw",
+          "menu_XhBqf4",
+          "menu_VDUFGn",
+          "menu_nJmKJh",
+          "image_dLhjzV",
+          "html_K9HDyT"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+          "parent_link": "Beauty & Skincare",
+          "enable_mega_menu_border": false,
+          "mega_menu_background_color": "#ffffff",
+          "mega_menu_text_color": "#2d1900",
+          "mega_menu_link_color": "#2d1900",
+          "show_mega_bottom_bar": false,
+          "mega_bottom_bar_icon": "",
+          "mega_bottom_bar_text": "Add your deal, information or promotional text",
+          "mega_bottom_bar_link": "shopify:\/\/products\/cx8-heart-health-3-month-bundle",
+          "size": "regular",
+          "bottom_banner_bg": "#007ace",
+          "bottom_banner_text": "#efefef",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-10": {
+        "type": "mega-menu-10",
+        "blocks": {
+          "menu_Mg8zip": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "mega-menu-featured-products",
+              "menu_1_link": "",
+              "shop_text": "SHOP ALL Supplements",
+              "shop_link": "shopify:\/\/collections\/supplements",
+              "img_checkbox": true
+            }
+          },
+          "menu_hnUYjm": {
+            "type": "menu",
+            "settings": {
+              "menu_1": "shop-by-category",
+              "menu_1_link": "",
+              "shop_text": "Shop all Products",
+              "shop_link": "",
+              "img_checkbox": false
+            }
+          },
+          "image_TRxenQ": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/total_bal.png",
+              "image_link": "shopify:\/\/products\/total-balance-mens-premium",
+              "image_title": "Total Balance Men's Premium",
+              "image_caption": "<p>Your complete nutrient system.<\/p>",
+              "badge": "Best sellers",
+              "badge_color": "#00a9d5",
+              "link_title": "Shop Now"
+            }
+          },
+          "image_AHCEGM": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/heart_health_pack.png",
+              "image_link": "shopify:\/\/collections\/heart-health",
+              "image_title": "Heart Health Bundle Pack",
+              "image_caption": "<p>Bundle & save 20%.<\/p>",
+              "badge": "Sale",
+              "badge_color": "#dcaa27",
+              "link_title": "Shop Now"
+            }
+          }
+        },
+        "block_order": [
+          "menu_Mg8zip",
+          "menu_hnUYjm",
+          "image_TRxenQ",
+          "image_AHCEGM"
+        ],
+        "settings": {
+          "parent_link": "Supplements & Vitamins",
+          "enable_mega_menu_border": false,
+          "enable_overlay_image": false,
+          "mega_menu_background_color": "#ffffff",
+          "mega_menu_text_color": "#2d1900",
+          "mega_menu_link_color": "#2d1900",
+          "show_mega_bottom_bar": false,
+          "mega_bottom_bar_icon": "",
+          "mega_bottom_bar_text": "Add your deal, information or promotional text",
+          "mega_bottom_bar_link": "",
+          "size": "regular",
+          "bottom_banner_bg": "#007ace",
+          "bottom_banner_text": "#efefef",
+          "css_class": "",
+          "custom_css": ""
+        }
+      }
+    },
+    "content_for_index": [
+
+    ],
+    "blocks": {
+      "17151115064775110295": {
+        "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/recharge-theme\/371eed76-0b44-4869-9813-730372ea378e",
+        "disabled": false,
+        "settings": {
+          "color_brand": "#3f7cbf",
+          "contrast_color": "#FFFFFF",
+          "color_brand_secondary": "#1b3281",
+          "corners": "8px",
+          "app_background": "#ffffff",
+          "app_container": 1300,
+          "app_vertical_padding": 32,
+          "images_aspect_ratio": "1",
+          "cards_background": "#FFFFFF",
+          "cards_border_color": "rgba(0,0,0,0)"
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "7878088468538493966": {
+        "type": "shopify:\/\/apps\/wisepops-email-sms-popups\/blocks\/app-embed\/e7d7a4f7-0df4-4073-9375-5f36db513952",
+        "disabled": true,
+        "settings": {
+        }
+      }
+    }
+  }
+}

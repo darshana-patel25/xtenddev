@@ -1,0 +1,871 @@
+{
+  "sections": {
+    "6e3a288a-379d-4f5c-abc6-386132ada9a5": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "image_zhD6rX": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/pages\/total-balance-overview",
+            "image": "shopify:\/\/shop_images\/HP_Banner_TBMP_1680x600_6602dd63-f662-4d80-98b0-456114589d95.png",
+            "tablet_image": "shopify:\/\/shop_images\/HP-iPad-TBMP.png",
+            "mobile_image": "shopify:\/\/shop_images\/HP-Mob-TBMP.png",
+            "pretext_tag": "<p>Choose the Best for Your Heart<\/p>",
+            "pretext_custom_html": "",
+            "title": "Heart Health Expert's Choice",
+            "pretext": "",
+            "subtitle": "<p>“Xtendlife have gone the extra mile to put the best ingredients in their supplements... I’ve never found another multivitamin for the heart like CX8, it’s all about science and quality. I think you will be impressed like I was impressed...”<br\/><strong>- Dr. Joel Kahn, “America's Healthy Heart Doctor”<\/strong><\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#ffffff",
+            "heading_color": "#005895",
+            "subheading_color": "#231f20",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "",
+            "button_1_link": "shopify:\/\/collections\/best-sellers",
+            "button_1_style": "button--primary",
+            "button_1_color": "#00a9d5",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#231f20"
+          }
+        },
+        "image_bDnwqc": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/pages\/kanapa-skincare",
+            "image": "shopify:\/\/shop_images\/HP_Banner_Skincare_1680x600_b3783c84-f244-42c4-b641-8ba9cd57f126.png",
+            "tablet_image": "shopify:\/\/shop_images\/XL-HP_Skinc-iPad-768x475.png",
+            "mobile_image": "shopify:\/\/shop_images\/XL-HP_Skinc_Mob-560x560.png",
+            "pretext_tag": "<p>Affordable, Natural Beauty<\/p>",
+            "pretext_custom_html": "",
+            "title": "Nutrition for Your Skin",
+            "pretext": "",
+            "subtitle": "<p>Introducing Kanapa™ by Xtendlife. Our exclusive, scientifically formulated skincare range. <\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#232020",
+            "pretext_color": "#ffffff",
+            "heading_color": "#232020",
+            "subheading_color": "#232020",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "SHOP NOW",
+            "button_1_link": "shopify:\/\/pages\/kanapa-skincare",
+            "button_1_style": "button--primary",
+            "button_1_color": "#232020",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#232020",
+            "heading_color_mobile": "#232020",
+            "subheading_color_mobile": "#232020"
+          }
+        },
+        "template--14457907019894__6e3a288a-379d-4f5c-abc6-386132ada9a5-1669365973c3af650a-0": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/pages\/subscribe-and-save-v2",
+            "image": "shopify:\/\/shop_images\/HP_Banner_Subscribe-and-Save_1680x600_1b536792-7867-4324-a498-87e18a47388b.png",
+            "tablet_image": "shopify:\/\/shop_images\/HP-iPad-Generic_c6587d47-ca0c-498a-acac-efcb4ae9d3bd.png",
+            "mobile_image": "shopify:\/\/shop_images\/HP-Mob-Generic_e703a4e9-3e08-4e8d-81b8-000b0aaad173.png",
+            "pretext_tag": "<p><strong>Your Health on Auto Pilot<\/strong><\/p>",
+            "pretext_custom_html": "",
+            "title": "Subscribe and Save",
+            "pretext": "",
+            "subtitle": "<p>Unlock Savings & Convenience: Enjoy Automatic Deliveries & 15% Savings on Every Repeat Order!<\/p>",
+            "pretag_color": "#005895",
+            "pretag_backcolor": "#ffffff",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "LEARN MORE",
+            "button_1_link": "shopify:\/\/pages\/subscribe-and-save-v2",
+            "button_1_style": "button--primary",
+            "button_1_color": "#005895",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#231f20"
+          }
+        },
+        "image_qm46Ab": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/collections\/best-sellers",
+            "image": "shopify:\/\/shop_images\/HP_Banner_Generic_1680x600_021c3703-08af-4d47-8078-541801077aa6.png",
+            "tablet_image": "shopify:\/\/shop_images\/HP-iPad-Generic_c6587d47-ca0c-498a-acac-efcb4ae9d3bd.png",
+            "mobile_image": "shopify:\/\/shop_images\/HP-Mob-Generic_e703a4e9-3e08-4e8d-81b8-000b0aaad173.png",
+            "pretext_tag": "<p>Serving <strong>400,000+<\/strong> customers globally<\/p>",
+            "pretext_custom_html": "",
+            "title": "A Better Way of Living",
+            "pretext": "",
+            "subtitle": "<p>Xtendlife is a speciality, research-based, manufacturer in New Zealand developing natural health products.<\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#ffffff",
+            "heading_color": "#005895",
+            "subheading_color": "#231f20",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "45",
+            "button_1": "SHOP BEST SELLERS",
+            "button_1_link": "shopify:\/\/collections\/best-sellers",
+            "button_1_style": "button--primary",
+            "button_1_color": "#00a9d5",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#231f20"
+          }
+        },
+        "image_UPhWQK": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/pages\/total-balance-overview",
+            "image": "shopify:\/\/shop_images\/HP_Banner_TBMP_1680x600_6602dd63-f662-4d80-98b0-456114589d95.png",
+            "tablet_image": "shopify:\/\/shop_images\/HP-iPad-TBMP.png",
+            "mobile_image": "shopify:\/\/shop_images\/HP-Mob-TBMP.png",
+            "pretext_tag": "<p>Serving <strong>400,000+<\/strong> customers globally<\/p>",
+            "pretext_custom_html": "",
+            "title": "Beyond Men's Multivitamins",
+            "pretext": "",
+            "subtitle": "<p>Scientifically formulated for men  with 90+ vitamins, minerals, enzymes, herbs and nutrients.<\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#ffffff",
+            "heading_color": "#005895",
+            "subheading_color": "#231f20",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "SHOP BEST SELLERS",
+            "button_1_link": "shopify:\/\/collections\/best-sellers",
+            "button_1_style": "button--primary",
+            "button_1_color": "#00a9d5",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#231f20"
+          }
+        },
+        "image_zYPnYf": {
+          "type": "image",
+          "settings": {
+            "link": "shopify:\/\/pages\/omega-3-overview",
+            "image": "shopify:\/\/shop_images\/HP_Banner_Omega_1680x600_0e01be33-8ef0-4389-a293-63c3f4d33785.png",
+            "tablet_image": "shopify:\/\/shop_images\/HP-iPad-TBMP.png",
+            "mobile_image": "shopify:\/\/shop_images\/HP-Mob-TBMP.png",
+            "pretext_tag": "<p>Serving <strong>400,000+<\/strong> customers globally<\/p>",
+            "pretext_custom_html": "",
+            "title": "Full Spectrum Omega-3 Fish Oils",
+            "pretext": "",
+            "subtitle": "<p>Xtendlife’s omega-3 fish oils are unlike any other product on the world market.<\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#ffffff",
+            "heading_color": "#005895",
+            "subheading_color": "#231f20",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "50",
+            "button_1": "SHOP BEST SELLERS",
+            "button_1_link": "shopify:\/\/collections\/best-sellers",
+            "button_1_style": "button--primary",
+            "button_1_color": "#00a9d5",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#231f20"
+          }
+        }
+      },
+      "block_order": [
+        "image_zhD6rX",
+        "image_bDnwqc",
+        "template--14457907019894__6e3a288a-379d-4f5c-abc6-386132ada9a5-1669365973c3af650a-0",
+        "image_qm46Ab",
+        "image_UPhWQK",
+        "image_zYPnYf"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 6,
+        "show_arrows": true,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "84e8078e-1ec3-490e-b874-b2d3aa00f160": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "04cb7811-90e2-4713-9fb2-2a7399ed92f6": {
+      "type": "index__featured-collection",
+      "settings": {
+        "background_bg": "",
+        "title": "Best Sellers",
+        "tab_1": "Suppliments",
+        "collection": "best-sellers",
+        "tab_2": "skincare",
+        "collection1": "kanapa™-best-sellers",
+        "products_per": 4,
+        "mobile_products_per_row": "1",
+        "products_limit": 4,
+        "align_height": false,
+        "collection_height": 200,
+        "collection_style": "slider",
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 50,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "13d25065-ca08-4e5a-bdae-d9aeb67bcad1": {
+      "type": "text-bar",
+      "settings": {
+        "text_bar": "<img class=\"brand-value__image\" width=\"32px\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Free_Shipping_2c8a7d70-3649-44b7-be5f-40dfbfdb64b7.png\">Free USA\/CAN express courier shipping on orders over $125"
+      }
+    },
+    "32dee618-838f-4669-a012-bbf443e64297": {
+      "type": "health-hub",
+      "blocks": {
+        "b348698e-af65-46fb-b9f8-3bf4f6b1d1c0": {
+          "type": "First_row_item",
+          "settings": {
+            "title": "Foundational Health",
+            "description": "Total Balance is the secret to extended HEALTH-SPAN. Developed and refined over 20 years.",
+            "image": "shopify:\/\/shop_images\/Grid-Images-Total-Balance-Icon_1.png",
+            "button_url": "shopify:\/\/pages\/total-balance-overview"
+          }
+        },
+        "8a380d81-8264-4aa8-9163-043f670d2afa": {
+          "type": "First_row_item",
+          "settings": {
+            "title": "Omega 3 Health",
+            "description": "Three unique and exclusive all-natural blends of Omega 3 fish oil from New Zealand.",
+            "image": "shopify:\/\/shop_images\/Grid-Images-Omega3-Icon_1.png",
+            "button_url": "shopify:\/\/pages\/omega-3-overview"
+          }
+        },
+        "9fa2b4c7-3b99-4289-adb9-4eb0a5982ec7": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Cardiovascular Health",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/3-Cardiovascular-XT-Quinol_grande_d7f6c63d-4e0b-4644-975e-604ff504ff8b.webp",
+            "button_url": "shopify:\/\/collections\/heart-health"
+          }
+        },
+        "899be5b8-6e39-4dfc-9fc8-2972ed4f25ec": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Mental & Brain Health",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/4-Mental-_-Brain-Health-Serene-Saffron_1_1_grande_4e2e139b-2909-46ea-9988-7373f98fc049.webp",
+            "button_url": "shopify:\/\/collections\/mental-and-brain-health"
+          }
+        },
+        "8e8767a2-cabb-4d10-b6d5-c5bca2a9406f": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Immunity Health",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/5-Immunity-Immu-stay_grande_3448056f-d7b2-49b8-9ed1-712c78dbaf4f.webp",
+            "button_url": "shopify:\/\/collections\/immunity-health"
+          }
+        },
+        "fd5087ae-a630-42a6-83ea-02904d35e0bd": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Joint Health",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/6-Joint-Health-GLM_grande_ed4b0023-1896-4865-b71e-1f2244403036.webp",
+            "button_url": "shopify:\/\/collections\/joint-health"
+          }
+        },
+        "912050eb-3135-4507-a231-62bef494db2d": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Digestive & Keto Health",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/7-Digestive_Keto-Kiwi-Klenz_grande_96657df7-ed1e-47bb-ab63-adb4d7695379.webp",
+            "button_url": "shopify:\/\/collections\/digestive-and-keto-health"
+          }
+        },
+        "f03be0b8-2094-4076-b977-3fb224547b5e": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Sexual & Hormonal Health",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/Grid-Sexual-and-Hormonal-Health_grande_62d3e288-73f7-4d46-8975-bd9a73293621.webp",
+            "button_url": "shopify:\/\/collections\/hormonal-health"
+          }
+        },
+        "e7081eed-fe3f-439a-8d50-6dbcc78cb8e9": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Superfoods",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/Grid-Images-Superfood-icon_grande_8c27077f-e8f9-4621-8d94-e160dab3184d.webp",
+            "button_url": "shopify:\/\/collections\/superfoods"
+          }
+        },
+        "33ce223c-7daa-40ef-9891-e075f3999d2e": {
+          "type": "Second_row_item",
+          "settings": {
+            "title": "Skincare",
+            "description": "",
+            "image": "shopify:\/\/shop_images\/Grid-Images-Skincare-icon_grande_02657ceb-ab8b-4ad6-88e1-91b40a6ac2fa.webp",
+            "button_url": "shopify:\/\/collections\/skincare"
+          }
+        }
+      },
+      "block_order": [
+        "b348698e-af65-46fb-b9f8-3bf4f6b1d1c0",
+        "8a380d81-8264-4aa8-9163-043f670d2afa",
+        "9fa2b4c7-3b99-4289-adb9-4eb0a5982ec7",
+        "899be5b8-6e39-4dfc-9fc8-2972ed4f25ec",
+        "8e8767a2-cabb-4d10-b6d5-c5bca2a9406f",
+        "fd5087ae-a630-42a6-83ea-02904d35e0bd",
+        "912050eb-3135-4507-a231-62bef494db2d",
+        "f03be0b8-2094-4076-b977-3fb224547b5e",
+        "e7081eed-fe3f-439a-8d50-6dbcc78cb8e9",
+        "33ce223c-7daa-40ef-9891-e075f3999d2e"
+      ],
+      "disabled": true,
+      "settings": {
+        "header": "Shop by product",
+        "item_row_one": "6",
+        "item_row_second": "3",
+        "button_text": "",
+        "button_url": "",
+        "read_more": "See More Categories",
+        "read_more_hover": "See Fewer Categories"
+      }
+    },
+    "3025c3d2-eb13-4354-9683-88ceb9e5916d": {
+      "type": "bundle-products",
+      "blocks": {
+        "8db8e71a-e708-4a27-9e72-ec293199069d": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Suppliments",
+            "featured_product": "heart-health-bundle",
+            "title": "Save up to 20%*",
+            "content": "<p>30 Day Supply - Includes FREE bottle of Marine Magnesium with Potassium<\/p>"
+          }
+        },
+        "f38a27fa-e5a9-4116-ae71-e6197f94d0e2": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Suppliments",
+            "featured_product": "core-wellness-mens-premium",
+            "title": "Save up to 20%*",
+            "content": "<p>30 Day Supply - Includes FREE bottle of Marine Magnesium with Potassium<\/p>"
+          }
+        },
+        "502d921c-7d12-4307-9f0a-a4f0da2d2f12": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Suppliments",
+            "featured_product": "core-wellness-womens-premium",
+            "title": "Save up to 20%*",
+            "content": "<p>30 Day Supply - Includes FREE bottle of Marine Magnesium with Potassium<\/p>"
+          }
+        },
+        "c6c1631c-3bbb-47c5-8e05-0a3e3723cabf": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Suppliments",
+            "featured_product": "foundational-health-premium-pack-for-men",
+            "title": "Save up to 20%*",
+            "content": "<p>30 Day Supply - Includes FREE bottle of Marine Magnesium with Potassium<\/p>"
+          }
+        },
+        "8bac9282-afb1-4681-9db4-0a5be94b8320": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Skincare",
+            "featured_product": "kanapa-skin-essentials-for-women",
+            "title": "Save up to 20%*",
+            "content": "<p>Value Bundle<\/p>"
+          }
+        },
+        "image_4w6gzi": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Skincare",
+            "featured_product": "kanapa-skin-essentials-for-men",
+            "title": "Save up to 20%*",
+            "content": "<p>Value Bundle<\/p>"
+          }
+        },
+        "image_BApJ87": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Skincare",
+            "featured_product": "kanapa-evening-ritual",
+            "title": "Save up to 20%*",
+            "content": "<p>Value Bundle<\/p>"
+          }
+        },
+        "image_FV7kdR": {
+          "type": "image",
+          "settings": {
+            "standard_tab": "Skincare",
+            "featured_product": "kanapa-youthful-radiance",
+            "title": "Save up to 20%*",
+            "content": "<p>Value Bundle<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "8db8e71a-e708-4a27-9e72-ec293199069d",
+        "f38a27fa-e5a9-4116-ae71-e6197f94d0e2",
+        "502d921c-7d12-4307-9f0a-a4f0da2d2f12",
+        "c6c1631c-3bbb-47c5-8e05-0a3e3723cabf",
+        "8bac9282-afb1-4681-9db4-0a5be94b8320",
+        "image_4w6gzi",
+        "image_BApJ87",
+        "image_FV7kdR"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "background_bg": "#f0f0f0",
+        "title": "Bundle & Save",
+        "tab_1": "Suppliments",
+        "tab_2": "Skincare",
+        "bundle_tc": "*Bundle discount terms and conditions can be found here",
+        "bundle_tc_link": "shopify:\/\/pages\/affiliate-program"
+      }
+    },
+    "f8380f51-6fe7-4ef6-af33-13b00d24787f": {
+      "type": "certifications",
+      "blocks": {
+        "778d029f-704b-409d-8c83-c3d9fdfb588c": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NPA-80x60pix.png"
+          }
+        },
+        "9663d958-de8e-426a-bc53-d0025d1f5551": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NZ-57x60pix.png"
+          }
+        },
+        "98ef854b-726d-43f2-bf6a-6f33cc41e2a3": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FDA-160x60pix.png"
+          }
+        },
+        "886fde06-ab62-4165-86f5-2333ba287b9e": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/UL_GMP_Standard-53x60pix.png"
+          }
+        },
+        "b99e050a-35f5-4f2d-b6f7-cf1ae316716a": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HACCP-106x60pix.png"
+          }
+        },
+        "0604948a-dafb-4b65-95c6-b5d1926456a3": {
+          "type": "certification",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/GOED-43x60pix.png"
+          }
+        }
+      },
+      "block_order": [
+        "778d029f-704b-409d-8c83-c3d9fdfb588c",
+        "9663d958-de8e-426a-bc53-d0025d1f5551",
+        "98ef854b-726d-43f2-bf6a-6f33cc41e2a3",
+        "886fde06-ab62-4165-86f5-2333ba287b9e",
+        "b99e050a-35f5-4f2d-b6f7-cf1ae316716a",
+        "0604948a-dafb-4b65-95c6-b5d1926456a3"
+      ],
+      "settings": {
+        "header": "Our Certifications"
+      }
+    },
+    "5b579c6e-ec5b-4210-a06d-972467c9dd3f": {
+      "type": "index__logo-list",
+      "blocks": {
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-1": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Total balance",
+            "link": "shopify:\/\/products\/total-balance-unisex"
+          }
+        },
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-2": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Omega-3 Health",
+            "link": "shopify:\/\/collections\/omega-3-health"
+          }
+        },
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-3": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Heart Health",
+            "link": "shopify:\/\/collections\/heart-health"
+          }
+        },
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-4": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Mental Health",
+            "link": "shopify:\/\/collections\/mental-and-brain-health"
+          }
+        },
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-5": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Immunity Health",
+            "link": "shopify:\/\/collections\/immunity-health"
+          }
+        },
+        "5009e369-35c9-4eac-b88e-047069194430": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Joint Health",
+            "link": "shopify:\/\/collections\/joint-health"
+          }
+        },
+        "615e5ab7-c722-4214-996e-f8e4174d3b09": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Digestive Health",
+            "link": "shopify:\/\/collections\/digestive-and-keto-health"
+          }
+        },
+        "cb74b8f4-1b91-4202-b580-991d8fe52247": {
+          "type": "logo_image",
+          "settings": {
+            "heading": "Sexual Health",
+            "link": "shopify:\/\/collections\/hormonal-health"
+          }
+        }
+      },
+      "block_order": [
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-1",
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-2",
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-3",
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-4",
+        "template--14720674824289__5b579c6e-ec5b-4210-a06d-972467c9dd3f-logo_image-5",
+        "5009e369-35c9-4eac-b88e-047069194430",
+        "615e5ab7-c722-4214-996e-f8e4174d3b09",
+        "cb74b8f4-1b91-4202-b580-991d8fe52247"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Shop By Need",
+        "logos_per_row": 4,
+        "logo_size": "medium",
+        "background": "#ffffff",
+        "gradient": "rgba(0,0,0,0)",
+        "gradient_rotation": 0,
+        "width": "wide",
+        "padding_top": 50,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "4a99056f-ad5b-472f-9d4d-0a27fc1604ac": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--14720674824289__4a99056f-ad5b-472f-9d4d-0a27fc1604ac-collection-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "supplements",
+            "image": "shopify:\/\/shop_images\/HP-Shop-By-Type-SUPPLEMENT.png",
+            "title": "Supplements",
+            "button_label": ""
+          }
+        },
+        "template--14720674824289__4a99056f-ad5b-472f-9d4d-0a27fc1604ac-collection-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "skincare",
+            "image": "shopify:\/\/shop_images\/HP-Shop-By-Type-SKINCARE.png",
+            "title": "Skincare",
+            "button_label": ""
+          }
+        },
+        "template--14720674824289__4a99056f-ad5b-472f-9d4d-0a27fc1604ac-collection-3": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "superfoods",
+            "image": "shopify:\/\/shop_images\/HP-Shop-By-Type-ZUPAFOOD.png",
+            "title": "Superfoods",
+            "button_label": ""
+          }
+        },
+        "be1a7161-8d47-459f-9f42-e2c9fce970ae": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "product-sets",
+            "image": "shopify:\/\/shop_images\/HP-Shop-By-Type-PRODUCT-SETS.png",
+            "title": "Product Sets",
+            "button_label": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14720674824289__4a99056f-ad5b-472f-9d4d-0a27fc1604ac-collection-1",
+        "template--14720674824289__4a99056f-ad5b-472f-9d4d-0a27fc1604ac-collection-2",
+        "template--14720674824289__4a99056f-ad5b-472f-9d4d-0a27fc1604ac-collection-3",
+        "be1a7161-8d47-459f-9f42-e2c9fce970ae"
+      ],
+      "settings": {
+        "background": "#ffffff",
+        "title": "Shop By Type",
+        "collections_per_row": 4,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": false,
+        "button_style": "button--secondary",
+        "overlay_background": "rgba(0,0,0,0)",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#ffffff",
+        "collection_title_below_image": true,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "1650a6b4-25a9-415d-96eb-c42856028a6a": {
+      "type": "testimonial",
+      "blocks": {
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-0": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "<p><strong>Best Vitamins in the World<\/strong><\/p><p>“I reviewed and studied vitamins being sold over the world, and Total Balance Men’s Premium is the best.”<\/p>",
+            "rating": 5,
+            "author": "AARON, USA",
+            "featured_product": "total-balance-mens-premium"
+          }
+        },
+        "0ea68bdf-9bcd-4ff4-aace-bd2386583a2a": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "<p><strong>Love this company<\/strong><\/p><p>“Just got my extensive annual labs back, everything was PERFECT! I owe it all to them! Signed a 60 Year old woman :)”<\/p>",
+            "rating": 5,
+            "author": "PEGGY, USA",
+            "featured_product": "total-balance-womens-premium"
+          }
+        },
+        "3be69e46-23c5-4825-93c5-490016432d2f": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "<p><strong>Best Omega-3 ever<\/strong><\/p><p>“Best Omega 3 ever with much more DHA than EPA, which is essential and makes the difference. Only very few products have this healthy ratio”<br\/><br\/><\/p>",
+            "rating": 5,
+            "author": "SILVIA, SWITZERLAND",
+            "featured_product": "omega-3-qh-premium-coq10"
+          }
+        },
+        "97c3fff1-4bc9-4e8b-92e4-e673d453e007": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "<p><strong>I love this product!<\/strong><\/p><p>“I love the Foaming Facial Cleanser. I have naturally oily skin, and I like to preserve its natural oils, this cleanser doesn't dry my skin and isn't heavy at all.”<\/p>",
+            "rating": 5,
+            "author": "ROSLYN, USA",
+            "featured_product": "foaming-facial-cleanser"
+          }
+        },
+        "e3f115c8-3165-4aa8-ad68-e921cfe0ac40": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "<p>Natural pick me up<\/p><p>“I love using this product and I use it when I need a wee pick me up and feel like I need a nutrient boost.”<\/p>",
+            "rating": 5,
+            "author": "NICOLA, NEW ZEALAND",
+            "featured_product": "zupafood-greenz"
+          }
+        }
+      },
+      "block_order": [
+        "template--14457907019894__1650a6b4-25a9-415d-96eb-c42856028a6a-16693680850c306a17-0",
+        "0ea68bdf-9bcd-4ff4-aace-bd2386583a2a",
+        "3be69e46-23c5-4825-93c5-490016432d2f",
+        "97c3fff1-4bc9-4e8b-92e4-e673d453e007",
+        "e3f115c8-3165-4aa8-ad68-e921cfe0ac40"
+      ],
+      "settings": {
+        "background_bg": "#005895",
+        "review_block_bg": "#ffffff",
+        "dots_bg": "#ffffff",
+        "dotsactive_bg": "#ffffff",
+        "title": "5 Star Reviews",
+        "enable_overlay": true,
+        "author_tick": true,
+        "text_alignment": "left",
+        "heading_color": "#005895",
+        "content_color": "#231f20",
+        "author_color": "#005895"
+      }
+    },
+    "e5764d61-93c4-4153-8fe9-a48036d87ccf": {
+      "type": "gallery-slider",
+      "blocks": {
+        "a6949239-c4d2-4fbb-9a1d-3fddbb6b72f6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dr_joel.png",
+            "title": "Dr. Joel Kahn",
+            "quote": "<p>MD, Cardiologist<\/p>",
+            "content": "<p>“Dr. Joel Kahn is one of the world's leading cardiologists, clinical professor of medicine, integrative medicine practitioner and promoter of plant-based nutrition. He is a holistic cardiologist who strongly believes in the power of nutrition and supplements to help reduce disease risk, improve markers of heart health, and balance out dietary insufficiencies. Dr. Kahn is also the best-selling author of many popular books on heart health.”<\/p>"
+          }
+        },
+        "a03f532e-f4ec-4e5d-bc4a-63103ca591f1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ben_grrenfield.png",
+            "title": "Ben Greenfield",
+            "quote": "<p>Health & Fitness Biohacker<\/p>",
+            "content": "<p>“Ben Greenfield is one of the most influential people in health and fitness, he is a nutritionist, physiologist, fitness coach and author. An acclaimed biohacker and New York Times Bestselling Author, Ben champions the fusion of science and ancient wisdom to enhance holistic health. Revered as a top U.S. personal trainer, he provides resources on peak performance and comprehensive wellbeing to global audiences.”<br\/><br\/><\/p>"
+          }
+        },
+        "9fe4c250-8a78-4ebb-b3f6-9fb021b53bdf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ivor.png",
+            "title": "Ivor Cummins",
+            "quote": "<p>Chemical Engineer<\/p>",
+            "content": "<p>“Ivor Cummins, aka The Fat Emperor, is a researcher and world-renowned speaker on health and cardiovascular health. He is the co-author of 'Eat Rich Live Long' which broke down three major myths in health and longevity. He strongly believes that personal transformation is ‘within every person's grasp’, and following the correct science in your diet will lead to enhanced productivity.”<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "a6949239-c4d2-4fbb-9a1d-3fddbb6b72f6",
+        "a03f532e-f4ec-4e5d-bc4a-63103ca591f1",
+        "9fe4c250-8a78-4ebb-b3f6-9fb021b53bdf"
+      ],
+      "settings": {
+        "title": "Our Health Ambassadors",
+        "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.<\/p>"
+      }
+    }
+  },
+  "order": [
+    "6e3a288a-379d-4f5c-abc6-386132ada9a5",
+    "84e8078e-1ec3-490e-b874-b2d3aa00f160",
+    "04cb7811-90e2-4713-9fb2-2a7399ed92f6",
+    "13d25065-ca08-4e5a-bdae-d9aeb67bcad1",
+    "32dee618-838f-4669-a012-bbf443e64297",
+    "3025c3d2-eb13-4354-9683-88ceb9e5916d",
+    "f8380f51-6fe7-4ef6-af33-13b00d24787f",
+    "5b579c6e-ec5b-4210-a06d-972467c9dd3f",
+    "4a99056f-ad5b-472f-9d4d-0a27fc1604ac",
+    "1650a6b4-25a9-415d-96eb-c42856028a6a",
+    "e5764d61-93c4-4153-8fe9-a48036d87ccf"
+  ]
+}

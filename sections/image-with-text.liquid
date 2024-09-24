@@ -1,0 +1,223 @@
+{%- assign section_id = section.id -%}
+{%- assign title = section.settings.title -%}
+{%- assign sub_title = section.settings.sub_title -%}
+{%- assign background_color = section.settings.bgcolor -%}
+{%- assign background_cover = section.settings.bgwidth -%}
+{%- assign image = section.settings.image -%}
+{%- assign content = section.settings.content -%}
+{%- assign text_alignment = section.settings.text_alignment -%}
+{%- assign text_column_alignment = section.settings.text_column_alignment -%}
+{%- assign text_column_width = section.settings.text_column_width -%}
+{% if text_column_width == "three-fifths" %}
+  {%- assign text_column_width_2 = "two-fifths" -%}
+{% else %}
+  {%- assign text_column_width_2 = "one-half" -%}
+{% endif %}
+
+<style>
+    .image_with_text_page_section.block-{{section_id}} {
+      {% if background_cover == "full" %}background-color:{{ background_color }};{% endif %}
+    }
+    {% if sub_title != blank %}
+      .quote_section-header h2{margin-bottom: 0 !important;}
+    {% endif %}
+    .image_with_text_page_section.block-{{section_id}} .content {
+      {% if background_cover == "content" %}background-color:{{ background_color }};{% endif %}
+      /*padding: 0 1em;*/
+      margin-bottom: 0;
+    }
+    .image_with_text_page_section.block-{{section_id}}{
+      padding: 50px 0 50px 0;
+    }   
+    .image_with_text_page_section.block-{{section_id}} img {
+      border-radius: 12px;
+      width: 100%;
+    } 
+    .image_with_text_page_section.block-{{section_id}} .padd_space {
+      padding: 20px;
+    }
+    .image_with_text_page_section.block-{{section_id}} .padd_left_col {
+      padding: 0 20px 0 0;
+    }
+   .image_with_text_page_section.block-{{section_id}} .padd_right_col {
+      padding: 0 0 0 20px;
+    }
+    .image_with_text_page_section.block-{{section_id}} .content p {
+      /*font-size: 18px;*/
+      color: #fff;
+    }
+    @media only screen and (max-width: 767px){
+      .image_with_text_page_section.block-{{section_id}} .section{
+        width: 100%;
+      }
+      .image_with_text_page_section.block-{{section_id}} .content {
+        padding: 0 1em;
+      }
+      .image_with_text_page_section.block-{{section_id}} .padd_left_col {
+        padding: 0 0 0 0;
+      }
+     .image_with_text_page_section.block-{{section_id}} .padd_right_col {
+        padding: 0 0 0 0;
+      }
+    }
+  </style>
+
+  {% if text_column_alignment == "left" %}
+      <div class="image_with_text_page_section block-{{section_id}}">    
+        <div class="section">
+          <div class="row content is-justify-space-between equal-columns--outside-trim is-align-center">
+            {% if image != blank %}
+              <div class="{{text_column_width}} large-down--one-whole padd_left_col content" style="text-align: {{ text_alignment }}";>
+                <div class="quote_section-header ">
+                  <h2>{{ title }}</h2>
+                  {% if sub_title != blank %}
+                    <h3 style="margin: 0 !important;">{{ sub_title }}</h3>
+                  {% endif %}
+                </div>
+                <p>{{content}}</p>                
+              </div>
+              <div class="{{text_column_width_2}} large-down--one-whole padd_space padd_right_col">
+                <img src="{{ image | img_url: 'master' }}">
+              </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+  {% else %}
+      <div class="image_with_text_page_section block-{{section_id}}">    
+        <div class="section">
+          <div class="row content is-justify-space-between equal-columns--outside-trim is-align-center">
+            {% if image != blank %}
+              <div class="{{text_column_width_2}} large-down--one-whole text-center padd_left_col ">
+                <img src="{{ image | img_url: 'master' }}" class="hide_mob">
+              </div>
+              <div class="{{text_column_width}} large-down--one-whole content padd_right_col" style="text-align: {{ text_alignment }}";>
+                <div class="quote_section-header">
+                  <h2>{{ title }}</h2>	
+                  {% if sub_title != blank %}
+                    <h3 style="margin: 0 !important;">{{ sub_title }}</h3>
+                  {% endif %}
+                </div>
+                <p>{{content}}</p>
+                <img src="{{ image | img_url: 'master' }}" class="hide_desk">
+              </div>              
+            {% endif %}
+          </div>
+        </div>
+      </div>
+  {% endif %}
+
+  {% schema %}
+    {
+      "name": "Image with text V1",
+      "settings": [
+        {
+          "type": "color",
+          "id": "bgcolor",
+          "label": "Background Color",
+          "default": "#E8E8E8"
+        },
+        {
+          "type": "select",
+          "id": "bgwidth",
+          "label": "Background cover",
+          "default": "full",
+          "options": [
+            {
+              "value": "full",
+              "label": "Full Width"
+            },
+            {
+              "value": "content",
+              "label": "Content"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Header",
+          "default": "Our Story"
+        },
+        {
+          "type": "text",
+          "id": "sub_title",
+          "label": "Sub Header"
+        },
+        {
+          "type": "html",
+          "id": "content",
+          "label": "Content"
+        },
+        {
+          "type": "select",
+          "id": "text_alignment",
+          "label": "Text alignment",
+          "default": "left",
+          "options": [
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "center",
+              "label": "Center"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "text_column_alignment",
+          "label": "Text column alignment",
+          "default": "left",
+          "options": [
+            {
+              "value": "left",
+              "label": "Left"
+            },
+            {
+              "value": "right",
+              "label": "Right"
+            }
+          ]
+        },
+        {
+          "type": "select",
+          "id": "text_column_width",
+          "label": "Text column width",
+          "default": "three-fifths",
+          "options": [
+            {
+              "value": "three-fifths",
+              "label": "More"
+            },
+            {
+              "value": "one-half",
+              "label": "Half"
+            }
+          ]
+        },
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        }
+      ],
+      "presets": [
+        {
+        "category": "text",
+        "name": "Image with text V1"
+        }
+      ]
+    }
+  {% endschema %}
+  
+  {% stylesheet %}
+  {% endstylesheet %}
+  
+  {% javascript %}
+  {% endjavascript %}

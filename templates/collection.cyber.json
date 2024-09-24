@@ -1,0 +1,116 @@
+{
+  "sections": {
+    "92ce7d7f-29b1-4e6b-81c0-3a7bdb3d846e": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14644573929569__92ce7d7f-29b1-4e6b-81c0-3a7bdb3d846e-1682313821a6f01e5d-1": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "{{ collection.metafields.custom.collection_main_banner_desktop.value }}",
+            "tablet_image": "{{ collection.metafields.custom.collection_main_banner_tablet.value }}",
+            "mobile_image": "{{ collection.metafields.custom.collection_main_banner_mobile.value }}",
+            "title": "{{ collection.metafields.custom.collection_title.value }}",
+            "pretext": "<p>{{ collection.metafields.custom.collection_sub_title.value }}<\/p>",
+            "subtitle": "",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "{{ collection.metafields.custom.text_width.value }}",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_1_color": "#36659c",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#4271a9",
+            "heading_color_mobile": "#4271a9",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--14644573929569__92ce7d7f-29b1-4e6b-81c0-3a7bdb3d846e-1682313821a6f01e5d-1"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "400px",
+        "default_image": "shopify:\/\/shop_images\/Generic-Category.png",
+        "default_tablet_image": "shopify:\/\/shop_images\/Generic-Category-iPad.png",
+        "default_mobile_image": "shopify:\/\/shop_images\/Generic-Category-Mob.png",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "banner": {
+      "type": "fallback_image_banner",
+      "disabled": true,
+      "settings": {
+        "image_darken": true,
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "collection__main",
+      "settings": {
+        "collection_breadcrumb": true,
+        "search": false,
+        "collection_tags": false,
+        "collection_filter": "<p>beauty,blood-sugar-metabolic-support,bone-joints,brain-memory-support,cardio-health,childrens-health,digestive-health,general-wellness,general-health,healthy-aging,immune-support,mens-health,mens-skincare,womens-health,womens-skincare,<\/p>",
+        "collection_sort": true,
+        "coll_nav": "collection-nav",
+        "product_count": false,
+        "freeshipping": true,
+        "text": "<p>Free U.S. Shipping Over $125<\/p>",
+        "free_image": "shopify:\/\/shop_images\/Shipping.png",
+        "background": "#005895",
+        "show_sidebar": false,
+        "sidebar_position": "left",
+        "show_promo_banner": false,
+        "image_darken": true,
+        "promo_title": "Special sale on now!",
+        "promo_text": "<p>Description of promotion with lots of details.<\/p>",
+        "banner_height": "medium",
+        "align_height": true,
+        "collection_height": 250,
+        "products_per_row": 4,
+        "mobile_products_per_row": "1",
+        "product_atc": false,
+        "pagination_limit": 101,
+        "pagination_type": "basic_pagination",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "92ce7d7f-29b1-4e6b-81c0-3a7bdb3d846e",
+    "banner",
+    "main"
+  ]
+}

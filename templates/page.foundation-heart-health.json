@@ -1,0 +1,739 @@
+{
+  "sections": {
+    "main": {
+      "type": "page-content__main",
+      "disabled": true,
+      "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "df106696-6a19-47ea-8059-eba98c8cce09": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14457907314806__df106696-6a19-47ea-8059-eba98c8cce09-1672134577dc3baee1-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Heart-Health_Banner_Destop.png",
+            "tablet_image": "shopify:\/\/shop_images\/Heart-Health-Banner_iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Total-Balance-Mob-560x560_a680c010-da1e-4193-b9f3-8631ba5cca81.png",
+            "pretext_tag": "<p>Serving 400,000+ customers globally<\/p>",
+            "pretext_custom_html": "",
+            "title": "Evidence-Based Nutrition For Heart",
+            "pretext": "",
+            "subtitle": "<p>Maintaining a healthy heart is essential. In addition to a healthy diet and regular exercise, our cardiovascular health supplement range are formulated with clinically studied ingredients to help balance cholesterol, blood pressure, manage inflammation and arteria plaque\/calcification.<\/p>",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#005895",
+            "pretext_color": "#005895",
+            "heading_color": "#005895",
+            "subheading_color": "#005895",
+            "text_alignment": "center",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "60",
+            "button_1": "SHOP heart health",
+            "button_1_link": "",
+            "button_1_style": "button--primary",
+            "button_1_color": "#00a9d5",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#36659c",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        }
+      },
+      "block_order": [
+        "template--14457907314806__df106696-6a19-47ea-8059-eba98c8cce09-1672134577dc3baee1-0"
+      ],
+      "custom_css": [
+        "@media only screen and (min-width: 768px) and (max-width: 1023px) {.total-slider .caption-content {width: 50%; } .total-slider .slideshow-classic__banner h1.title {font-size: 34px; line-height: 1.2; } .total-slider .image-slideshow .subtitle {font-size: 15px; }}",
+        ".image-slideshow .caption {top: 50%;}"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "total-slider",
+        "custom_css": ""
+      }
+    },
+    "260655bf-c6f9-46f2-ab05-c012222d061e": {
+      "type": "custom_html",
+      "settings": {
+        "custom_html": "",
+        "background_color": "#005895"
+      }
+    },
+    "8ad0e01f-eb0a-4388-8b94-4891561bb545": {
+      "type": "title-with-subtitle",
+      "disabled": true,
+      "settings": {
+        "title": "Total Balance - Go Beyond Multi-Vitamins",
+        "description": "<p>If you are going to take one supplement, then this is it. Way beyond a multi-vitamin, it’s a complete nutrient system with specifically tailored versions for men and women.<\/p><p>Manufactured in New Zealand with over 90 vitamins, minerals, enzymes, herbs and other nutrients, all designed to synergistically work together. Based on science and constantly updated for 20 years, we and 20,000+ customers believe that this is the most comprehensive supplement available.<\/p>"
+      }
+    },
+    "80a3574c-c1a9-427f-b6d8-85c541cc48d3": {
+      "type": "image-with-text-column",
+      "blocks": {
+        "d72d90d7-0af7-493e-b51d-a729362f4159": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heart_Health_Icon-05_1.png",
+            "title": "Calcification and Plaque",
+            "description": "Arteries play a fundamental role in maintaining proper blood circulation throughout the body, so it’s crucial to keep arteries clean and in good condition. Ingredients like vitamin K2 (MK4) show evidence of supporting calcium metabolism and may prevent the buildup of calcium in the arteries."
+          }
+        },
+        "74f2a714-27ca-49fb-82a1-77898cb0674c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heart_Health_Icon-06_1.png",
+            "title": "Circulation and Blood Pressure",
+            "description": "Healthy circulation means balanced blood pressure. Maintaining a healthy level of nitric oxide is important for optimal blood circulation. Red spinach extract contains a rich source of nitrates which can be converted into nitric oxide to support healthy circulation and cardiovascular functions"
+          }
+        },
+        "8891f1a1-789f-4508-b98a-6056024e4f81": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heart_Health_Icon-07_1.png",
+            "title": "Inflammation and Cellular Support",
+            "description": "Excessive inflammation can contribute to high blood pressure and unbalanced cholesterol. DeltaGold® tocotrienol complex is the most potent anti-inflammatory vitamin E, which helps prevent lipid oxidation and support cardiovascular health. Other ingredients with potent anti-inflammatory properties also include fish oil, sea buckthorn fruit extract, grape seed extract and blackcurrant extract."
+          }
+        }
+      },
+      "block_order": [
+        "d72d90d7-0af7-493e-b51d-a729362f4159",
+        "74f2a714-27ca-49fb-82a1-77898cb0674c",
+        "8891f1a1-789f-4508-b98a-6056024e4f81"
+      ],
+      "custom_css": [
+        ".multi_leftpart h2 {line-height: 1.1;}",
+        ".multi_leftpart li {padding-top: 10px;}"
+      ],
+      "settings": {
+        "title": "Best Protection For Heart and Circulation",
+        "richcontent": "<p>It’s never too late to improve your cardiovascular health. Heart disease is largely preventable through lifestyle change and great supplementation. Xtendlife’s cardiovascular range is developed with the best ingredients, supported by science, to help you stay young at heart. <\/p><ul><li> High strength of natural extract for heart and arterial health<\/li><li> Clinically-studied ingredients, bioavailable formula<\/li><li>  Recommended by cardiologist Dr. Joel Kahn and health researchers.<\/li><\/ul>"
+      }
+    },
+    "859ff160-64b1-42bd-85f5-0a5724dd4b6d": {
+      "type": "video-with-text",
+      "disabled": true,
+      "settings": {
+        "video": "https:\/\/player.vimeo.com\/video\/625077457",
+        "horizontal_alignment": "right",
+        "title": "The Search for Health",
+        "description": "<p>Total Balance was born out of a personal quest by Warren Matthews, founder of Xtend-Life to increase his health span at the same time as he increased his life span. The journey started with vitamins and developed into a complete multi-nutrient solution, with minerals, enzymes, amino acids and age-defying nutrients, all in their premium forms, to support cellular health and keep all the systems of his body in balance.<\/p><p>In this video, Warren shares how it has helped support his family against the causes of aging for over 20 years.<\/p>"
+      }
+    },
+    "3687b792-4840-4ce6-8af0-78166345545d": {
+      "type": "product-selector-tab",
+      "blocks": {
+        "d57da190-f1dd-4983-9402-b6c60a9bb187": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "CoQ10 + Statin Support",
+            "tab_1": "",
+            "pro_url_1": "omega-3-dha-fish-oil",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "",
+            "pro_url_2": "xtend-quinol",
+            "bgcolor_2": "#ffffff",
+            "tab_3": "",
+            "pro_url_3": "gg-pure",
+            "bgcolor_3": "rgba(0,0,0,0)",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        },
+        "98cbebb8-c140-4584-be92-bbc8bfc02258": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Blood Pressure + Nitric Oxide",
+            "tab_1": "",
+            "pro_url_1": "vasqflow",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "",
+            "pro_url_2": "marine-magnesium-with-potassium",
+            "bgcolor_2": "#ffffff",
+            "tab_3": "",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        },
+        "1dba3d4e-6e76-40b4-bcc1-a0d00a15cdca": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "Calcification + Anti-inflammation",
+            "tab_1": "",
+            "pro_url_1": "cx8-heart-health-support",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "",
+            "pro_url_2": "",
+            "bgcolor_2": "#e3ebf6",
+            "tab_3": "",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        },
+        "613bfb3c-c509-4716-a569-5d9abe0bc891": {
+          "type": "product",
+          "settings": {
+            "standard_tab": "",
+            "tab_1": "",
+            "pro_url_1": "total-balance-unisex",
+            "bgcolor_1": "rgba(0,0,0,0)",
+            "tab_2": "Premium",
+            "pro_url_2": "total-balance-unisex-premium",
+            "bgcolor_2": "#cae9fb",
+            "tab_3": "Premium",
+            "pro_url_3": "",
+            "bgcolor_3": "#e3ebf6",
+            "tab_4": "Premium",
+            "pro_url_4": "",
+            "bgcolor_4": "#e3ebf6"
+          }
+        }
+      },
+      "block_order": [
+        "d57da190-f1dd-4983-9402-b6c60a9bb187",
+        "98cbebb8-c140-4584-be92-bbc8bfc02258",
+        "1dba3d4e-6e76-40b4-bcc1-a0d00a15cdca",
+        "613bfb3c-c509-4716-a569-5d9abe0bc891"
+      ],
+      "settings": {
+        "standard_tab_bg": "#ffffff",
+        "standard_tab_text": "#005895",
+        "standard_tab_border": "#005895",
+        "standard_tab_bg_active": "#005895",
+        "standard_tab_text_active": "#ffffff",
+        "standard_tab_border_active": "#005895",
+        "header": "Top Supplements for Heart Health",
+        "color_title": "#005895",
+        "class_name": "",
+        "custome_css": ""
+      }
+    },
+    "index_html_bUJziN": {
+      "type": "index__html",
+      "settings": {
+        "html_content": "<link rel=\"preload\" href=\"\/\/www.xtend-life.com\/cdn\/shop\/t\/54\/assets\/text-bar.css?v=26288735633302855361699354586\" as=\"style\">\n<link rel=\"stylesheet\" href=\"\/\/www.xtend-life.com\/cdn\/shop\/t\/54\/assets\/text-bar.css?v=26288735633302855361699354586\">\n<div class=\"text_bar-container\"> <div class=\"header__promo\"> <p><a href=\"\/pages\/heart-health-summit-24\"><img class=\"brand-value__image\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/DrTalks-Logo_WHT-BKGRND.png?v=1708918036\"><\/a><span class=\"hide_desk\"><br><\/span>Heart Health Summit is on. To view our exclusive Heart Health deals <a href=\"\/pages\/heart-health-summit-24\">click here<\/a>.<\/p>\n<\/div>\n<\/div>",
+        "width": "wide",
+        "padding_top": 20,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ".section.has-background {\n    padding-left: 0px;\n    padding-right: 0px;\n}\n\nimg{max-width: 200px;margin-bottom:5px;}"
+      }
+    },
+    "index_slideshow_with_text_6WTUgc": {
+      "type": "index__slideshow-with-text",
+      "blocks": {
+        "image_LgCAGf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Video_WebPage-Thumnail_Dr-Kahn_Ivor-Cummins.png",
+            "video_id": "",
+            "pretext": "<p>Experts Talk<\/p>",
+            "title": "Manage Arterial Calcification with CX8",
+            "text": "<p>With Dr. Kahn and Ivor Cummins<\/p><p><\/p><p><\/p><p>Learn more about calcification and the ingredients in CX8, Dr. Joel Kahn and Ivor Cummins discuss the importance of key ingredients and the role they play in supporting a healthy cardiovascular system.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "buttonm_label": "",
+            "buttonm_link": ""
+          }
+        },
+        "image_8J4Yem": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Video_WebPage-Thumnail_Dr-Kahn_Ivor-Cummins.png",
+            "video_id": "",
+            "pretext": "<p>Experts Talk<\/p>",
+            "title": "Manage Healthy Blood Pressure with VasQFlow",
+            "text": "<p>With Dr. Kahn and Ivor Cummins<\/p><p><\/p><p>As we age, the level of nitric oxide declines. Learn more about the importance of nitric oxide and how to boost it to support healthy blood pressure, circulation and energy.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "buttonm_label": "",
+            "buttonm_link": ""
+          }
+        },
+        "image_qHUKaq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Video_WebPage-Thumnail_Dr-Kahn_Dr.Tan.png",
+            "video_id": "",
+            "pretext": "<p>Experts Talk<\/p>",
+            "title": "Manage Statin Side Effects with GG Pure and Xtend-Quinol",
+            "text": "<p>With Dr. Kahn and Dr. Barrie Tan<\/p><p><\/p><p>Geranylgeraniol (GG) helps manage side effects from statin cholesterol-lowering medications. Learn what Dr. Joel Kahn and Dr. Barrie Tan have to say about the breakthrough of GG and why it combines well with CoQ10 for healthy aging.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "buttonm_label": "",
+            "buttonm_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_LgCAGf",
+        "image_8J4Yem",
+        "image_qHUKaq"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 767px) {.image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--left {width: 100%; margin-bottom: 15px; } .text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {width: 100%; } .width_bind {display: block; width: 90%; }}"
+      ],
+      "settings": {
+        "background_color": "#eeeeee",
+        "text_color": "#005895",
+        "content_color": "#231f20",
+        "text_alignment": "left",
+        "text_transition": "none",
+        "button_style": "button--primary",
+        "show_nav_buttons": false,
+        "image_position": "left",
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "width": "wide",
+        "show_gutter": false,
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "css_class": "video_slide",
+        "custom_css": ".image-slideshow-position--left .flickity-buttons-container {\n\ttop: 50%;\n\ttransform: translateY(-50%);\nleft: auto;\n  right: auto;\n}\n.slideshow-with-text .flickity-prev-next-button.previous {\n\tleft: -20px;\n}\n.slideshow-with-text .flickity-prev-next-button.next {\n\tright: -25px;\n}\n.image-slideshow-column.three-fifths.medium-down--one-whole.column.image-slideshow-position--left {\n  width: 40%;\n}\n.text-slideshow-column.two-fifths.medium-down--one-whole.column.is-align-center.is-flex-wrap {\n  width: 60%;\n}\n.text-slideshow__slide {\n  padding: 0 3em;\n}\n.text-slideshow__heading.banner__subheading p {\n  color: #969696;\n}\n.flickity-prev-next-button .flickity-button-icon {\n  width: 14px;\n}\n.image-slideshow .flickity-buttons-container {\n  width: 100%;\n}"
+      }
+    },
+    "9195f01d-5a16-4307-a5ca-2fb9449e00e9": {
+      "type": "title-with-text",
+      "disabled": true,
+      "settings": {
+        "title_class": "h1",
+        "title": "Manufactured in New Zealand from Quality Natural Ingredients",
+        "description": "<p>Total Balance, like all our supplements, is manufactured in our state-of-the-art manufacturing facility in New Zealand, which is FDA registered and GMP certified.<\/p><p>We know that a supplement is only as good as the ingredients that go into it - ingredients of the same name can vary enormously in efficacy depending upon where they are sourced – that’s why we only use the natural, most bioactive forms of ingredients, which are better for your body and absorbed more completely.<\/p><p>To make Total Balance even more effective, the ingredients are protected by a special enteric coating to ensure that stomach acids don’t damage or destroy the nutrients before they reach the upper intestine where the body can make best use of them.<\/p><p>These extra steps are part of our commitment to making Total Balance the most comprehensive supplement available.<\/p>"
+      }
+    },
+    "84ba12d8-3a94-45fd-8a83-68e27bed4380": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "template--14721356365921__84ba12d8-3a94-45fd-8a83-68e27bed4380-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-08-04_at_12.29_1.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "template--14721356365921__84ba12d8-3a94-45fd-8a83-68e27bed4380-text-1": {
+          "type": "text",
+          "settings": {
+            "title": "Top Seller - A Multivitamin For Heart",
+            "heading_size": "regular",
+            "text": "<h3>Unique, Highly Advanced Natural Supplement<\/h3><p>CX8 is formulated with highly researched ingredients backed by data to support calcium metabolism, circulation, and inflammation management. With eight potent ingredients, the CX8 formula offers you one of the most effective heart-health products available today.<\/p><h3>Circulation and Calcification<\/h3><p>CX8 contains a proprietary blend of protease enzymes (Nattozimes®) and vitamin K2 in MK-7 form. These well-researched ingredients present great evidence to support calcium metabolism and may prevent the buildup of calcium in the arteries.<\/p><h3>Inflammation and Cellular Support<\/h3><p>With DeltaGold® tocotrienol complex, the most potent anti-inflammatory vitamin E, CX8 helps to prevent lipid oxidation in CVD, and support cardiovascular and metabolic health.<\/p><h3>Additional Antioxidants <\/h3><p>This unique heart health supplement also contains additional antioxidants such as sea buckthorn fruit extract (CardiOmegia™, CyanthOx™30), rutin and New Zealand blackcurrant extract. These antioxidants provide excellent support for inflammation and heart health.<\/p><h3>Vitamin D3<\/h3><p>Each serving of CX8 also offers 1000IU of vitamin D3, to help maintain healthy blood flow and protect the heart and blood vessels.<\/p>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--14721356365921__84ba12d8-3a94-45fd-8a83-68e27bed4380-image-1",
+        "template--14721356365921__84ba12d8-3a94-45fd-8a83-68e27bed4380-text-1"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "total-balance",
+        "custom_css": ".total-balance .content h3 {\n\tfont-size: 22px !important;\n\tcolor: #005895;\n\tmargin-top: 20px;\n   margin-bottom: 0;\n}\n.total-balance .content p {\n\tfont-size: 18px;\n\tfont-family: lora-regular;\n\tmargin-bottom: 0 !important;\n}"
+      }
+    },
+    "672f2fab-f87a-4eb7-af8d-66ed5822741f": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "90b3291f-f763-4de7-846f-0e21035e9b83": {
+      "type": "testimonial",
+      "blocks": {
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-0": {
+          "type": "supplements",
+          "settings": {
+            "title": "",
+            "quote": "<p><strong>Class of its Own<\/strong><\/p><p><br\/>Total Balance Men's Premium is a game changer in supplementation. I’ve used these for about eight years and when I delay an order and try something else, I always regret it. I see and feel the difference in my energy, appearance, and health. It also helps knowing that it positively impacts every system in the body.<\/p>",
+            "rating": 5,
+            "author": "Wayne, USA",
+            "featured_product": "total-balance-mens"
+          }
+        },
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-1": {
+          "type": "skincare",
+          "settings": {
+            "title": "Total Balance Women's Premium",
+            "quote": "<p><strong>To Feel Your Best<br\/><\/strong>I have been taking Total Balance Women's for several years now. I found it looking for the most complete vitamin without taking a handful of pills throughout the day. This one checked all the boxes! As a post-menopausal woman who had occasional hot flashes, I knew that moving into the next chapter of my life required making a few better choices for my aging body. This vitamin makes me feel better.<\/p>",
+            "rating": 5,
+            "author": "Bunny, USA",
+            "featured_product": ""
+          }
+        },
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-2": {
+          "type": "service",
+          "settings": {
+            "title": "Total Balance Men's Standard",
+            "quote": "<p><strong>I trust Xtend-Life's Total Balance Vitamins<br\/><\/strong>I am 52 years of age and have been taking this product for several years. I have always been health-conscious and did not want to waste money on vitamins that did not get into my system properly and with the proper effects. Xtend-Life has done extensive research into what vitamins... I have found no other company in the world follows stricter manufacturing guidelines.<\/p>",
+            "rating": 5,
+            "author": "Aaron, USA",
+            "featured_product": ""
+          }
+        },
+        "002be554-5082-454c-a729-370e5bd16fe4": {
+          "type": "supplements",
+          "settings": {
+            "title": "Total Balance Women's Standard",
+            "quote": "<p><strong>Great Comprehensive Supplement<br\/><\/strong>I have been taking these for years and feel great. Considering all the ingredients included in this dietary supplement it is the best bang for your buck. I have done a lot of research on vitamins and nutritional supplements, and Total Balance is still the best in terms of the types and amounts of micronutrients it offers. Definitely recommend!<\/p>",
+            "rating": 5,
+            "author": "Tamara, USA",
+            "featured_product": ""
+          }
+        },
+        "68c86ae0-8990-4a5f-bb43-1c2f586c6e5f": {
+          "type": "supplements",
+          "settings": {
+            "title": "Supplements",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "rating": 5,
+            "author": "Author's name",
+            "featured_product": ""
+          }
+        },
+        "cc7f89ba-6cf9-4ead-b8a8-33e319af1593": {
+          "type": "supplements",
+          "settings": {
+            "title": "Supplements",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "rating": 5,
+            "author": "Author's name",
+            "featured_product": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-0",
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-1",
+        "template--14709787099223__90b3291f-f763-4de7-846f-0e21035e9b83-166746522445a5acc9-2",
+        "002be554-5082-454c-a729-370e5bd16fe4",
+        "68c86ae0-8990-4a5f-bb43-1c2f586c6e5f",
+        "cc7f89ba-6cf9-4ead-b8a8-33e319af1593"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "background_bg": "#005895",
+        "review_block_bg": "#ffffff",
+        "dots_bg": "#ffffff",
+        "dotsactive_bg": "#ffffff",
+        "title": "20,000+ 5-Star Reviews",
+        "enable_overlay": true,
+        "author_tick": true,
+        "text_alignment": "left",
+        "heading_color": "#005895",
+        "content_color": "#005895",
+        "author_color": "#231f20"
+      }
+    },
+    "94ac5d97-8692-40e5-8206-6becc0dd0ab7": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "df45e87f-be63-449f-a191-c5f3a6d4056f": {
+      "type": "title-with-text",
+      "disabled": true,
+      "settings": {
+        "title_class": "h1",
+        "title": "More Than a Multi-Vitamin",
+        "description": "<p>Without the right amount of vitamins, minerals, proteins, enzymes and amino acids - your body can’t function properly. That’s why Total Balance Premium contains<\/p><ul><li><strong>Vitamins<\/strong> all the essential vitamins you need each day<\/li><li><strong>Minerals and Micro Nutrients<\/strong> for cell fuel<\/li><li><strong>Powerful Antioxidants<\/strong> resist the damage caused by free radicals. Amino acids - for building protein and supporting metabolism and cellular health<\/li><li><strong>Enzymes<\/strong> to boost bioavailability of the nutrients and deliver nutrients to cells.<\/li><li><strong>Eye Health Blend<\/strong> for healthy vision<\/li><\/ul><p><\/p><p>Total Balance Premium is more than a multi-vitamin, it’s a complete nutrient system in one bottle.<\/p>"
+      }
+    },
+    "6f1b1de3-6227-48c1-9c47-788564773215": {
+      "type": "info-grid",
+      "blocks": {
+        "7dafaae2-903e-4546-bc93-5986286098de": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_3237_1.png",
+            "title": "Life-Sustaining",
+            "description": "A strong heart with a healthy cardiovascular system is vital to our livelihood. Heart disease is the leading cause of death worldwide, which causes 1 out of every 4 deaths in the US. Statistics from the Heart Health Foundation show that cardiovascular diseases (CVD) affect nearly half of American adults. In Australia, ¾ of Australians are at risk of developing one  and 1 in 21 adults in New Zealand are living with CVD. CVD can cause symptoms anywhere in the body, sadly some symptoms and risk factors are “silent”. Hence it’s very important to take preventive actions to keep your heart healthy.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "92fae889-68db-41f8-baba-ba0622d7845e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heart_Health_Icon-03_1.png",
+            "title": "Quality of Life",
+            "description": "Heart health is essential to overall good health. The heart pumps nutrient-rich blood throughout the body, supplying oxygen fuel, hormones, and a host of essential cells to organs. This contributes to overall wellbeing, energy levels, and the ability to engage in daily activities without fatigue or discomfort. Without a healthy heart and cardiovascular system, various adverse consequences can occur, which include reduced physical function, dysfunction or failure of vital organs, cardiovascular diseases, impaired oxygen and nutrient delivery, metabolic imbalances, hormonal disorders and more.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "a1de839e-ddfc-496c-b0f7-cdb1d4fca40c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_3237_2.png",
+            "title": "Heart Health and Men",
+            "description": "Men often have a higher risk of developing cardiovascular diseases (CVD), including coronary artery disease, heart attack, stroke, and heart failure, at a younger age compared to women, this is due to various biological, hormonal, lifestyle, and behavioural factors. Men may engage in specific lifestyle behaviours that increase their risk of CAD, such as higher rates of tobacco use, excessive alcohol consumption, unhealthy dietary habits, and inadequate physical activity. These modifiable risk factors can accelerate the development of CAD and contribute to its onset at a younger age.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "e9117157-5b75-4b54-88bf-ba5b0df31224": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_3237_3.png",
+            "title": "Heart Health and Women",
+            "description": "Cardiovascular health is also critical for women. Although the higher estrogen hormone in women has been associated with some protective cardiovascular effects, however after menopause, when estrogen levels decline, women's risk of cardiovascular diseases may increase dramatically. Additionally, CVD risk in women can be under-recognised because women may experience atypical symptoms of CVD compared to men. These subtler or more diverse symptoms may not always be immediately recognized as signs of heart disease . Hence, understanding heart health risk factors and taking preventive care is vital for women.",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "502f33d1-2f17-4af3-a208-5d29c4caea63": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TB_Icon-04_1.png",
+            "title": "Immunity",
+            "description": "<ul>\n<li>Innate immunity<\/li>\n<li>Acquired immunity<\/li>\n<li>Anti-viral defenses<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "5acda0b5-b599-41bb-afa2-6c0288127130": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TB_Icon-09_1.png",
+            "title": "Metabolic",
+            "description": "<ul>\n<li>Glycemic control<\/li>\n<li>Fat burning<\/li>\n<li>Metabolic syndrome<\/li>\n<li>Weight control<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "8744f57f-964f-4806-89ae-8b428fcfcf4f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TB_Icon-03_1.png",
+            "title": "Joints",
+            "description": "<ul>\n<li>Joint comfort<\/li>\n<li>Improved mobility<\/li>\n<li>Cartilage regeneration<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "00387024-167b-4132-acf7-289a10d5dc5f": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TB_Icon-05_1.png",
+            "title": "Digestion",
+            "description": "<ul>\n<li>Enzymes to assist digestion<\/li>\n<li>Maintain function of gut lining<\/li>\n<li>Encourage regular bowel movements<\/li>\n<li>Reduce gas and bloating<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        },
+        "bb7516cd-00f6-4745-8099-c557c4acf05b": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/TB_Icon-08_1.png",
+            "title": "Sexual & Hormonal Health",
+            "description": "<ul>\n<li>Prostate support (Men’s)<\/li>\n<li>Testosterone support (Men’s)<\/li>\n<li>Menopause relief (Women’s)<\/li>\n<li>PMS support (Women’s)<\/li>\n<li>Libido (Men & Women’s)<\/li>\n<\/ul>",
+            "linktitle": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "7dafaae2-903e-4546-bc93-5986286098de",
+        "92fae889-68db-41f8-baba-ba0622d7845e",
+        "a1de839e-ddfc-496c-b0f7-cdb1d4fca40c",
+        "e9117157-5b75-4b54-88bf-ba5b0df31224",
+        "502f33d1-2f17-4af3-a208-5d29c4caea63",
+        "5acda0b5-b599-41bb-afa2-6c0288127130",
+        "8744f57f-964f-4806-89ae-8b428fcfcf4f",
+        "00387024-167b-4132-acf7-289a10d5dc5f",
+        "bb7516cd-00f6-4745-8099-c557c4acf05b"
+      ],
+      "custom_css": [
+        ".one-third,.col-md-4 {width: calc(50% - 17.5px);}",
+        "@media only screen and (max-width: 767px) {.one-third, .col-md-4 {width: calc(100% - 17.5px); } .flex.info-grid-inner {justify-content: space-around; }}"
+      ],
+      "settings": {
+        "title": "Why is Heart Health so Important?",
+        "description": ""
+      }
+    },
+    "index_image_with_text_HXVUD4": {
+      "type": "index__image-with-text",
+      "blocks": {
+        "image_BhaJnx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/adaptive_health.png",
+            "image_crop": "none",
+            "image_link": ""
+          }
+        },
+        "text_8Qnqnm": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "heading_size": "regular",
+            "text": "<h3>Adopting a heart-healthy lifestyle can significantly reduce the risk of developing heart-related conditions. <\/h3><ol><li>A heart healthy lifestyle includes a balanced and heart-healthy diet, regular physical activity, avoid smoking, limit alcohol consumption and manage stress. <\/li><li> Targeted supplementation can make all the difference to make sure that you are getting the proper amount that your body requires. As we age, essential nutrients such as omega-3, CoQ10, and vitamin K2 begin to slowly deplete and decrease in production rate (and absorption rate). These nutrients are crucial to our health and for promoting cardiovascular health and preventing disease.<br\/><\/li><\/ol>",
+            "button_label": "",
+            "link": "",
+            "button_style": "button--primary",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "vertical_position": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_BhaJnx",
+        "text_8Qnqnm"
+      ],
+      "settings": {
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": "h3 {\n\tfont-size: 20px;\n\tcolor: #005895;\n}"
+      }
+    },
+    "e4f77ff6-0199-4c9b-97d0-eb9cde8b77db": {
+      "type": "standard-text-description",
+      "settings": {
+        "bgcolor": "rgba(0,0,0,0)",
+        "bgwidth": "full",
+        "header": "Which Heart Suppplement is Right for Me?",
+        "color_title": "#005895",
+        "align_text": "left",
+        "content_area": "<div>\n<table class=\"ingerdient_table\">\n<thead>\n<tr>\n<th style=\"text-align: center;\" scope=\"col\"> <\/th>\n<th style=\"display: flex;align-items: center;background: #e8e8e8;\">\n<img alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/cx8_t.png?v=1705655709\"> <br> <a style=\"\/*! color: #ed9727; *\/\" href=\"\/products\/total-balance-mens-premium\">CX8<\/a>\n<\/th>\n<th style=\"background: #e8e8e8;\/*! display: flex; *\/\/*! align-items: center; *\/\">\n<div class=\"flex\">\n<img alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/xq_t.png?v=1705655709\"><br><a href=\"\/products\/total-balance-mens\">Xtend-Quinol<\/a>\n<\/div>\n<\/th>\n<th style=\"background: #e8e8e8;\/*! display: flex; *\/\/*! align-items: center; *\/\">\n<div class=\"flex\">\n<img alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/vasq_t.png?v=1705655709\"><br><a href=\"\/products\/total-balance-mens\">VasQFlow<\/a>\n<\/div>\n<\/th>\n<th style=\"background: #e8e8e8;\/*! display: flex; *\/\/*! align-items: center; *\/\">\n<div class=\"flex\">\n<img alt=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/ggpure_t.png?v=1705655709\"><br><a href=\"\/products\/total-balance-mens\">GG Pure<\/a>\n<\/div>\n<\/th>\n\n\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<th>Prevent Calcification<\/th>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Blood Circulation<\/th>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Inflammation<\/th>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<div><\/div>\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<div><\/div>\n<\/td>\n\n\n<\/tr>\n<tr>\n<th>Statin Support<\/th>\n\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n<td>\n<svg width=\"33\" height=\"33\" viewbox=\"0 0 33 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12.6667 17.5L15.6667 20.5L20.6667 13.5M28.6667 16.5C28.6667 18.0759 28.3564 19.6363 27.7533 21.0922C27.1502 22.5481 26.2663 23.871 25.152 24.9853C24.0377 26.0996 22.7149 26.9835 21.2589 27.5866C19.803 28.1896 18.2426 28.5 16.6667 28.5C15.0909 28.5 13.5305 28.1896 12.0745 27.5866C10.6186 26.9835 9.29577 26.0996 8.18147 24.9853C7.06716 23.871 6.18325 22.5481 5.58019 21.0922C4.97714 19.6363 4.66675 18.0759 4.66675 16.5C4.66675 13.3174 5.93103 10.2652 8.18147 8.01472C10.4319 5.76428 13.4842 4.5 16.6667 4.5C19.8493 4.5 22.9016 5.76428 25.152 8.01472C27.4025 10.2652 28.6667 13.3174 28.6667 16.5Z\" stroke=\"#005895\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<\/td>\n<td>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n<svg width=\"32\" height=\"33\" viewbox=\"0 0 32 33\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M12 17.5L15 20.5L20 13.5M28 16.5C28 18.0759 27.6896 19.6363 27.0866 21.0922C26.4835 22.5481 25.5996 23.871 24.4853 24.9853C23.371 26.0996 22.0481 26.9835 20.5922 27.5866C19.1363 28.1896 17.5759 28.5 16 28.5C14.4241 28.5 12.8637 28.1896 11.4078 27.5866C9.95189 26.9835 8.62902 26.0996 7.51472 24.9853C6.40042 23.871 5.5165 22.5481 4.91345 21.0922C4.31039 19.6363 4 18.0759 4 16.5C4 13.3174 5.26428 10.2652 7.51472 8.01472C9.76516 5.76428 12.8174 4.5 16 4.5C19.1826 4.5 22.2348 5.76428 24.4853 8.01472C26.7357 10.2652 28 13.3174 28 16.5Z\" stroke=\"#00A9D5\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><\/path>\n<\/svg>\n\n<\/td>\n\n\n<\/tr>\n\n\n<tr>\n<th>Dosage Per Day<\/th>\n<td style=\"color: #005895;\">3<\/td>\n<td style=\"color: #005895;\">1-2<\/td>\n<td style=\"color: #005895;\">3<\/td>\n<td style=\"color: #005895;\">1<\/td>\n\n\n<\/tr>\n<tr>\n<th>Price (30 Day Supply)<\/th>\n<td style=\"font-weight: bold;\">$69.95<\/td>\n<td style=\"font-weight: bold;\">$49.95<\/td>\n<td style=\"font-weight: bold;\">$44.95<\/td>\n<td style=\"font-weight: bold;\">$44.95<\/td>\n<\/tr>\n<tr>\n<th style=\"border: none;\"><\/th>\n\n<td style=\"border: none;padding: 0 20px;\"><a href=\"#productbundle-shop\" class=\"productbundle-shop\" style=\"background: #005895;\">SHOP Now<\/a><\/td>\n<td style=\"border: none;padding: 0 20px;\"><a href=\"#productbundle-shop\" class=\"productbundle-shop\" style=\"background: #005895;\">SHOP Now<\/a><\/td>\n<td style=\"border: none;padding: 0 20px;\"><a href=\"#productbundle-shop\" class=\"productbundle-shop\" style=\"background: #005895;\">SHOP Now<\/a><\/td>\n<td style=\"border: none;padding: 0 20px;\"><a href=\"#productbundle-shop\" class=\"productbundle-shop\" style=\"background: #005895;\">SHOP Now<\/a><\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<\/div>",
+        "color_content": "#005895"
+      }
+    },
+    "ea613f27-e9e9-4978-8c44-cbb1c6e344f1": {
+      "type": "divider",
+      "settings": {
+        "divider": "20px",
+        "divider_bg": ""
+      }
+    },
+    "0d478b45-1b63-4d85-89aa-a5f5a6173afe": {
+      "type": "index__image-with-text-overlay",
+      "settings": {
+        "link": "",
+        "image": "shopify:\/\/shop_images\/365-Day_Desk_1900x324_151bc16a-d12b-4e64-935f-221bafae9950.png",
+        "mobile_image": "shopify:\/\/shop_images\/365-Day_MOB_385x284_9257ec54-7c2f-484b-83f2-210f9c69002b.png",
+        "pretext": "",
+        "title": "365 Day Good Health Guarantee",
+        "subtitle": "<p>If you don’t feel the benefits within two to three months we will give you a full refund, less the shipping costs, when you return your empty or unopened bottle within 365 days of purchase.<\/p>",
+        "pretext_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "subheading_color": "#ffffff",
+        "text_alignment": "center",
+        "text_horizontal_position": "center",
+        "text_vertical_position": "middle",
+        "background_color": "rgba(0,0,0,0)",
+        "background_opacity": 0,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 65,
+        "button_1": "Shop Heart Health",
+        "button_1_link": "",
+        "button_1_style": "button--secondary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--primary",
+        "mobile_image_crop": "none",
+        "mobile_text_below_image": true,
+        "pretext_color_mobile": "#005895",
+        "heading_color_mobile": "#005895",
+        "subheading_color_mobile": "#005895",
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "total-balanceimg",
+        "custom_css": ".total-balanceimg  p{\n font-size: 16px;\n}\n.image-with-text-overlay__buttons .button{\nflex: unset;\nborder-radius: 50px;\nbackground: #ffff;\ncolor: #005895;\nfont-size: 16px;\n}\n.title span::before {\n\tcontent: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Vector.png?v=1704106695\");\n\tpadding-right: 6px;\n}"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "df106696-6a19-47ea-8059-eba98c8cce09",
+    "260655bf-c6f9-46f2-ab05-c012222d061e",
+    "8ad0e01f-eb0a-4388-8b94-4891561bb545",
+    "80a3574c-c1a9-427f-b6d8-85c541cc48d3",
+    "859ff160-64b1-42bd-85f5-0a5724dd4b6d",
+    "3687b792-4840-4ce6-8af0-78166345545d",
+    "index_html_bUJziN",
+    "index_slideshow_with_text_6WTUgc",
+    "9195f01d-5a16-4307-a5ca-2fb9449e00e9",
+    "84ba12d8-3a94-45fd-8a83-68e27bed4380",
+    "672f2fab-f87a-4eb7-af8d-66ed5822741f",
+    "90b3291f-f763-4de7-846f-0e21035e9b83",
+    "94ac5d97-8692-40e5-8206-6becc0dd0ab7",
+    "df45e87f-be63-449f-a191-c5f3a6d4056f",
+    "6f1b1de3-6227-48c1-9c47-788564773215",
+    "index_image_with_text_HXVUD4",
+    "e4f77ff6-0199-4c9b-97d0-eb9cde8b77db",
+    "ea613f27-e9e9-4978-8c44-cbb1c6e344f1",
+    "0d478b45-1b63-4d85-89aa-a5f5a6173afe"
+  ]
+}

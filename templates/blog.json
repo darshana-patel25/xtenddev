@@ -1,0 +1,157 @@
+{
+  "sections": {
+    "d71ff204-9268-4e1f-9fef-8042ce7b998e": {
+      "type": "collection__breadcrumb",
+      "settings": {
+        "width": "standard",
+        "padding_top": 3,
+        "padding_bottom": 3,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ae6547c3-d339-4a52-b5d3-ef622920c7f5": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14457906692214__ae6547c3-d339-4a52-b5d3-ef622920c7f5-16793819271845270d-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Health-Articles.png",
+            "tablet_image": "shopify:\/\/shop_images\/Health-Articles-iPad.png",
+            "mobile_image": "shopify:\/\/shop_images\/Health-Articles-Mob.png",
+            "pretext_tag": "",
+            "pretext_custom_html": "",
+            "title": "Blog",
+            "pretext": "",
+            "subtitle": "",
+            "pretag_color": "#ffffff",
+            "pretag_backcolor": "#ffffff",
+            "pretext_color": "#ffffff",
+            "heading_color": "#ffffff",
+            "subheading_color": "#ffffff",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "40",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_1_color": "#36659c",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "button_2_color": "#00a9d5",
+            "popup_trigger_button_1": "",
+            "popup_trigger_button_1_formid": "",
+            "popup_trigger_button_1_style": "button--secondary",
+            "popup_trigger_button_1_color": "#36659c",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "#005895",
+            "heading_color_mobile": "#005895",
+            "subheading_color_mobile": "#005895"
+          }
+        }
+      },
+      "block_order": [
+        "template--14457906692214__ae6547c3-d339-4a52-b5d3-ef622920c7f5-16793819271845270d-0"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": true,
+        "show_nav_buttons": true,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "height": "",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "banner": {
+      "type": "banner",
+      "disabled": true,
+      "settings": {
+        "image_darken": false,
+        "subtitle": "",
+        "width": "standard",
+        "banner_height": "medium",
+        "padding_top": 25,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "blog__main",
+      "blocks": {
+        "ec20b41b-215b-4f59-8da8-8fa45f28200b": {
+          "type": "html",
+          "disabled": true,
+          "settings": {
+            "html_content": "<a href=\"\/collections\/heart-health-series-2\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/2487\/5358\/files\/Blog-Navigation-Banner.png?v=1683874062\"><\/a>"
+          }
+        },
+        "1e830804-ee18-4953-a018-f50c0f38a6e4": {
+          "type": "menu",
+          "settings": {
+            "menu": "blog-categories"
+          }
+        },
+        "newsletter_JQQHen": {
+          "type": "newsletter",
+          "settings": {
+            "newsletter_title": "Stay Connected",
+            "newsletter_richtext": "<p>Subscribe to our newsletter and  get the latest wellness tips, exclusive deals, and news from Xtendlife delivered straight to your inbox.<\/p>",
+            "display_first_name": false,
+            "display_last_name": false
+          }
+        }
+      },
+      "block_order": [
+        "ec20b41b-215b-4f59-8da8-8fa45f28200b",
+        "1e830804-ee18-4953-a018-f50c0f38a6e4",
+        "newsletter_JQQHen"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 767px) {.blog-main {padding-top: 0 !important; }}"
+      ],
+      "settings": {
+        "blog_title": "",
+        "blog_tags": false,
+        "blog_posts_per_row": 3,
+        "blog_posts_per_page": 12,
+        "pagination_type": "load_more",
+        "show_sidebar": true,
+        "sidebar_position": "right",
+        "blog_author": false,
+        "blog_date": false,
+        "read_time": false,
+        "blog_comment_count": false,
+        "blog_show_tags": false,
+        "blog_show_excerpt": true,
+        "show_border": true,
+        "button_label": "Read more",
+        "button_type": "none",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "d71ff204-9268-4e1f-9fef-8042ce7b998e",
+    "ae6547c3-d339-4a52-b5d3-ef622920c7f5",
+    "banner",
+    "main"
+  ]
+}

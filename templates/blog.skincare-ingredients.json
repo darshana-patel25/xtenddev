@@ -1,0 +1,67 @@
+{
+  "sections": {
+    "cd052cee-71d0-45f5-8153-d626cf3d7147": {
+      "type": "index__slideshow-classic",
+      "blocks": {
+        "template--14709940158551__cd052cee-71d0-45f5-8153-d626cf3d7147-1667476528d4e5f543-0": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "image": "shopify:\/\/shop_images\/Our-Ingredients_a3a6d77e-c483-4ea5-9a0d-62b7461a62b8.png",
+            "tablet_image": "shopify:\/\/shop_images\/Our-Ingredients-Ipad-Tablet-768x475_ee560204-b0b7-4ea0-a09a-31dd1920d515.png",
+            "mobile_image": "shopify:\/\/shop_images\/Our-Ingredients-560-x-560_6b137ed8-bb7f-4e81-9c83-5f3bd9dc3853.png",
+            "pretext": "<p>Using science to get the most out of nature...<\/p>",
+            "title": "Skincare Ingredients",
+            "subtitle": "",
+            "pretext_color": "#1b3281",
+            "heading_color": "#1b3281",
+            "subheading_color": "#1b3281",
+            "text_alignment": "left",
+            "text_horizontal_position": "left",
+            "background_color": "#ffffff",
+            "background_opacity": 0,
+            "border_color": "#ffffff",
+            "border_width": 0,
+            "text_width": "60",
+            "button_1": "",
+            "button_1_link": "",
+            "button_1_style": "button--secondary",
+            "button_2": "",
+            "button_2_link": "",
+            "button_2_style": "button--secondary",
+            "mobile_image_crop": "none",
+            "pretext_color_mobile": "rgba(0,0,0,0)",
+            "heading_color_mobile": "rgba(0,0,0,0)",
+            "subheading_color_mobile": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--14709940158551__cd052cee-71d0-45f5-8153-d626cf3d7147-1667476528d4e5f543-0"
+      ],
+      "settings": {
+        "image_transition": "slide",
+        "image_slideshow_speed": 8,
+        "show_arrows": false,
+        "show_nav_buttons": false,
+        "mobile_text_below_image": true,
+        "width": "wide",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "supplement__main",
+      "settings": {
+        "supplement_intro": "<p>At Xtend-Life, we ensure that only the best goes into our quality skincare. No expense is spared in the sourcing of raw ingredients, and each is carefully selected for maximum skin benefits while keeping in line with our skincare philosophy. We then optimize these ingredients by blending them with complimentary ingredients to ensure optimal synergy within the formulations.<\/p><p>Find out the important roles each ingredient plays in Xtend-Life formulations. Use this section to learn more about individual ingredients: their many benefits, ingredient origins and the Xtend-Life products they feature in. All ingredients are listed alphabetically, simply click on an ingredient to learn more.<\/p>"
+      }
+    }
+  },
+  "order": [
+    "cd052cee-71d0-45f5-8153-d626cf3d7147",
+    "main"
+  ]
+}

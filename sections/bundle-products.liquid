@@ -1,0 +1,215 @@
+<link rel="preload" href="{{ 'slick.css' | asset_url }}" as="style">
+
+<link rel="preload" href="{{ 'product-selector-tab.css' | asset_url }}" as="style">
+
+<link rel="stylesheet" href="{{ 'product-selector-tab.css' | asset_url }}">
+<style>
+  #shopify-section-{{ section.id }} {
+    background: {{ section.settings.background_bg }};
+  }
+  .js-tabbed-content {
+	display: none;
+}
+  .js-tabbed-content.content--active {
+	display: block;
+}
+   .interest .interest__tabs .tabs__nav .tabs__control {
+	padding: .8em 2.3em;
+	color: #005895;
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: .25px;
+	border: none;
+	border-radius: 50px;
+	font-family: Arimo-Bold;
+	text-transform: uppercase;
+	margin: 5px;
+}
+  .interest .interest__tabs .tabs__nav .tabs__control.control--active {
+	background-color: #005895;
+	color: #fff;
+	border: 2px solid #005895;
+}
+  .tabs__nav {
+	border: 2px solid #005895 !important;
+	border-radius: 50px;
+}
+  .tabs__nav li {
+	margin: 0;
+}
+  @media only screen and (max-width: 767px) {
+  .interest .interest__tabs .tabs__nav li {
+    display: inline-block;
+    width: 48.5%;
+    margin: unset;
+  }
+      .interest .interest__tabs .tabs__nav {
+    display: inline-flex;
+  }
+}
+  </style>
+<div class="bundle interest tabs js-tabbed block-{{section.id}}">
+  <div class="section">
+    <div class="bundle_header">
+      <h2>{{ section.settings.title }}</h2>
+    </div>
+    <div class="interest__tabs">
+      <ul class="tabs__nav">
+        <li><button class="tabs__control tabs__count-1 js-tabbed-control control--active" data-control-for="for_{{ section.settings.tab_1 | handleize }}">{{section.settings.tab_1}}</button></li>
+        <li><button class="tabs__control tabs__count-2 js-tabbed-control" data-control-for="for_{{ section.settings.tab_2 | handleize }}">{{section.settings.tab_2}}</button></li>
+      </ul>
+    </div>
+      <div class="tabs__container">
+         <div class="js-tabbed-content tab_cnt-1 content--active" data-content="for_{{ section.settings.tab_1 | handleize }}">
+    <div class="bundle_slider" data-slides-show="{{ section.settings.slide_number }}">
+      {% for block in section.blocks %}
+                {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_1 %}
+      {% if block.settings.image != blank %}
+      <div class="bundle_img">
+        <img src="{{ block.settings.image | img_url:"master"}}" alt="{{ block.settings.image.alt }}"/>
+        <div class="bundle_info">
+          <h3>{{ block.settings.title }}</h3>
+          <p>{{ block.settings.content }}</p>
+        </div>
+      </div>
+        {% else %}
+        {%- assign product = block.settings.featured_product -%}
+        <div class="bundle_img col-md-4">
+          {% render 'bundle_product-info',
+                  product: product,
+                  discount_offer: block.settings.title,
+                  content: block.settings.content
+            %}
+            </div>
+   {% endif %}
+            {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
+         </div>
+               <div class="js-tabbed-content tab_cnt-2" data-content="for_{{ section.settings.tab_2 | handleize }}">
+    <div class="bundle_slider" data-slides-show="{{ section.settings.slide_number }}">
+      {% for block in section.blocks %}
+                {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_2 %}
+      {% if block.settings.image != blank %}
+      <div class="bundle_img">
+        <img src="{{ block.settings.image | img_url:"master"}}" alt="{{ block.settings.image.alt }}"/>
+        <div class="bundle_info">
+          <h3>{{ block.settings.title }}</h3>
+          <p>{{ block.settings.content }}</p>
+        </div>
+      </div>
+        {% else %}
+        {%- assign product = block.settings.featured_product -%}
+        <div class="bundle_img col-md-4">
+          {% render 'bundle_product-info',
+                  product: product,
+                  discount_offer: block.settings.title,
+                  content: block.settings.content
+            %}
+            </div>
+   {% endif %}
+            {% endif %}
+      {% endif %}
+      {% endfor %}
+    </div>
+         </div>
+    </div>
+     <a class="bundle_tscs" href="{{ section.settings.bundle_tc_link }}">{{ section.settings.bundle_tc }}</a>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "Bundle Products",
+    "settings": [
+       {
+    	  "type": "color",
+    	  "id": "background_bg",
+    	  "label": "Background Color"
+    	},
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Heading"
+      },
+      {
+        "type": "text",
+        "id": "slide_number",
+        "label": "Slide show number",
+        "default": "3"
+      },
+      {
+      "type": "text",
+      "id": "tab_1",
+      "label": "Tab 1",
+      "default": "Standard"
+    },
+    {
+      "type": "text",
+      "id": "tab_2",
+      "label": "Tab 2",
+      "default": "Standard"
+    },
+      {
+        "type": "textarea",
+        "id": "bundle_tc",
+        "label": "Bundle terms and condition"
+      },
+      {
+        "type": "url",
+        "id": "bundle_tc_link",
+        "label": "Bundle terms and condition link"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "image",
+        "name": "Slide",
+        "settings": [
+          {
+            "type": "text",
+            "id": "standard_tab",
+            "label": "Heading",
+            "default": "Match tab title"
+          },
+          {
+            "type": "product",
+            "id": "featured_product",
+            "label": "Product"
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+           },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Discount Offer"
+          },
+          {
+            "type": "richtext",
+            "id": "content",
+            "label": "Text"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Bundle Product",
+        "category": "Image",
+        "settings": {
+        }
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

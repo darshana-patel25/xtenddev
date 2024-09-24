@@ -1,0 +1,462 @@
+<link rel="preload" href="{{ 'product-selector-tab.css' | asset_url }}" as="style">
+<link rel="stylesheet" href="{{ 'product-selector-tab.css' | asset_url }}">
+<!-- Buy It SEPERATELY  and RECOMMENDED ---->
+<style>
+  .section-{{section.id}} .quote_section-header h2 {
+    color:{{section.settings.color_title}};
+  }
+  {% if section.settings.custome_css != blank %}
+    {{ section.settings.custome_css }}
+  {% endif %}
+  .product-grid__item-rating .spr-badge-starrating .spr-icon{
+    color: {{settings.reivew_star_color}} !important;
+  }
+    #productbundle-shop {
+  	padding-top: 30px;
+  }
+
+  @media only screen and (min-width: 768px){
+  #productbundle-shop .product-grid__item.bg_color_premium_ {
+	display: flex;
+	flex-direction: column;
+    width: 100%;
+}
+  #productbundle-shop .product-grid__item-details {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+}
+  #productbundle-shop .interest .product-grid{
+    display: flex;
+}
+  #productbundle-shop .slick-list.draggable {
+	display: flex;
+}
+  #productbundle-shop .slick-track {
+	left: 0;
+	display: flex;
+}
+  }
+    @media only screen and (max-width: 767px){
+  .interest .interest__tabs .tabs__nav li {
+    width: 100%;
+  }
+  .tabs__control.js-tab-control {
+    margin-left: 0 !important;
+  }
+}
+  {% unless page.handle contains 'skincare' %}
+    .skincare-page .slick-arrow{
+	fill: #fff;
+	background: #005895;
+	padding: 12px 12px 9px;
+	border-radius: 50%;
+	z-index: 9;
+	height: auto;
+	width: auto;
+    }
+    .skincare-page .slick-arro {
+    	fill: #fff;
+    }
+    .skincare-page .slick-arrow::before{
+    	content: "";
+    }
+    .skincare-page .slick-arrow:hover{
+    	background: #005895;
+    }
+  {% endunless %}
+</style>
+<div id="productbundle-shop" class="section product-info-column section-{{section.id}} {{ section.settings.class_name }}">
+  {% if section.settings.header != blank %}
+    <div class="quote_section-header text-center">
+      <h2>{{section.settings.header}}</h2>
+    </div>
+  {% endif %}
+  <section class="interest tabs js-tabs">
+    <div class="interest__tabs">
+      <ul class="tabs__nav">
+        {% if section.settings.tab_1 != blank %}
+          <li><button class="tabs__control tabs__count-1 js-tab-control control--active" data-control-for="for_{{ section.settings.tab_1 | handleize }}">{{section.settings.tab_1}}</button></li>
+        {% endif %}
+        {% if section.settings.tab_2 != blank %}
+          <li><button class="tabs__control tabs__count-2 js-tab-control" data-control-for="for_{{ section.settings.tab_2 | handleize }}">{{section.settings.tab_2}}</button></li>
+        {% endif %}
+        {% if section.settings.tab_3 != blank %}
+          <li><button class="tabs__control tabs__count-3 js-tab-control" data-control-for="for_{{ section.settings.tab_3 | handleize }}">{{section.settings.tab_3}}</button></li>
+        {% endif %}
+      </ul>
+    </div>
+    <div class="interest__container">
+          <div class="tabs__content js-tab-content tab_cnt-1 content--active" data-content="for_{{ section.settings.tab_1 | handleize }}">
+<div class="skincare-page" data-slides-show="{{ section.settings.slide_number }}">                 
+ {% for block in section.blocks %}
+        {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_1 %}
+            
+               <div class="product-grid">
+              <div class="product-grid__item bg_color_premium_{{i}}">
+                <div class="pro_heading">{{block.settings[tab]}}</div>
+                {%- assign product = all_products[block.settings.pro_url] -%}
+                <a class="link_pro" href="{{ product.url }}" title="{{ product.title }}">  
+                <div class="product-grid__item-image">
+                    {% if block.settings.pro_img != blank %}
+                    <img src="{{ block.settings.pro_img | img_url:"grande"}}"/>
+                    {% elsif product != empty and block.settings[image] == blank %}
+                    <img src="{{ product.featured_image | img_url:"grande"}}"/>
+                    {% else %}
+                    {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                    {% endif %}
+                  
+                </div>
+                </a>
+                {% if page.handle contains 'skincare' %}
+                <div class="product-grid__item-details">
+                   <p class="first_wordtitle">{%- assign titleArray = product.title | split: " " -%} {{ titleArray[0] }} </p>
+                  <h3 class="product-grid__item-title">{{ product.title | remove_first: titleArray[0] }}  
+                  </h3>
+                  <div class="product-grid__item-desc">
+                    {{ block.settings.summery_text }}
+                  </div>
+         <div class="product-grid__item-price-sizing">
+                    <div class="product-grid__item-price">
+                      <div class="product-grid__item-sizing">
+                        {{  block.settings.option_text }}
+                      </div>
+                    <div class="price_selectoretab">
+                     {% if product.compare_at_price != blank %}<span class="price-compare"> was {{ product.compare_at_price | money }}</span>{% endif %}<div class="{% if product.compare_at_price != blank %}saleprice1 {% else %} tab_price {% endif %}">{{product.price | money }}</div> 
+                    </div>
+                    </div>
+                  </div>
+                </div>   
+                {% else %}
+                   <div class="product-grid__item-details">
+                  <h3 class="product-grid__item-title">{{product.title}}</h3>
+                  <div class="product-grid__item-price-sizing">
+                    <div class="product-grid__item-price">
+                      {%- if product.metafields.custom_fields.option_text != blank -%}
+                      <div class="product-grid__item-sizing">
+                        {{ product.metafields.custom_fields.option_text }}
+                      </div>
+                      {%- endif -%}
+                    <div class="price_selectoretab">
+                     <span class="price-compare">{{ product.compare_at_price | money }}</span><span class="{% if product.compare_at_price != blank %}saleprice {% else %} tab_price {% endif %}">{{product.price | money }}</span> 
+                    </div>
+                    </div>
+                  </div>
+                  <div class="product-grid__item-desc">
+                    {%- if product.metafields.custom_fields.product_summary_description != blank -%}
+                    {{ product.metafields.custom_fields.product_summary_description }}
+                    {%- endif -%}
+                  </div>
+                </div>
+                {% endif %}
+                {%- if product.variants.size > 1 -%}
+                  <a class="button btn--atc button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+                {%- else -%}
+                  <div class="add-details__buttons">
+                  <a class="button button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+                  </div>
+                {%- endif -%}
+              </div>   
+            </div>
+                 {% endif %}
+          {% endif %}
+      {% endfor %}  
+    </div>
+          </div>
+              <div class="tabs__content js-tab-content tab_cnt-2" data-content="for_{{ section.settings.tab_2 | handleize }}">
+                <div class="skincare-page" data-slides-show="{{ section.settings.slide_number }}">   
+                {% for block in section.blocks %}
+        {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_2 %}
+                           <div class="product-grid">
+              <!-- <div class="pro_heading">{{block.settings.tab }}</div> -->
+
+              <div class="product-grid__item bg_color_premium_{{i}}">
+                <div class="pro_heading">{{block.settings[tab]}}</div>
+                  {%- assign product = all_products[block.settings.pro_url] -%}
+                <a class="link_pro" href="{{ product.url }}" title="{{ product.title }}">  
+                <div class="product-grid__item-image">
+                    {% if block.settings.pro_img != blank %}
+                    <img src="{{ block.settings.pro_img | img_url:"grande"}}"/>
+                    {% elsif product != empty and block.settings[image] == blank %}
+                    <img src="{{ product.featured_image | img_url:"grande"}}"/>
+                    {% else %}
+                    {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                    {% endif %}
+                  
+                </div>
+                </a>
+                {% if page.handle contains 'skincare' %}
+                <div class="product-grid__item-details">
+                   <p class="first_wordtitle">{%- assign titleArray = product.title | split: " " -%} {{ titleArray[0] }} </p>
+                  <h3 class="product-grid__item-title">{{ product.title | remove_first: titleArray[0] }}  
+                  </h3>
+                  <div class="product-grid__item-desc">
+                    {{ block.settings.summery_text }}
+                  </div>
+         <div class="product-grid__item-price-sizing">
+                    <div class="product-grid__item-price">
+                      <div class="product-grid__item-sizing">
+                        {{  block.settings.option_text }}
+                      </div>
+                    <div class="price_selectoretab">
+                    {% if product.compare_at_price != blank %} <span class="price-compare"> was {{ product.compare_at_price | money }}</span>{% endif %}<div class="{% if product.compare_at_price != blank %}saleprice1 {% else %} tab_price {% endif %}">{{product.price | money }}</div> 
+                    </div>
+                    </div>
+                  </div>
+                </div>
+                                {% else %}
+                   <div class="product-grid__item-details">
+                  <h3 class="product-grid__item-title">{{product.title}}</h3>
+                  <div class="product-grid__item-price-sizing">
+                    <div class="product-grid__item-price">
+                      {%- if product.metafields.custom_fields.option_text != blank -%}
+                      <div class="product-grid__item-sizing">
+                        {{ product.metafields.custom_fields.option_text }}
+                      </div>
+                      {%- endif -%}
+                    <div class="price_selectoretab">
+                     <span class="price-compare">{{ product.compare_at_price | money }}</span><span class="{% if product.compare_at_price != blank %}saleprice {% else %} tab_price {% endif %}">{{product.price | money }}</span> 
+                    </div>
+                    </div>
+                  </div>
+                  <div class="product-grid__item-desc">
+                    {%- if product.metafields.custom_fields.product_summary_description != blank -%}
+                    {{ product.metafields.custom_fields.product_summary_description }}
+                    {%- endif -%}
+                  </div>
+                </div>
+                {% endif %}
+                {%- if product.variants.size > 1 -%}
+                  <a class="button btn--atc button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+                {%- else -%}
+                 <div class="add-details__buttons">
+                  <a class="button button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+                  </div>
+                {%- endif -%}
+              </div>   
+            </div>   
+            {% endif %}
+                    {% endif %}
+      {% endfor %}  
+                </div>
+          </div>
+              <div class="tabs__content js-tab-content tab_cnt-3" data-content="for_{{ section.settings.tab_3 | handleize }}">
+<div class="skincare-page" data-slides-show="{{ section.settings.slide_number }}">                    
+{% for block in section.blocks %}
+        {% if block.settings.standard_tab != blank %}
+          {% if block.settings.standard_tab == section.settings.tab_3 %}
+                           <div class="product-grid">
+              <!-- <div class="pro_heading">{{block.settings.tab }}</div> -->
+
+              <div class="product-grid__item bg_color_premium_{{i}}">
+                <div class="pro_heading">{{block.settings[tab]}}</div>
+                  {%- assign product = all_products[block.settings.pro_url] -%}
+                <a class="link_pro" href="{{ product.url }}" title="{{ product.title }}">  
+                <div class="product-grid__item-image">
+                    {% if block.settings.pro_img != blank %}
+                    <img src="{{ block.settings.pro_img | img_url:"grande"}}"/>
+                    {% elsif product != empty and block.settings[image] == blank %}
+                    <img src="{{ product.featured_image | img_url:"grande"}}"/>
+                    {% else %}
+                    {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg' }}
+                    {% endif %}
+                  
+                </div>
+                </a>
+                {% if page.handle contains 'skincare' %}
+                <div class="product-grid__item-details">
+                   <p class="first_wordtitle">{%- assign titleArray = product.title | split: " " -%} {{ titleArray[0] }} </p>
+                  <h3 class="product-grid__item-title">{{ product.title | remove_first: titleArray[0] }}  
+                  </h3>
+                  <div class="product-grid__item-desc">
+                    {{ block.settings.summery_text }}
+                  </div>
+                 <div class="product-grid__item-price-sizing">
+                    <div class="product-grid__item-price">
+                      <div class="product-grid__item-sizing">
+                        {{  block.settings.option_text }}
+                      </div>
+                    <div class="price_selectoretab">
+                     {% if product.compare_at_price != blank %}<span class="price-compare"> was {{ product.compare_at_price | money }}</span>{% endif %}<div class="{% if product.compare_at_price != blank %}saleprice1 {% else %} tab_price {% endif %}">{{product.price | money }}</div> 
+                    </div>
+                    </div>
+                  </div>
+                </div>
+                  {% else %}
+                   <div class="product-grid__item-details">
+                  <h3 class="product-grid__item-title">{{product.title}}</h3>
+                  <div class="product-grid__item-price-sizing">
+                    <div class="product-grid__item-price">
+                      {%- if product.metafields.custom_fields.option_text != blank -%}
+                      <div class="product-grid__item-sizing">
+                        {{ product.metafields.custom_fields.option_text }}
+                      </div>
+                      {%- endif -%}
+                    <div class="price_selectoretab">
+                     <span class="price-compare">{{ product.compare_at_price | money }}</span><span class="{% if product.compare_at_price != blank %}saleprice {% else %} tab_price {% endif %}">{{product.price | money }}</span> 
+                    </div>
+                    </div>
+                  </div>
+                  <div class="product-grid__item-desc">
+                    {%- if product.metafields.custom_fields.product_summary_description != blank -%}
+                    {{ product.metafields.custom_fields.product_summary_description }}
+                    {%- endif -%}
+                  </div>
+                </div>
+                {% endif %}
+                {%- if product.variants.size > 1 -%}
+                  <a class="button btn--atc button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+                {%- else -%}
+                  <div class="add-details__buttons">
+                    <a class="button button--add-to-cart" href="{{ product.url }}">Shop Now</a>
+                  </div>
+                {%- endif -%}
+              </div>   
+            </div>
+                  {% endif %}
+          {% endif %}
+      {% endfor %}  
+</div>
+          </div>
+    </div>
+  </section>
+</div>
+{% schema %}
+  {
+    "name": "Product Tab Slider",
+    "settings": [
+      {
+        "type": "color",
+        "id": "standard_tab_bg",
+        "label": "Button background",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "standard_tab_text",
+        "label": "Button text color",
+        "default": "#3f7cbf"
+      },
+      {
+        "type": "color",
+        "id": "standard_tab_border",
+        "label": "Button border color",
+        "default": "#3f7cbf"
+      },
+      {
+        "type": "color",
+        "id": "standard_tab_bg_active",
+        "label": "Active button background",
+        "default": "#1c5497"
+      },
+      {
+        "type": "color",
+        "id": "standard_tab_text_active",
+        "label": "Active button text color",
+        "default": "#ffffff"
+      },
+      {
+        "type": "color",
+        "id": "standard_tab_border_active",
+        "label": "Active Button border color",
+        "default": "#3f7cbf"
+      },
+      {
+        "type": "text",
+        "id": "header",
+        "label": "Header",
+        "default": "Foundational Health Products"
+      },
+      {
+        "type": "color",
+        "id": "color_title",
+        "label": "Title Color",
+        "default": "#4271a9"
+      },
+      {
+        "type": "text",
+        "id": "slide_number",
+        "label": "Slide show number",
+        "default": "4"
+      },
+      {
+        "type": "text",
+        "id": "tab_1",
+        "label": "Standard",
+        "default": "Tab 1"
+      },
+      {
+        "type": "text",
+        "id": "tab_2",
+        "label": "Standard",
+        "default": "Tab 2"
+      },
+      {
+        "type": "text",
+        "id": "tab_3",
+        "label": "Standard"
+      },
+      {
+        "type": "text",
+        "id": "class_name",
+        "label": "Custome Class"
+      },
+      {
+        "type": "textarea",
+        "id": "custome_css",
+        "label": "Custome CSS",
+        "info": "Please make sure to apply custom CSS based on the above class."
+      }
+    ],
+    "blocks": [
+      {
+        "type": "product",
+        "name": "Product content",
+        "settings": [
+          {
+            "type": "text",
+            "id": "standard_tab",
+            "label": "Heading",
+            "default": "Tab title"
+          },
+          {
+            "type": "product",
+            "id": "pro_url",
+            "label": "Choose Product"
+          },
+          {
+            "type": "image_picker",
+            "id": "pro_img",
+            "label": "Product Image"
+          },
+          {
+            "type": "text",
+            "id": "summery_text",
+            "label": "Summery Text",
+            "default": "Summery Text"
+          },
+          {
+            "type": "text",
+            "id": "option_text",
+            "label": "Option Text",
+            "default": "ml"
+          },
+        ]
+      }
+    ],
+    "presets": [
+      {
+      "category": "Product",
+      "name": "Product Tab Slider"
+      }
+    ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
