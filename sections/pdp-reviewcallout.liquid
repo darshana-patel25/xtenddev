@@ -16,7 +16,8 @@
 {% endif %}
 <style>
 .review_callout{
-  padding-top: 20px;
+  padding: 20px 0;
+  background: #E8E8EE88;
 }
  .rating .kl_reviews__summary.kl_reviews__summary.kl_reviews__summary h2,
 .rating .stars,
@@ -136,6 +137,9 @@
 }
 /* Responsive Design */
 @media (max-width: 768px) {
+  .kl_reviews__summary__average_and_stars{
+  margin: 0  auto;
+}
   .review-container {
       flex-direction: column;
       align-items: flex-start;
@@ -153,7 +157,7 @@
 {% schema %}
   {
     "name": "PDP Review Callout",
-  "class": "review_callout",
+  "class": "review_calloutnew",
   "settings": [
     {
       "type": "richtext",
